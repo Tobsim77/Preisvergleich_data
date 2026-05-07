@@ -1,0 +1,137 @@
+scraped_at,scrape_date,store_name,source_url,product_name,brand,current_price_raw,previous_price_raw,unit_price_raw,package_raw,discount_raw,promo_raw,current_price_eur,previous_price_eur,source_product_url,error_message
+2026-05-04T13:37:16+0200,2026-05-04,Billa,https://shop.billa.at/suche/obst,,,,,,,,,,,,"[38;5;251m[36mℹ[38;5;251m In argument: `brand = if (...) NULL`.[39m
+[1mCaused by error in `.data$brand`:[22m
+[38;5;251m[33m![38;5;251m Column `brand` not found in `.data`.[39m"
+2026-05-04T13:37:17+0200,2026-05-04,Hofer,https://www.hofer.at/de/suchergebnis/produkte.html?search=obst,SPITZ Obstschnaps,,"€ 9,99",,,"per Flasche (1 L = € 9,99 )",,,9.99,,,
+2026-05-04T13:37:17+0200,2026-05-04,Hofer,https://www.hofer.at/de/suchergebnis/produkte.html?search=obst,Obstpflanze*,,"€ 9,99",,,per Stück,,,9.99,,,
+2026-05-04T13:37:17+0200,2026-05-04,Hofer,https://www.hofer.at/de/suchergebnis/produkte.html?search=obst,PRITEX Pheromonfallen Obstbaum,,"€ 4,99",,,per Stück,,,4.99,,,
+2026-05-04T13:37:17+0200,2026-05-04,Hofer,https://www.hofer.at/de/suchergebnis/produkte.html?search=obst,GARDENLINE Obst- und Gemüsedünger,,"€ 2,49",,,"per Stück (1 L = € 2,49 )",,,2.49,,,
+2026-05-04T13:37:17+0200,2026-05-04,Hofer,https://www.hofer.at/de/suchergebnis/produkte.html?search=obst,"MILSANI Fruchtjoghurt Quetschi, Mango",,"€ 0,69",,,"per Stück (1 per Kilogramm = € 6,90 )",,,0.69,,,
+2026-05-04T13:37:17+0200,2026-05-04,Hofer,https://www.hofer.at/de/suchergebnis/produkte.html?search=obst,"MILSANI Fruchtjoghurt Quetschi, Erdbeer-Banane",,"€ 0,69",,,"per Stück (1 per Kilogramm = € 6,90 )",,,0.69,,,
+2026-05-04T13:37:17+0200,2026-05-04,Hofer,https://www.hofer.at/de/suchergebnis/produkte.html?search=obst,"ZURÜCK ZUM URSPRUNG Österreichischer BIO-Apfelmus, ungezuckert",,"€ 1,59",,,"per Stück (1 per Kilogramm = € 4,54 )",,,1.59,,,
+2026-05-04T13:37:17+0200,2026-05-04,Hofer,https://www.hofer.at/de/suchergebnis/produkte.html?search=obst,ALL SEASONS Himbeeren,,"€ 3,99",,,"per Stück (1 per Kilogramm = € 7,98 )",,,3.99,,,
+2026-05-04T13:37:17+0200,2026-05-04,Hofer,https://www.hofer.at/de/suchergebnis/produkte.html?search=obst,GENUSS 100% AUS ÖSTERREICH Puten-Toastschicken,,"€ 2,49",,,"per Packung (100 per Gramm = € 1,66 )",,,2.49,,,
+2026-05-04T13:37:17+0200,2026-05-04,Hofer,https://www.hofer.at/de/suchergebnis/produkte.html?search=obst,"GOURMET FINEST CUISINE Birne, Rum Aroma",,"€ 2,49",,,"per Stück (1 kg Abtr.G. = € 7,55 )",,,2.49,,,
+2026-05-04T13:37:17+0200,2026-05-04,Hofer,https://www.hofer.at/de/suchergebnis/produkte.html?search=obst,"GOURMET FINEST CUISINE Birne, Vanille",,"€ 2,49",,,"per Stück (1 kg Abtr.G. = € 7,55 )",,,2.49,,,
+2026-05-04T13:37:17+0200,2026-05-04,Hofer,https://www.hofer.at/de/suchergebnis/produkte.html?search=obst,"GOURMET FINEST CUISINE Pfirsiche, Vanille",,"€ 2,49",,,"per Stück (1 kg Abtr.G. = € 7,55 )",,,2.49,,,
+2026-05-04T13:37:17+0200,2026-05-04,Hofer,https://www.hofer.at/de/suchergebnis/produkte.html?search=obst,"GOURMET FINEST CUISINE Pfirsiche, Zimt",,"€ 2,49",,,"per Stück (1 kg Abtr.G. = € 7,55 )",,,2.49,,,
+2026-05-04T13:37:17+0200,2026-05-04,Hofer,https://www.hofer.at/de/suchergebnis/produkte.html?search=obst,"SWEET VALLEY Fruchtsnack, Apfel/Banane/Erdbeere",,"€ 0,55",,,"per Stück (1 per Kilogramm = € 5,50 )",,,0.55,,,
+2026-05-04T13:37:17+0200,2026-05-04,Hofer,https://www.hofer.at/de/suchergebnis/produkte.html?search=obst,"SWEET VALLEY Fruchtsnack, Apfel/Birne",,"€ 0,55",,,"per Stück (1 per Kilogramm = € 5,50 )",,,0.55,,,
+2026-05-04T13:37:17+0200,2026-05-04,Hofer,https://www.hofer.at/de/suchergebnis/produkte.html?search=obst,"SWEET VALLEY Fruchtsnack, Apfel/Birne/Banane/Marille",,"€ 0,55",,,"per Stück (1 per Kilogramm = € 5,50 )",,,0.55,,,
+2026-05-04T13:37:17+0200,2026-05-04,Hofer,https://www.hofer.at/de/suchergebnis/produkte.html?search=obst,"NATURE'S GOLD Butter-Rahmgemüse, Butter",,"€ 1,27",,,"per Stück (1 per Kilogramm = € 3,18 )",,,1.27,,,
+2026-05-04T13:37:17+0200,2026-05-04,Hofer,https://www.hofer.at/de/suchergebnis/produkte.html?search=obst,"NATURE'S GOLD Butter-Rahmgemüse, Farmer Butter",,"€ 1,27",,,"per Stück (1 per Kilogramm = € 3,18 )",,,1.27,,,
+2026-05-04T13:37:17+0200,2026-05-04,Lidl,https://www.lidl.at/q/search?q=obst,Erdbeeren,FALSE,2.49,,Je 400 g (1 kg = 6.23),Je 400 g (1 kg = 6.23),-28%,,2.49,,https://www.lidl.at/p/erdbeeren/p10048493,
+2026-05-04T13:37:17+0200,2026-05-04,Lidl,https://www.lidl.at/q/search?q=obst,Cherrystrauchtomaten aus Österreich,FALSE,2.49,,Je 300 g (1 kg = 8.30),Je 300 g (1 kg = 8.30),-28%,,2.49,,https://www.lidl.at/p/cherrystrauchtomaten-aus-oesterreich/p10048494,
+2026-05-04T13:37:17+0200,2026-05-04,Lidl,https://www.lidl.at/q/search?q=obst,Mango vorgereift,FALSE,0.89,,Ab 2 Stk. je Stk.,Ab 2 Stk. je Stk.,1+1 gratis,,0.89,,https://www.lidl.at/p/mango-vorgereift/p10048495,
+2026-05-04T13:37:17+0200,2026-05-04,Lidl,https://www.lidl.at/q/search?q=obst,Bio Zitrone,FALSE,0.59,,Ab 3 Stk. je Stk.,Ab 3 Stk. je Stk.,2+1 gratis,,0.59,,https://www.lidl.at/p/bio-zitrone/p10048497,
+2026-05-04T13:37:17+0200,2026-05-04,Lidl,https://www.lidl.at/q/search?q=obst,Heidelbeeren,FALSE,1,,Je 125 g (1 kg = 8.-),Je 125 g (1 kg = 8.-),Aktion,,1,,https://www.lidl.at/p/heidelbeeren/p10048745,
+2026-05-04T13:37:17+0200,2026-05-04,Lidl,https://www.lidl.at/q/search?q=obst,Äpfel Pink Lady®,FALSE,2.49,,Je 1 kg,Je 1 kg,-24%,,2.49,,https://www.lidl.at/p/aepfel-pink-lady/p10048806,
+2026-05-04T13:37:17+0200,2026-05-04,Lidl,https://www.lidl.at/q/search?q=obst,Bio Zucchini,FALSE,0.99,,Je 500 g (1 kg = 1.98),Je 500 g (1 kg = 1.98),-50%,,0.99,,https://www.lidl.at/p/bio-zucchini/p10048807,
+2026-05-04T13:37:17+0200,2026-05-04,Lidl,https://www.lidl.at/q/search?q=obst,Bio Paprika Mix,FALSE,1.99,,Je 400 g (1 kg = 4.98),Je 400 g (1 kg = 4.98),-33%,,1.99,,https://www.lidl.at/p/bio-paprika-mix/p10048808,
+2026-05-04T13:37:17+0200,2026-05-04,Lidl,https://www.lidl.at/q/search?q=obst,ZESPRI® Kiwi gold,ZESPRI®,0.44,,Ab 4 Stk. je Stk.,Ab 4 Stk. je Stk.,2+2 gratis,,0.44,,https://www.lidl.at/p/zespri-kiwi-gold/p10048891,
+2026-05-04T13:37:17+0200,2026-05-04,Lidl,https://www.lidl.at/q/search?q=obst,Cocktailstrauchtomaten aus Österreich,FALSE,1.89,,Je 500 g (1 kg = 3.78),Je 500 g (1 kg = 3.78),-32%,,1.89,,https://www.lidl.at/p/cocktailstrauchtomaten-aus-oesterreich/p10048892,
+2026-05-04T13:37:17+0200,2026-05-04,Lidl,https://www.lidl.at/q/search?q=obst,Radieschen aus Österreich,FALSE,0.79,,Je Bund,Je Bund,-33%,,0.79,,https://www.lidl.at/p/radieschen-aus-oesterreich/p10048893,
+2026-05-04T13:37:17+0200,2026-05-04,Lidl,https://www.lidl.at/q/search?q=obst,Champignons weiß,FALSE,1.39,,Je 500 g (1 kg = 2.78),Je 500 g (1 kg = 2.78),-30%,,1.39,,https://www.lidl.at/p/champignons-weiss/p10048894,
+2026-05-04T13:37:17+0200,2026-05-04,Lidl,https://www.lidl.at/q/search?q=obst,DANONE Obstgarten,DANONE,0.64,,Ab 2 Stk. je 175 g (1 kg = 3.66),Ab 2 Stk. je 175 g (1 kg = 3.66),1+1 gratis,,0.64,,https://www.lidl.at/p/danone-obstgarten/p10048544,
+2026-05-04T13:37:17+0200,2026-05-04,Lidl,https://www.lidl.at/q/search?q=obst,FRESHONA Tiefkühlobst,FRESHONA,2.66,,Je 750 g (1 kg = 3.55),Je 750 g (1 kg = 3.55),-33%,,2.66,,https://www.lidl.at/p/freshona-tiefkuehlobst/p10048889,
+2026-05-04T13:37:17+0200,2026-05-04,Spar,https://www.interspar.at/shop/lebensmittel/obst-gemuese/c/F1/,,,,,,,,,,,,"[38;5;251m[36mℹ[38;5;251m In argument: `brand = if (...) NULL`.[39m
+[1mCaused by error in `.data$brand`:[22m
+[38;5;251m[33m![38;5;251m Column `brand` not found in `.data`.[39m"
+2026-05-04T13:37:19+0200,2026-05-04,MPreis,https://www.mpreis.at/search/obst,BIO Zitronen,,"1,99
+3,98€ /kg",,"3,98€ /kg",500g,,,1.99,,https://www.mpreis.at/shop/p/m-bio-bio-zitronen-500201,
+2026-05-04T13:37:19+0200,2026-05-04,MPreis,https://www.mpreis.at/search/obst,Bio Erdbeeren,,"2,99
+11,96€ /kg",,"11,96€ /kg",250g,,,2.99,,https://www.mpreis.at/shop/p/m-bio-bio-erdbeeren-526005,
+2026-05-04T13:37:19+0200,2026-05-04,MPreis,https://www.mpreis.at/search/obst,BIO Limetten Netz,,"1,99
+0,66€ /Stk",,"0,66€ /Stk",3STK,,,1.99,,https://www.mpreis.at/shop/p/m-bio-bio-limetten-netz-500214,
+2026-05-04T13:37:19+0200,2026-05-04,MPreis,https://www.mpreis.at/search/obst,BIO Avocados 2-Stück-Tasse,,"3,49
+1,75€ /Stk",,"1,75€ /Stk",2STK,,,3.49,,https://www.mpreis.at/shop/p/m-bio-bio-avocados-2-stueck-tasse-520117,
+2026-05-04T13:37:19+0200,2026-05-04,MPreis,https://www.mpreis.at/search/obst,BIO Wassermelonen,,"4,99
+4,99€ /Stk",,"4,99€ /Stk",1STK,,,4.99,,https://www.mpreis.at/shop/p/m-bio-bio-wassermelonen-526105,
+2026-05-04T13:37:19+0200,2026-05-04,MPreis,https://www.mpreis.at/search/obst,Trauben dunkel kernlos,,"3,29
+6,58€ /kg",,"6,58€ /kg",500g,,,3.29,,https://www.mpreis.at/shop/p/m-trauben-dunkel-kernlos-510006,
+2026-05-04T13:37:19+0200,2026-05-04,MPreis,https://www.mpreis.at/search/obst,Trauben hell kernlos,,"2,99
+5,98€ /kg",,"5,98€ /kg",500g,,,2.99,,https://www.mpreis.at/shop/p/m-trauben-hell-kernlos-510001,
+2026-05-04T13:37:19+0200,2026-05-04,MPreis,https://www.mpreis.at/search/obst,Trauben Mix kernlos,,"3,49
+6,98€ /kg",,"6,98€ /kg",500g,,,3.49,,https://www.mpreis.at/shop/p/m-trauben-mix-kernlos-510012,
+2026-05-04T13:37:19+0200,2026-05-04,MPreis,https://www.mpreis.at/search/obst,Orangen Netz,,"1,99
+1,99€ /kg",,"1,99€ /kg",1kg,,,1.99,,https://www.mpreis.at/shop/p/m-orangen-netz-500350,
+2026-05-04T13:37:19+0200,2026-05-04,MPreis,https://www.mpreis.at/search/obst,Äpfel,,"2,49
+Per kg",,Per kg,,,,2.49,,https://www.mpreis.at/shop/p/m-aepfel-503301,
+2026-05-04T13:37:19+0200,2026-05-04,MPreis,https://www.mpreis.at/search/obst,Zitronen Netz 500g,,"1,69
+3,38€ /kg",,"3,38€ /kg",500g,,,1.69,,https://www.mpreis.at/shop/p/m-zitronen-netz-500g-500200,
+2026-05-04T13:37:19+0200,2026-05-04,MPreis,https://www.mpreis.at/search/obst,Kiwi Grün,,"2,99
+0,75€ /Stk",,"0,75€ /Stk",4STK,,,2.99,,https://www.mpreis.at/shop/p/m-kiwi-gruen-520012,
+2026-05-04T13:37:19+0200,2026-05-04,MPreis,https://www.mpreis.at/search/obst,Obstschnaps 35% (Einweg),,"9,99
+9,99€ /l",,"9,99€ /l",1000ml,,,9.99,,https://www.mpreis.at/shop/p/spatzl-obstschnaps-35-107134,
+2026-05-04T13:37:19+0200,2026-05-04,MPreis,https://www.mpreis.at/search/obst,"Obstschnaps 38% 1,0 Liter (Einweg)",,"15,99
+15,99€ /l",,"15,99€ /l",1l,,,15.99,,https://www.mpreis.at/shop/p/dolomiti-obstschnaps-38-10-liter-815084,
+2026-05-04T13:37:19+0200,2026-05-04,MPreis,https://www.mpreis.at/search/obst,"Obst-Schnaps 35% 0,7 Liter (Einweg)",,"14,99
+21,41€ /l",,"21,41€ /l",700ml,,,14.99,,https://www.mpreis.at/shop/p/alpenherz-obst-schnaps-35-07-liter-112610,
+2026-05-04T13:37:19+0200,2026-05-04,MPreis,https://www.mpreis.at/search/obst,Obst Schnaps 35% (Einweg),,"17,99
+25,70€ /l",,"25,70€ /l",700ml,,,17.99,,https://www.mpreis.at/shop/p/die-tiroler-kraeuterdestillerie-obst-schnaps-35-800538,
+2026-05-04T13:37:19+0200,2026-05-04,MPreis,https://www.mpreis.at/search/obst,Original Tiroler Obst Schnaps 40% (Einweg),,"8,49
+42,45€ /l",,"42,45€ /l",200ml,,,8.49,,https://www.mpreis.at/shop/p/die-tiroler-kraeuterdestillerie-original-tiroler-obst-schnaps-40-820200,
+2026-05-04T13:37:19+0200,2026-05-04,MPreis,https://www.mpreis.at/search/obst,Tiroler Obst Schnaps (Einweg),,"20,99
+29,99€ /l",,"29,99€ /l",700ml,,,20.99,,https://www.mpreis.at/shop/p/die-tiroler-kraeuterdestillerie-tiroler-obst-schnaps-220001,
+2026-05-04T13:37:19+0200,2026-05-04,MPreis,https://www.mpreis.at/search/obst,Original Tiroler Obst-Schnaps (Einweg),,"10,99
+31,40€ /l",,"31,40€ /l",350ml,,,10.99,,https://www.mpreis.at/shop/p/die-tiroler-kraeuterdestillerie-original-tiroler-obst-schnaps-809820,
+2026-05-04T13:37:19+0200,2026-05-04,MPreis,https://www.mpreis.at/search/obst,Original Tiroler Obst-Schnaps (Einweg),,"15,49
+30,98€ /l",,"30,98€ /l",500ml,,,15.49,,https://www.mpreis.at/shop/p/tiroler-kraeuterdestillerie-original-tiroler-obst-schnaps-800541,
+2026-05-04T13:37:19+0200,2026-05-04,MPreis,https://www.mpreis.at/search/obst,Apfelmus,,"3,49
+4,99€ /kg",,"4,99€ /kg",700g,,,3.49,,https://www.mpreis.at/shop/p/efko-apfelmus-225353,
+2026-05-04T13:37:19+0200,2026-05-04,MPreis,https://www.mpreis.at/search/obst,Bio Apfelmus,,"1,79
+4,97€ /kg",,"4,97€ /kg",360g,,,1.79,,https://www.mpreis.at/shop/p/bio-vom-berg-bio-apfelmus-225355,
+2026-05-04T13:37:19+0200,2026-05-04,MPreis,https://www.mpreis.at/search/obst,Apfelmus pur ohne Zucker,,"2,39
+6,83€ /kg",,"6,83€ /kg",350g,,,2.39,,https://www.mpreis.at/shop/p/efko-apfelmus-pur-ohne-zucker-225343,
+2026-05-04T13:37:19+0200,2026-05-04,MPreis,https://www.mpreis.at/search/obst,Ananasscheiben in Saft 236 ml,,"1,79
+12,88€ /kg",,"12,88€ /kg",139g,,,1.79,,https://www.mpreis.at/shop/p/dole-ananasscheiben-in-saft-236-ml-223446,
+2026-05-04T13:37:19+0200,2026-05-04,MPreis,https://www.mpreis.at/search/obst,Kirschen ohne Stein,,"3,49
+18,37€ /kg",,"18,37€ /kg",190g,,,3.49,,https://www.mpreis.at/shop/p/efko-kirschen-ohne-stein-225381,
+2026-05-04T13:37:19+0200,2026-05-04,MPreis,https://www.mpreis.at/search/obst,Apfelmark,,"1,59
+2,24€ /kg",,"2,24€ /kg",710g,,,1.59,,https://www.mpreis.at/shop/p/jeden-tag-apfelmark-255342,
+2026-05-04T13:37:19+0200,2026-05-04,MPreis,https://www.mpreis.at/search/obst,Naturrein Wildpreiselbeeren fein herb,,"4,49
+11,23€ /kg",,"11,23€ /kg",400g,,,4.49,,https://www.mpreis.at/shop/p/darbo-naturrein-wildpreiselbeeren-fein-herb-261100,
+2026-05-04T13:37:19+0200,2026-05-04,MPreis,https://www.mpreis.at/search/obst,Ananas-Stücke leicht gezuckert,,"1,59
+4,68€ /kg",,"4,68€ /kg",340g,,,1.59,,https://www.mpreis.at/shop/p/jeden-tag-ananas-stuecke-leicht-gezuckert-223705,
+2026-05-04T13:37:19+0200,2026-05-04,MPreis,https://www.mpreis.at/search/obst,Ananasstücke in Saft 236 ml,,"1,79
+12,88€ /kg",,"12,88€ /kg",139g,,,1.79,,https://www.mpreis.at/shop/p/dole-ananasstuecke-in-saft-236-ml-223444,
+2026-05-04T13:37:19+0200,2026-05-04,MPreis,https://www.mpreis.at/search/obst,Ananasscheiben in Saft 580 ml,,"3,19
+9,38€ /kg",,"9,38€ /kg",340g,,,3.19,,https://www.mpreis.at/shop/p/dole-ananasscheiben-in-saft-580-ml-223447,
+2026-05-04T13:37:19+0200,2026-05-04,MPreis,https://www.mpreis.at/search/obst,Bio Apfelmark,,"1,59
+4,30€ /l",,"4,30€ /l",370ml,,,1.59,,https://www.mpreis.at/shop/p/jeden-tag-bio-bio-apfelmark-255341,
+2026-05-04T13:37:19+0200,2026-05-04,MPreis,https://www.mpreis.at/search/obst,Mandarin-Orangen leicht gezuckert,,"1,29
+7,37€ /kg",,"7,37€ /kg",175g,,,1.29,,https://www.mpreis.at/shop/p/jeden-tag-mandarin-orangen-leicht-gezuckert-223703,
+2026-05-04T13:37:19+0200,2026-05-04,MPreis,https://www.mpreis.at/search/obst,Williams Schnaps 35% (Einweg),,"19,99
+19,99€ /l",,"19,99€ /l",1000ml,,,19.99,,https://www.mpreis.at/shop/p/dolomiti-williams-schnaps-35-800764,
+2026-05-04T13:37:19+0200,2026-05-04,MPreis,https://www.mpreis.at/search/obst,Marillen-Edelbrand 40% (Einweg),,"15,99
+31,98€ /l",,"31,98€ /l",500ml,,,15.99,,https://www.mpreis.at/shop/p/dolomiti-marillen-edelbrand-40-800710,
+2026-05-04T13:37:19+0200,2026-05-04,MPreis,https://www.mpreis.at/search/obst,Korn 32% (Einweg),,"8,99
+8,99€ /l",,"8,99€ /l",1000ml,,,8.99,,https://www.mpreis.at/shop/p/spatzl-korn-32-122254,
+2026-05-04T13:37:19+0200,2026-05-04,MPreis,https://www.mpreis.at/search/obst,Edelbrand William-Birne 40% (Einweg),,"15,99
+31,98€ /l",,"31,98€ /l",500ml,,,15.99,,https://www.mpreis.at/shop/p/dolomiti-edelbrand-william-birne-40-800706,
+2026-05-04T13:37:19+0200,2026-05-04,MPreis,https://www.mpreis.at/search/obst,5 Stern (Einweg),,"Aktueller Preis 14,99 €, statt 19,99 €
+19,99
+14,99
+21,41€ /l",,"21,41€ /l",700ml,-25%,"19,99",14.99,,https://www.mpreis.at/shop/p/metaxa-5-stern-817834,
+2026-05-04T13:37:19+0200,2026-05-04,MPreis,https://www.mpreis.at/search/obst,Pfirsichhälften leicht gezuckert,,"1,99
+4,28€ /kg",,"4,28€ /kg",465g,,,1.99,,https://www.mpreis.at/shop/p/jeden-tag-pfirsichhaelften-leicht-gezuckert-223701,
+2026-05-04T13:37:19+0200,2026-05-04,MPreis,https://www.mpreis.at/search/obst,"Fruchtcocktail gezuckert 0,425 Liter",,"2,89
+11,56€ /kg",,"11,56€ /kg",250g,,,2.89,,https://www.mpreis.at/shop/p/beach-flower-fruchtcocktail-gezuckert-0425-liter-224943,
+2026-05-04T13:37:19+0200,2026-05-04,MPreis,https://www.mpreis.at/search/obst,"Marillen Schnaps 35% 1,0 Liter (Einweg)",,"19,99
+19,99€ /l",,"19,99€ /l",1000ml,,,19.99,,https://www.mpreis.at/shop/p/dolomiti-marillen-schnaps-35-10-liter-800763,
+2026-05-04T13:37:19+0200,2026-05-04,MPreis,https://www.mpreis.at/search/obst,Ananasstücke in Saft,,"3,19
+9,38€ /kg",,"9,38€ /kg",340g,,,3.19,,https://www.mpreis.at/shop/p/dole-ananasstuecke-in-saft-223445,
+2026-05-04T13:37:19+0200,2026-05-04,MPreis,https://www.mpreis.at/search/obst,Bio Apfelmus Birne,,"1,79
+4,97€ /kg",,"4,97€ /kg",360g,,,1.79,,https://www.mpreis.at/shop/p/bio-vom-berg-bio-apfelmus-birne-225408,
+2026-05-04T13:37:19+0200,2026-05-04,MPreis,https://www.mpreis.at/search/obst,Zirbengeist 40% (Einweg),,"15,99
+31,98€ /l",,"31,98€ /l",500ml,,,15.99,,https://www.mpreis.at/shop/p/dolomiti-zirbengeist-40-800924,
+2026-05-04T13:37:19+0200,2026-05-04,MPreis,https://www.mpreis.at/search/obst,Bio Apfelmus Mango,,"1,79
+4,97€ /kg",,"4,97€ /kg",360g,,,1.79,,https://www.mpreis.at/shop/p/bio-vom-berg-bio-apfelmus-mango-225406,
+2026-05-04T13:37:19+0200,2026-05-04,MPreis,https://www.mpreis.at/search/obst,Meisterspirituose 34% (Einweg),,"13,99
+13,99€ /l",,"13,99€ /l",1000ml,,,13.99,,https://www.mpreis.at/shop/p/scharlachberg-meisterspirituose-34-119001,
+2026-05-04T13:37:19+0200,2026-05-04,MPreis,https://www.mpreis.at/search/obst,"Williams-Birnen-Schnaps 35% 0,7 Liter (Einweg)",,"14,99
+21,41€ /l",,"21,41€ /l",700ml,,,14.99,,https://www.mpreis.at/shop/p/alpenherz-williams-birnen-schnaps-35-07-liter-112612,
+2026-05-04T13:37:19+0200,2026-05-04,MPreis,https://www.mpreis.at/search/obst,5-Fruchtcocktail,,"2,49
+4,98€ /kg",,"4,98€ /kg",500g,,,2.49,,https://www.mpreis.at/shop/p/jeden-tag-5-fruchtcocktail-223702,
+2026-05-04T13:37:19+0200,2026-05-04,MPreis,https://www.mpreis.at/search/obst,"Haselnussschnaps 35% 1,0 Liter (Einweg)",,"19,99
+19,99€ /l",,"19,99€ /l",1000ml,,,19.99,,https://www.mpreis.at/shop/p/dolomiti-haselnussschnaps-35-10-liter-815000,

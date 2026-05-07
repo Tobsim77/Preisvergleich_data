@@ -1,0 +1,18 @@
+Neueste Datei: data/raw/snapshot_20260507_075938.csv
+Rows: 675
+Cols: 26
+Report-Ordner: data/quality_reports/snapshot_20260507_075938
+Plot-PDF: data/quality_reports/snapshot_20260507_075938/plots_overview.pdf
+
+Top 5 Missing-Felder:
+  - category_name: 100.0%
+  - previous_price_eur: 99.6%
+  - brand: 98.5%
+  - discount_percent: 98.4%
+  - discount_text: 97.2%
+
+Rows pro Shop:
+  - MPreis: 563
+  - Hofer: 74
+  - Billa: 19
+  - Lidl: 19

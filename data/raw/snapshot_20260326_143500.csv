@@ -1,0 +1,2 @@
+scraped_at,scrape_date,store_name,food_group,search_term,preferred_brand,product_name,brand,current_price_eur,previous_price_eur,currency,unit_price_value_eur,unit_price_text,package_text,quantity_value,quantity_unit,has_discount,discount_percent,discount_text,promotion_type,promotion_condition,parser,search_url,source_product_url,notes
+2026-03-26T14:35:00+0100,2026-03-26,Spar,Milch,Vollmilch,Eigenmarke,,,,,EUR,,,,,,,,,,,spar,https://www.spar.at/produktwelt/noem-vollmilch-3-5-fett-laenger-frisch-p5529209,,SCRAPE_ERROR: Forbidden (HTTP 403).

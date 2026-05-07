@@ -1,0 +1,153 @@
+scraped_at,scrape_date,store_name,food_group,search_term,preferred_brand,product_name,brand,current_price_eur,previous_price_eur,currency,unit_price_value_eur,unit_price_text,package_text,quantity_value,quantity_unit,has_discount,discount_percent,discount_text,promotion_type,promotion_condition,parser,search_url,source_product_url,notes
+2026-05-04T10:41:44+0200,2026-05-04,Billa,Aepfel,Aepfel,Eigenmarke,,,,,EUR,,,,,,,,,,,billa,https://shop.billa.at/produkte/ja-natuerlich-apfel-tasse-rot-00431081,,"SCRAPE_ERROR: Could not resolve hostname [shop.billa.at]:
+Could not resolve host: shop.billa.at"
+2026-05-04T10:41:45+0200,2026-05-04,Billa,Bananen,Bananen,Eigenmarke,,,,,EUR,,,,,,,,,,,billa,https://shop.billa.at/produkte/ja-natuerlich-bananen-00402489,,"SCRAPE_ERROR: Could not resolve hostname [shop.billa.at]:
+Could not resolve host: shop.billa.at"
+2026-05-04T10:41:46+0200,2026-05-04,Billa,Brot,Toastbrot,Eigenmarke,,,,,EUR,,,,,,,,,,,billa,https://shop.billa.at/produkte/ja-natuerlich-hausbrot-00890961,,"SCRAPE_ERROR: Could not resolve hostname [shop.billa.at]:
+Could not resolve host: shop.billa.at"
+2026-05-04T10:41:47+0200,2026-05-04,Billa,Butter,Teebutter,Eigenmarke,,,,,EUR,,,,,,,,,,,billa,https://shop.billa.at/produkte/ja-natuerlich-butter-00827690,,"SCRAPE_ERROR: Could not resolve hostname [shop.billa.at]:
+Could not resolve host: shop.billa.at"
+2026-05-04T10:41:49+0200,2026-05-04,Billa,Eier,Eier,Eigenmarke,,,,,EUR,,,,,,,,,,,billa,https://shop.billa.at/produkte/ja-natuerlich-bio-eier-m-00820829,,"SCRAPE_ERROR: Could not resolve hostname [shop.billa.at]:
+Could not resolve host: shop.billa.at"
+2026-05-04T10:41:50+0200,2026-05-04,Billa,Fisch,Raeucherlachs,Eigenmarke,,,,,EUR,,,,,,,,,,,billa,https://shop.billa.at/produkte/billa-bio-raeucherlachs-00443218,,"SCRAPE_ERROR: Could not resolve hostname [shop.billa.at]:
+Could not resolve host: shop.billa.at"
+2026-05-04T10:41:51+0200,2026-05-04,Billa,Fleisch,Faschiertes gemischt,Eigenmarke,,,,,EUR,,,,,,,,,,,billa,https://shop.billa.at/produkte/ja-natuerlich-gemischtes-faschiertes-00763685,,"SCRAPE_ERROR: Could not resolve hostname [shop.billa.at]:
+Could not resolve host: shop.billa.at"
+2026-05-04T10:41:55+0200,2026-05-04,Billa,Haferflocken,Haferflocken,Eigenmarke,,,,,EUR,,,,,,,,,,,billa,https://https://shop.billa.at/produkte/ja-natuerlich-haferflocken-grob-00861637,,"SCRAPE_ERROR: Could not resolve hostname [https]:
+Could not resolve host: https"
+2026-05-04T10:41:56+0200,2026-05-04,Billa,Joghurt,Naturjoghurt,Eigenmarke,,,,,EUR,,,,,,,,,,,billa,https://shop.billa.at/produkte/ja-natuerlich-joghurt-natur-36-00503905,,"SCRAPE_ERROR: Could not resolve hostname [shop.billa.at]:
+Could not resolve host: shop.billa.at"
+2026-05-04T10:41:57+0200,2026-05-04,Billa,Kaese,Mozzarella,Eigenmarke,,,,,EUR,,,,,,,,,,,billa,https://shop.billa.at/produkte/ja-natuerlich-mozzarella-00946692,,"SCRAPE_ERROR: Could not resolve hostname [shop.billa.at]:
+Could not resolve host: shop.billa.at"
+2026-05-04T10:41:58+0200,2026-05-04,Billa,Kaffee,Kaffee Crema,Eigenmarke,,,,,EUR,,,,,,,,,,,billa,https://shop.billa.at/produkte/billa-bio-caffe-crema-00463751,,"SCRAPE_ERROR: Could not resolve hostname [shop.billa.at]:
+Could not resolve host: shop.billa.at"
+2026-05-04T10:41:59+0200,2026-05-04,Billa,Karotten,Karotten,Eigenmarke,,,,,EUR,,,,,,,,,,,billa,https://shop.billa.at/produkte/ja-natuerlich-karotten-00407681,,"SCRAPE_ERROR: Could not resolve hostname [shop.billa.at]:
+Could not resolve host: shop.billa.at"
+2026-05-04T10:42:00+0200,2026-05-04,Billa,Kartoffeln,Kartoffeln,Eigenmarke,,,,,EUR,,,,,,,,,,,billa,https://shop.billa.at/produkte/ja-natuerlich-beilagenerdaepfel-00521912,,"SCRAPE_ERROR: Could not resolve hostname [shop.billa.at]:
+Could not resolve host: shop.billa.at"
+2026-05-04T10:42:01+0200,2026-05-04,Billa,Mehl,Weizenmehl universal,Eigenmarke,,,,,EUR,,,,,,,,,,,billa,https://shop.billa.at/produkte/ja-natuerlich-weizenmehl-universal-00643074,,"SCRAPE_ERROR: Could not resolve hostname [shop.billa.at]:
+Could not resolve host: shop.billa.at"
+2026-05-04T10:42:02+0200,2026-05-04,Billa,Milch,Vollmilch,Eigenmarke,,,,,EUR,,,,,,,,,,,billa,https://shop.billa.at/produkte/ja-natuerlich-vollmilch-laenger-frisch-35-00651606,,"SCRAPE_ERROR: Could not resolve hostname [shop.billa.at]:
+Could not resolve host: shop.billa.at"
+2026-05-04T10:42:03+0200,2026-05-04,Billa,Nudeln,Spaghetti,Eigenmarke,,,,,EUR,,,,,,,,,,,billa,https://shop.billa.at/produkte/billa-bio-spaghetti-00443042,,"SCRAPE_ERROR: Could not resolve hostname [shop.billa.at]:
+Could not resolve host: shop.billa.at"
+2026-05-04T10:42:05+0200,2026-05-04,Billa,Reis,Langkornreis,Eigenmarke,,,,,EUR,,,,,,,,,,,billa,https://shop.billa.at/produkte/clever-langkornreis-00309662,,"SCRAPE_ERROR: Could not resolve hostname [shop.billa.at]:
+Could not resolve host: shop.billa.at"
+2026-05-04T10:42:06+0200,2026-05-04,Billa,Schokolade,Vollmilchschokolade,Eigenmarke,,,,,EUR,,,,,,,,,,,billa,https://shop.billa.at/produkte/clever-alpenvollmilch-schokolade-00769715,,"SCRAPE_ERROR: Could not resolve hostname [shop.billa.at]:
+Could not resolve host: shop.billa.at"
+2026-05-04T10:42:07+0200,2026-05-04,Billa,Zwiebeln,Zwiebeln,Eigenmarke,,,,,EUR,,,,,,,,,,,billa,https://shop.billa.at/produkte/ja-natuerlich-zwiebel-gelb-00410615,,"SCRAPE_ERROR: Could not resolve hostname [shop.billa.at]:
+Could not resolve host: shop.billa.at"
+2026-05-04T10:42:08+0200,2026-05-04,Hofer,Aepfel,Aepfel,Eigenmarke,,,,,EUR,,,,,,,,,,,hofer,https://www.hofer.at/de/suchergebnis/produkte.html?search=Aepfel,,"SCRAPE_ERROR: Could not resolve hostname [www.hofer.at]:
+Could not resolve host: www.hofer.at"
+2026-05-04T10:42:09+0200,2026-05-04,Hofer,Bananen,Bananen,Eigenmarke,,,,,EUR,,,,,,,,,,,hofer,https://www.hofer.at/de/suchergebnis/produkte.html?search=Bananen,,"SCRAPE_ERROR: Could not resolve hostname [www.hofer.at]:
+Could not resolve host: www.hofer.at"
+2026-05-04T10:42:10+0200,2026-05-04,Hofer,Brot,Toastbrot,Eigenmarke,,,,,EUR,,,,,,,,,,,hofer,https://www.hofer.at/de/p.happy-harvest-toastbrot.000000000000100778.html,,"SCRAPE_ERROR: Could not resolve hostname [www.hofer.at]:
+Could not resolve host: www.hofer.at"
+2026-05-04T10:42:12+0200,2026-05-04,Hofer,Butter,Teebutter,Eigenmarke,,,,,EUR,,,,,,,,,,,hofer,https://www.hofer.at/de/p.zurueck-zum-ursprung-buttervariation-streichzart.000000000110877002.html,,"SCRAPE_ERROR: Could not resolve hostname [www.hofer.at]:
+Could not resolve host: www.hofer.at"
+2026-05-04T10:42:13+0200,2026-05-04,Hofer,Eier,Eier,Eigenmarke,,,,,EUR,,,,,,,,,,,hofer,https://www.hofer.at/de/p.fair-hof-freilandeier-m-l.000000000000286196.html,,"SCRAPE_ERROR: Could not resolve hostname [www.hofer.at]:
+Could not resolve host: www.hofer.at"
+2026-05-04T10:42:14+0200,2026-05-04,Hofer,Fisch,Raeucherlachs,Eigenmarke,,,,,EUR,,,,,,,,,,,hofer,https://www.hofer.at/de/p.bio-raeucherlachs.000000000000634004.html,,"SCRAPE_ERROR: Could not resolve hostname [www.hofer.at]:
+Could not resolve host: www.hofer.at"
+2026-05-04T10:42:16+0200,2026-05-04,Hofer,Fleisch,Faschiertes gemischt,Eigenmarke,,,,,EUR,,,,,,,,,,,hofer,https://www.hofer.at/de/p.faschiertes-gemischt.000000000000538979.html,,"SCRAPE_ERROR: Could not resolve hostname [www.hofer.at]:
+Could not resolve host: www.hofer.at"
+2026-05-04T10:42:17+0200,2026-05-04,Hofer,Haferflocken,Haferflocken,Eigenmarke,,,,,EUR,,,,,,,,,,,hofer,https://www.hofer.at/de/p.happy-harvest-haferflocken-zart.000000000111434001.html,,"SCRAPE_ERROR: Could not resolve hostname [www.hofer.at]:
+Could not resolve host: www.hofer.at"
+2026-05-04T10:42:18+0200,2026-05-04,Hofer,Joghurt,Naturjoghurt,Eigenmarke,,,,,EUR,,,,,,,,,,,hofer,https://www.hofer.at/de/p.milfina-naturjoghurt--fett.000000000112360001.html,,"SCRAPE_ERROR: Could not resolve hostname [www.hofer.at]:
+Could not resolve host: www.hofer.at"
+2026-05-04T10:42:19+0200,2026-05-04,Hofer,Kaese,Mozzarella,Eigenmarke,,,,,EUR,,,,,,,,,,,hofer,https://www.hofer.at/de/p.zurueck-zum-ursprung-bio-bergbauern-mozzarella.000000000000106894.html,,"SCRAPE_ERROR: Could not resolve hostname [www.hofer.at]:
+Could not resolve host: www.hofer.at"
+2026-05-04T10:42:20+0200,2026-05-04,Hofer,Kaffee,Kaffee Crema,Eigenmarke,,,,,EUR,,,,,,,,,,,hofer,https://www.hofer.at/de/p.barissimo-crema-intenso.000000000000567058.html,,"SCRAPE_ERROR: Could not resolve hostname [www.hofer.at]:
+Could not resolve host: www.hofer.at"
+2026-05-04T10:42:21+0200,2026-05-04,Hofer,Karotten,Karotten,Eigenmarke,,,,,EUR,,,,,,,,,,,hofer,https://www.hofer.at/de/suchergebnis/produkte.html?search=Karotten,,"SCRAPE_ERROR: Could not resolve hostname [www.hofer.at]:
+Could not resolve host: www.hofer.at"
+2026-05-04T10:42:22+0200,2026-05-04,Hofer,Kartoffeln,Kartoffeln,Eigenmarke,,,,,EUR,,,,,,,,,,,hofer,https://www.hofer.at/de/suchergebnis/produkte.html?search=Kartoffeln,,"SCRAPE_ERROR: Could not resolve hostname [www.hofer.at]:
+Could not resolve host: www.hofer.at"
+2026-05-04T10:42:24+0200,2026-05-04,Hofer,Mehl,Weizenmehl universal,Eigenmarke,,,,,EUR,,,,,,,,,,,hofer,https://www.hofer.at/de/p.happy-harvest-weizenmehl-gemischt-universal.000000000101923002.html,,"SCRAPE_ERROR: Could not resolve hostname [www.hofer.at]:
+Could not resolve host: www.hofer.at"
+2026-05-04T10:42:25+0200,2026-05-04,Hofer,Milch,Vollmilch,Eigenmarke,,,,,EUR,,,,,,,,,,,hofer,https://www.hofer.at/de/p.zurueck-zum-ursprung-bio-bergbauern-laenger-frisch-vollmilch---fett.000000000000106885.html,,"SCRAPE_ERROR: Could not resolve hostname [www.hofer.at]:
+Could not resolve host: www.hofer.at"
+2026-05-04T10:42:26+0200,2026-05-04,Hofer,Nudeln,Spaghetti,Eigenmarke,,,,,EUR,,,,,,,,,,,hofer,https://www.hofer.at/de/p.barilla-spaghetti.000000000000108993.html,,"SCRAPE_ERROR: Could not resolve hostname [www.hofer.at]:
+Could not resolve host: www.hofer.at"
+2026-05-04T10:42:27+0200,2026-05-04,Hofer,Reis,Langkornreis,Eigenmarke,,,,,EUR,,,,,,,,,,,hofer,https://www.hofer.at/de/p.bon-ri-langkornreis.000000000000488808.html,,"SCRAPE_ERROR: Could not resolve hostname [www.hofer.at]:
+Could not resolve host: www.hofer.at"
+2026-05-04T10:42:28+0200,2026-05-04,Hofer,Schokolade,Vollmilchschokolade,Eigenmarke,,,,,EUR,,,,,,,,,,,hofer,https://www.hofer.at/de/p.moser-roth-bio-schokolade-vollmilchschokolade-haselnuss.000000000318236001.html,,"SCRAPE_ERROR: Could not resolve hostname [www.hofer.at]:
+Could not resolve host: www.hofer.at"
+2026-05-04T10:42:30+0200,2026-05-04,Hofer,Zwiebeln,Zwiebeln,Eigenmarke,,,,,EUR,,,,,,,,,,,hofer,https://www.hofer.at/de/suchergebnis/produkte.html?search=Zwiebeln,,"SCRAPE_ERROR: Could not resolve hostname [www.hofer.at]:
+Could not resolve host: www.hofer.at"
+2026-05-04T10:42:31+0200,2026-05-04,Lidl,Aepfel,Aepfel,Eigenmarke,,,,,EUR,,,,,,,,,,,lidl,https://www.lidl.at/p/aepfel-rot-aus-oesterreich/p10047420,,"SCRAPE_ERROR: Could not resolve hostname [www.lidl.at]:
+Could not resolve host: www.lidl.at"
+2026-05-04T10:42:32+0200,2026-05-04,Lidl,Bananen,Bananen,Eigenmarke,,,,,EUR,,,,,,,,,,,lidl,https://www.lidl.at/p/bananen/p10047876,,"SCRAPE_ERROR: Could not resolve hostname [www.lidl.at]:
+Could not resolve host: www.lidl.at"
+2026-05-04T10:42:33+0200,2026-05-04,Lidl,Brot,Toastbrot,Eigenmarke,,,,,EUR,,,,,,,,,,,lidl,https://www.lidl.at/p/oelz-butter-toast/p10041861,,"SCRAPE_ERROR: Could not resolve hostname [www.lidl.at]:
+Could not resolve host: www.lidl.at"
+2026-05-04T10:42:34+0200,2026-05-04,Lidl,Butter,Teebutter,Eigenmarke,,,,,EUR,,,,,,,,,,,lidl,https://www.lidl.at/p/schaerdinger-sommerbutter/p10046703,,"SCRAPE_ERROR: Could not resolve hostname [www.lidl.at]:
+Could not resolve host: www.lidl.at"
+2026-05-04T10:42:36+0200,2026-05-04,Lidl,Eier,Eier,Eigenmarke,,,,,EUR,,,,,,,,,,,lidl,https://www.lidl.at/p/weisse-eier-aus-bodenhaltung/p10047011,,"SCRAPE_ERROR: Could not resolve hostname [www.lidl.at]:
+Could not resolve host: www.lidl.at"
+2026-05-04T10:42:37+0200,2026-05-04,Lidl,Fisch,Raeucherlachs,Eigenmarke,,,,,EUR,,,,,,,,,,,lidl,https://www.lidl.at/p/deluxe-norwegischer-raeucherlachs-mit-pistazien/p10045802,,"SCRAPE_ERROR: Could not resolve hostname [www.lidl.at]:
+Could not resolve host: www.lidl.at"
+2026-05-04T10:42:38+0200,2026-05-04,Lidl,Fleisch,Faschiertes gemischt,Eigenmarke,,,,,EUR,,,,,,,,,,,lidl,https://www.lidl.at/p/frisches-faschiertes-gemischt/p10046926,,"SCRAPE_ERROR: Could not resolve hostname [www.lidl.at]:
+Could not resolve host: www.lidl.at"
+2026-05-04T10:42:40+0200,2026-05-04,Lidl,Haferflocken,Haferflocken,Eigenmarke,,,,,EUR,,,,,,,,,,,lidl,https://www.lidl.at/p/crownfield-haferflocken/p10043068,,"SCRAPE_ERROR: Could not resolve hostname [www.lidl.at]:
+Could not resolve host: www.lidl.at"
+2026-05-04T10:42:41+0200,2026-05-04,Lidl,Joghurt,Naturjoghurt,Eigenmarke,,,,,EUR,,,,,,,,,,,lidl,https://www.lidl.at/p/alpengut-naturjoghurt/p10047577,,"SCRAPE_ERROR: Could not resolve hostname [www.lidl.at]:
+Could not resolve host: www.lidl.at"
+2026-05-04T10:42:42+0200,2026-05-04,Lidl,Kaese,Mozzarella,Eigenmarke,,,,,EUR,,,,,,,,,,,lidl,https://www.lidl.at/p/alpengut-mozzarella-in-scheiben/p10047169,,"SCRAPE_ERROR: Could not resolve hostname [www.lidl.at]:
+Could not resolve host: www.lidl.at"
+2026-05-04T10:42:43+0200,2026-05-04,Lidl,Kaffee,Kaffee Crema,Eigenmarke,,,,,EUR,,,,,,,,,,,lidl,https://www.lidl.at/p/fairglobe-fairtrade-bio-caffe-crema/p10047589,,"SCRAPE_ERROR: Could not resolve hostname [www.lidl.at]:
+Could not resolve host: www.lidl.at"
+2026-05-04T10:42:45+0200,2026-05-04,Lidl,Karotten,Karotten,Eigenmarke,,,,,EUR,,,,,,,,,,,lidl,https://www.lidl.at/p/karotten-aus-oesterreich/p10046159,,"SCRAPE_ERROR: Could not resolve hostname [www.lidl.at]:
+Could not resolve host: www.lidl.at"
+2026-05-04T10:42:46+0200,2026-05-04,Lidl,Kartoffeln,Kartoffeln,Eigenmarke,,,,,EUR,,,,,,,,,,,lidl,https://www.lidl.at/p/speisekartoffeln-aus-oesterreich/p10047419,,"SCRAPE_ERROR: Could not resolve hostname [www.lidl.at]:
+Could not resolve host: www.lidl.at"
+2026-05-04T10:42:48+0200,2026-05-04,Lidl,Mehl,Weizenmehl universal,Eigenmarke,,,,,EUR,,,,,,,,,,,lidl,https://www.lidl.at/p/omas-backstube-weizenmehl/p10046129,,"SCRAPE_ERROR: Could not resolve hostname [www.lidl.at]:
+Could not resolve host: www.lidl.at"
+2026-05-04T10:42:49+0200,2026-05-04,Lidl,Milch,Vollmilch,Eigenmarke,,,,,EUR,,,,,,,,,,,lidl,https://www.lidl.at/p/alpengut-vollmilch-laenger-frisch/p10032274,,"SCRAPE_ERROR: Could not resolve hostname [www.lidl.at]:
+Could not resolve host: www.lidl.at"
+2026-05-04T10:42:50+0200,2026-05-04,Lidl,Nudeln,Spaghetti,Eigenmarke,,,,,EUR,,,,,,,,,,,lidl,https://www.lidl.at/p/combino-spaghetti-oder-penne-rigate/p10040600,,"SCRAPE_ERROR: Could not resolve hostname [www.lidl.at]:
+Could not resolve host: www.lidl.at"
+2026-05-04T10:42:51+0200,2026-05-04,Lidl,Reis,Langkornreis,Eigenmarke,,,,,EUR,,,,,,,,,,,lidl,https://www.lidl.at/p/ben-s-original-express-reis/p10046429,,"SCRAPE_ERROR: Could not resolve hostname [www.lidl.at]:
+Could not resolve host: www.lidl.at"
+2026-05-04T10:42:53+0200,2026-05-04,Lidl,Schokolade,Vollmilchschokolade,Eigenmarke,,,,,EUR,,,,,,,,,,,lidl,https://www.lidl.at/p/nostja-milchschokolade/p10038896,,"SCRAPE_ERROR: Could not resolve hostname [www.lidl.at]:
+Could not resolve host: www.lidl.at"
+2026-05-04T10:42:54+0200,2026-05-04,Lidl,Zwiebeln,Zwiebeln,Eigenmarke,,,,,EUR,,,,,,,,,,,lidl,https://www.lidl.at/p/zwiebeln-rot-aus-oesterreich/p10047749,,"SCRAPE_ERROR: Could not resolve hostname [www.lidl.at]:
+Could not resolve host: www.lidl.at"
+2026-05-04T10:42:55+0200,2026-05-04,MPreis,Aepfel,Aepfel,Eigenmarke,,,,,EUR,,,,,,,,,,,mpreis,https://www.mpreis.at/search/Aepfel,,"SCRAPE_ERROR: Could not resolve hostname [www.mpreis.at]:
+Could not resolve host: www.mpreis.at"
+2026-05-04T10:42:56+0200,2026-05-04,MPreis,Bananen,Bananen,Eigenmarke,,,,,EUR,,,,,,,,,,,mpreis,https://www.mpreis.at/search/Bananen,,"SCRAPE_ERROR: Could not resolve hostname [www.mpreis.at]:
+Could not resolve host: www.mpreis.at"
+2026-05-04T10:42:57+0200,2026-05-04,MPreis,Brot,Toastbrot,Eigenmarke,,,,,EUR,,,,,,,,,,,mpreis,https://www.mpreis.at/search/Toastbrot,,"SCRAPE_ERROR: Could not resolve hostname [www.mpreis.at]:
+Could not resolve host: www.mpreis.at"
+2026-05-04T10:42:58+0200,2026-05-04,MPreis,Butter,Teebutter,Eigenmarke,,,,,EUR,,,,,,,,,,,mpreis,https://www.mpreis.at/search/Teebutter,,"SCRAPE_ERROR: Could not resolve hostname [www.mpreis.at]:
+Could not resolve host: www.mpreis.at"
+2026-05-04T10:43:00+0200,2026-05-04,MPreis,Eier,Eier,Eigenmarke,,,,,EUR,,,,,,,,,,,mpreis,https://www.mpreis.at/search/Eier,,"SCRAPE_ERROR: Could not resolve hostname [www.mpreis.at]:
+Could not resolve host: www.mpreis.at"
+2026-05-04T10:43:01+0200,2026-05-04,MPreis,Fisch,Raeucherlachs,Eigenmarke,,,,,EUR,,,,,,,,,,,mpreis,https://www.mpreis.at/search/Raeucherlachs,,"SCRAPE_ERROR: Could not resolve hostname [www.mpreis.at]:
+Could not resolve host: www.mpreis.at"
+2026-05-04T10:43:02+0200,2026-05-04,MPreis,Fleisch,Faschiertes gemischt,Eigenmarke,,,,,EUR,,,,,,,,,,,mpreis,https://www.mpreis.at/search/Faschiertes%20gemischt,,"SCRAPE_ERROR: Could not resolve hostname [www.mpreis.at]:
+Could not resolve host: www.mpreis.at"
+2026-05-04T10:43:03+0200,2026-05-04,MPreis,Haferflocken,Haferflocken,Eigenmarke,,,,,EUR,,,,,,,,,,,mpreis,https://www.mpreis.at/search/Haferflocken,,"SCRAPE_ERROR: Could not resolve hostname [www.mpreis.at]:
+Could not resolve host: www.mpreis.at"
+2026-05-04T10:43:04+0200,2026-05-04,MPreis,Joghurt,Naturjoghurt,Eigenmarke,,,,,EUR,,,,,,,,,,,mpreis,https://www.mpreis.at/search/Naturjoghurt,,"SCRAPE_ERROR: Could not resolve hostname [www.mpreis.at]:
+Could not resolve host: www.mpreis.at"
+2026-05-04T10:43:05+0200,2026-05-04,MPreis,Kaese,Mozzarella,Eigenmarke,,,,,EUR,,,,,,,,,,,mpreis,https://www.mpreis.at/search/Mozzarella,,"SCRAPE_ERROR: Could not resolve hostname [www.mpreis.at]:
+Could not resolve host: www.mpreis.at"
+2026-05-04T10:43:06+0200,2026-05-04,MPreis,Kaffee,Kaffee Crema,Eigenmarke,,,,,EUR,,,,,,,,,,,mpreis,https://www.mpreis.at/search/Kaffee%20Crema,,"SCRAPE_ERROR: Could not resolve hostname [www.mpreis.at]:
+Could not resolve host: www.mpreis.at"
+2026-05-04T10:43:07+0200,2026-05-04,MPreis,Karotten,Karotten,Eigenmarke,,,,,EUR,,,,,,,,,,,mpreis,https://www.mpreis.at/search/Karotten,,"SCRAPE_ERROR: Could not resolve hostname [www.mpreis.at]:
+Could not resolve host: www.mpreis.at"
+2026-05-04T10:43:09+0200,2026-05-04,MPreis,Kartoffeln,Kartoffeln,Eigenmarke,,,,,EUR,,,,,,,,,,,mpreis,https://www.mpreis.at/search/Kartoffeln,,"SCRAPE_ERROR: Could not resolve hostname [www.mpreis.at]:
+Could not resolve host: www.mpreis.at"
+2026-05-04T10:43:10+0200,2026-05-04,MPreis,Mehl,Weizenmehl universal,Eigenmarke,,,,,EUR,,,,,,,,,,,mpreis,https://www.mpreis.at/search/Weizenmehl%20universal,,"SCRAPE_ERROR: Could not resolve hostname [www.mpreis.at]:
+Could not resolve host: www.mpreis.at"
+2026-05-04T10:43:11+0200,2026-05-04,MPreis,Milch,Vollmilch,Eigenmarke,,,,,EUR,,,,,,,,,,,mpreis,https://www.mpreis.at/search/Vollmilch,,"SCRAPE_ERROR: Could not resolve hostname [www.mpreis.at]:
+Could not resolve host: www.mpreis.at"
+2026-05-04T10:43:11+0200,2026-05-04,MPreis,Nudeln,Spaghetti,Eigenmarke,,,,,EUR,,,,,,,,,,,mpreis,https://www.mpreis.at/search/Spaghetti,,"SCRAPE_ERROR: Could not resolve hostname [www.mpreis.at]:
+Could not resolve host: www.mpreis.at"
+2026-05-04T10:43:13+0200,2026-05-04,MPreis,Reis,Langkornreis,Eigenmarke,,,,,EUR,,,,,,,,,,,mpreis,https://www.mpreis.at/search/Langkornreis,,"SCRAPE_ERROR: Could not resolve hostname [www.mpreis.at]:
+Could not resolve host: www.mpreis.at"
+2026-05-04T10:43:14+0200,2026-05-04,MPreis,Schokolade,Vollmilchschokolade,Eigenmarke,,,,,EUR,,,,,,,,,,,mpreis,https://www.mpreis.at/search/Vollmilchschokolade,,"SCRAPE_ERROR: Could not resolve hostname [www.mpreis.at]:
+Could not resolve host: www.mpreis.at"
+2026-05-04T10:43:15+0200,2026-05-04,MPreis,Zwiebeln,Zwiebeln,Eigenmarke,,,,,EUR,,,,,,,,,,,mpreis,https://www.mpreis.at/search/Zwiebeln,,"SCRAPE_ERROR: Could not resolve hostname [www.mpreis.at]:
+Could not resolve host: www.mpreis.at"

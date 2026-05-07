@@ -1,0 +1,2022 @@
+[
+  {
+    "store": "billa",
+    "id": "00-258074",
+    "name": "Clever Bananen",
+    "category": "00",
+    "price": 1.59,
+    "priceHistory": [
+      {
+        "date": "2026-04-12",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2026-04-10",
+        "price": 1.51,
+        "unitPrice": 1.51
+      },
+      {
+        "date": "2026-03-15",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2026-03-13",
+        "price": 1.51,
+        "unitPrice": 1.51
+      },
+      {
+        "date": "2026-01-08",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2025-03-04",
+        "price": 1.79,
+        "unitPrice": 1.79
+      },
+      {
+        "date": "2023-11-03",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2023-10-03",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2023-05-06",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2023-04-29",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2023-03-07",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2023-02-19",
+        "price": 1.79,
+        "unitPrice": 1.79
+      },
+      {
+        "date": "2023-01-03",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2023-01-01",
+        "price": 1.79,
+        "unitPrice": 1.79
+      },
+      {
+        "date": "2022-07-19",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2022-03-22",
+        "price": 1.39,
+        "unitPrice": 1.39
+      },
+      {
+        "date": "2022-02-01",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2022-01-02",
+        "price": 1.39,
+        "unitPrice": 1.39
+      },
+      {
+        "date": "2021-03-14",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2020-02-19",
+        "price": 1.39,
+        "unitPrice": 1.39
+      },
+      {
+        "date": "2020-01-09",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2020-01-02",
+        "price": 1,
+        "unitPrice": 1
+      },
+      {
+        "date": "2019-09-05",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2019-09-02",
+        "price": 0.88,
+        "unitPrice": 0.88
+      },
+      {
+        "date": "2019-08-07",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2019-03-07",
+        "price": 1.39,
+        "unitPrice": 1.39
+      },
+      {
+        "date": "2019-02-28",
+        "price": 1,
+        "unitPrice": 1
+      },
+      {
+        "date": "2019-01-17",
+        "price": 1.39,
+        "unitPrice": 1.39
+      },
+      {
+        "date": "2019-01-10",
+        "price": 1,
+        "unitPrice": 1
+      },
+      {
+        "date": "2019-01-09",
+        "price": 1.39,
+        "unitPrice": 1.39
+      }
+    ],
+    "isWeighted": true,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": false,
+    "available": true,
+    "url": "https://shop.billa.at/produkte/clever-bananen-00258074"
+  },
+  {
+    "store": "billa",
+    "id": "00-644014",
+    "name": "Clever Schokobananen",
+    "category": "64",
+    "price": 3.29,
+    "priceHistory": [
+      {
+        "date": "2023-04-22",
+        "price": 3.29,
+        "unitPrice": 5.483333333333333
+      },
+      {
+        "date": "2022-12-05",
+        "price": 2.99,
+        "unitPrice": 4.983333333333333
+      },
+      {
+        "date": "2022-09-01",
+        "price": 2.79,
+        "unitPrice": 4.65
+      },
+      {
+        "date": "2022-05-13",
+        "price": 2.59,
+        "unitPrice": 4.316666666666666
+      },
+      {
+        "date": "2021-11-27",
+        "price": 2.49,
+        "unitPrice": 4.15
+      },
+      {
+        "date": "2021-11-25",
+        "price": 1.87,
+        "unitPrice": 3.1166666666666667
+      },
+      {
+        "date": "2020-01-16",
+        "price": 2.49,
+        "unitPrice": 4.15
+      },
+      {
+        "date": "2020-01-02",
+        "price": 2.39,
+        "unitPrice": 3.9833333333333334
+      },
+      {
+        "date": "2019-10-24",
+        "price": 2.49,
+        "unitPrice": 4.15
+      },
+      {
+        "date": "2018-03-15",
+        "price": 2.39,
+        "unitPrice": 3.9833333333333334
+      },
+      {
+        "date": "2017-04-05",
+        "price": 2.38,
+        "unitPrice": 3.966666666666666
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 600,
+    "bio": false,
+    "available": false,
+    "url": "https://shop.billa.at/produkte/clever-schokobananen-00644014"
+  },
+  {
+    "store": "billa",
+    "id": "00-719354",
+    "name": "Clever Schokobananen Minis",
+    "category": "5D",
+    "price": 1.99,
+    "priceHistory": [
+      {
+        "date": "2026-04-12",
+        "price": 1.99,
+        "unitPrice": 9.950000000000001
+      },
+      {
+        "date": "2026-04-10",
+        "price": 1.89,
+        "unitPrice": 9.45
+      },
+      {
+        "date": "2026-03-15",
+        "price": 1.99,
+        "unitPrice": 9.950000000000001
+      },
+      {
+        "date": "2026-03-13",
+        "price": 1.89,
+        "unitPrice": 9.45
+      },
+      {
+        "date": "2025-12-04",
+        "price": 1.99,
+        "unitPrice": 9.950000000000001
+      },
+      {
+        "date": "2025-11-20",
+        "price": 1.69,
+        "unitPrice": 8.45
+      },
+      {
+        "date": "2025-07-24",
+        "price": 1.99,
+        "unitPrice": 9.950000000000001
+      },
+      {
+        "date": "2024-09-26",
+        "price": 1.49,
+        "unitPrice": 7.45
+      },
+      {
+        "date": "2023-12-19",
+        "price": 1.29,
+        "unitPrice": 6.45
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 200,
+    "bio": false,
+    "available": true,
+    "url": "https://shop.billa.at/produkte/clever-schokobananen-minis-00719354"
+  },
+  {
+    "store": "billa",
+    "id": "00-412776",
+    "name": "Ja! Natürlich Apfel-Bananenmus",
+    "category": "53",
+    "price": 1.79,
+    "priceHistory": [
+      {
+        "date": "2026-04-12",
+        "price": 1.79,
+        "unitPrice": 5.114285714285715
+      },
+      {
+        "date": "2026-04-10",
+        "price": 1.34,
+        "unitPrice": 3.828571428571429
+      },
+      {
+        "date": "2026-03-01",
+        "price": 1.79,
+        "unitPrice": 5.114285714285715
+      },
+      {
+        "date": "2026-02-27",
+        "price": 1.34,
+        "unitPrice": 3.828571428571429
+      },
+      {
+        "date": "2026-01-29",
+        "price": 1.59,
+        "unitPrice": 4.542857142857143
+      },
+      {
+        "date": "2025-09-15",
+        "price": 1.79,
+        "unitPrice": 5.114285714285715
+      },
+      {
+        "date": "2025-09-08",
+        "price": 1.34,
+        "unitPrice": 3.828571428571429
+      },
+      {
+        "date": "2025-08-11",
+        "price": 1.79,
+        "unitPrice": 5.114285714285715
+      },
+      {
+        "date": "2025-08-04",
+        "price": 1.34,
+        "unitPrice": 3.828571428571429
+      },
+      {
+        "date": "2025-08-03",
+        "price": 1.79,
+        "unitPrice": 5.114285714285715
+      },
+      {
+        "date": "2025-08-01",
+        "price": 1.34,
+        "unitPrice": 3.828571428571429
+      },
+      {
+        "date": "2025-07-07",
+        "price": 1.79,
+        "unitPrice": 5.114285714285715
+      },
+      {
+        "date": "2025-06-30",
+        "price": 1.34,
+        "unitPrice": 3.828571428571429
+      },
+      {
+        "date": "2025-05-11",
+        "price": 1.79,
+        "unitPrice": 5.114285714285715
+      },
+      {
+        "date": "2025-05-09",
+        "price": 1.34,
+        "unitPrice": 3.828571428571429
+      },
+      {
+        "date": "2025-04-21",
+        "price": 1.79,
+        "unitPrice": 5.114285714285715
+      },
+      {
+        "date": "2025-04-13",
+        "price": 1.34,
+        "unitPrice": 3.828571428571429
+      },
+      {
+        "date": "2025-03-03",
+        "price": 1.79,
+        "unitPrice": 5.114285714285715
+      },
+      {
+        "date": "2025-02-24",
+        "price": 1.34,
+        "unitPrice": 3.828571428571429
+      },
+      {
+        "date": "2025-01-05",
+        "price": 1.79,
+        "unitPrice": 5.114285714285715
+      },
+      {
+        "date": "2025-01-03",
+        "price": 1.34,
+        "unitPrice": 3.828571428571429
+      },
+      {
+        "date": "2024-12-13",
+        "price": 1.79,
+        "unitPrice": 5.114285714285715
+      },
+      {
+        "date": "2024-12-08",
+        "price": 1.34,
+        "unitPrice": 3.828571428571429
+      },
+      {
+        "date": "2024-11-03",
+        "price": 1.79,
+        "unitPrice": 5.114285714285715
+      },
+      {
+        "date": "2024-10-31",
+        "price": 1.34,
+        "unitPrice": 3.828571428571429
+      },
+      {
+        "date": "2024-10-22",
+        "price": 1.79,
+        "unitPrice": 5.114285714285715
+      },
+      {
+        "date": "2024-10-17",
+        "price": 1.34,
+        "unitPrice": 3.828571428571429
+      },
+      {
+        "date": "2024-09-09",
+        "price": 1.79,
+        "unitPrice": 5.114285714285715
+      },
+      {
+        "date": "2024-09-02",
+        "price": 1.34,
+        "unitPrice": 3.828571428571429
+      },
+      {
+        "date": "2024-08-12",
+        "price": 1.79,
+        "unitPrice": 5.114285714285715
+      },
+      {
+        "date": "2024-08-05",
+        "price": 1.34,
+        "unitPrice": 3.828571428571429
+      },
+      {
+        "date": "2024-07-05",
+        "price": 1.79,
+        "unitPrice": 5.114285714285715
+      },
+      {
+        "date": "2024-06-28",
+        "price": 1.34,
+        "unitPrice": 3.828571428571429
+      },
+      {
+        "date": "2024-06-14",
+        "price": 1.79,
+        "unitPrice": 5.114285714285715
+      },
+      {
+        "date": "2024-06-07",
+        "price": 1.34,
+        "unitPrice": 3.828571428571429
+      },
+      {
+        "date": "2024-04-28",
+        "price": 1.79,
+        "unitPrice": 5.114285714285715
+      },
+      {
+        "date": "2024-04-26",
+        "price": 1.34,
+        "unitPrice": 3.828571428571429
+      },
+      {
+        "date": "2024-02-24",
+        "price": 1.79,
+        "unitPrice": 5.114285714285715
+      },
+      {
+        "date": "2024-02-16",
+        "price": 1.34,
+        "unitPrice": 3.828571428571429
+      },
+      {
+        "date": "2024-01-12",
+        "price": 1.79,
+        "unitPrice": 5.114285714285715
+      },
+      {
+        "date": "2024-01-10",
+        "price": 1.34,
+        "unitPrice": 3.828571428571429
+      },
+      {
+        "date": "2024-01-06",
+        "price": 1.79,
+        "unitPrice": 5.114285714285715
+      },
+      {
+        "date": "2024-01-04",
+        "price": 1.34,
+        "unitPrice": 3.828571428571429
+      },
+      {
+        "date": "2023-12-15",
+        "price": 1.79,
+        "unitPrice": 5.114285714285715
+      },
+      {
+        "date": "2023-12-11",
+        "price": 1.34,
+        "unitPrice": 3.828571428571429
+      },
+      {
+        "date": "2023-11-19",
+        "price": 1.79,
+        "unitPrice": 5.114285714285715
+      },
+      {
+        "date": "2023-11-15",
+        "price": 1.34,
+        "unitPrice": 3.828571428571429
+      },
+      {
+        "date": "2023-10-05",
+        "price": 1.79,
+        "unitPrice": 5.114285714285715
+      },
+      {
+        "date": "2023-09-28",
+        "price": 1.34,
+        "unitPrice": 3.828571428571429
+      },
+      {
+        "date": "2023-08-27",
+        "price": 1.79,
+        "unitPrice": 5.114285714285715
+      },
+      {
+        "date": "2023-08-25",
+        "price": 1.34,
+        "unitPrice": 3.828571428571429
+      },
+      {
+        "date": "2023-07-19",
+        "price": 1.79,
+        "unitPrice": 5.114285714285715
+      },
+      {
+        "date": "2023-07-14",
+        "price": 1.34,
+        "unitPrice": 3.828571428571429
+      },
+      {
+        "date": "2023-06-11",
+        "price": 1.79,
+        "unitPrice": 5.114285714285715
+      },
+      {
+        "date": "2023-06-07",
+        "price": 1.34,
+        "unitPrice": 3.828571428571429
+      },
+      {
+        "date": "2023-02-07",
+        "price": 1.79,
+        "unitPrice": 5.114285714285715
+      },
+      {
+        "date": "2023-02-02",
+        "price": 1.34,
+        "unitPrice": 3.828571428571429
+      },
+      {
+        "date": "2023-01-08",
+        "price": 1.79,
+        "unitPrice": 5.114285714285715
+      },
+      {
+        "date": "2023-01-05",
+        "price": 1.34,
+        "unitPrice": 3.828571428571429
+      },
+      {
+        "date": "2022-12-23",
+        "price": 1.79,
+        "unitPrice": 5.114285714285715
+      },
+      {
+        "date": "2022-12-18",
+        "price": 1.69,
+        "unitPrice": 4.828571428571428
+      },
+      {
+        "date": "2022-12-16",
+        "price": 1.27,
+        "unitPrice": 3.6285714285714286
+      },
+      {
+        "date": "2022-11-06",
+        "price": 1.69,
+        "unitPrice": 4.828571428571428
+      },
+      {
+        "date": "2022-11-04",
+        "price": 1.27,
+        "unitPrice": 3.6285714285714286
+      },
+      {
+        "date": "2022-09-08",
+        "price": 1.69,
+        "unitPrice": 4.828571428571428
+      },
+      {
+        "date": "2022-09-05",
+        "price": 1.27,
+        "unitPrice": 3.6285714285714286
+      },
+      {
+        "date": "2022-07-14",
+        "price": 1.69,
+        "unitPrice": 4.828571428571428
+      },
+      {
+        "date": "2022-07-11",
+        "price": 1.27,
+        "unitPrice": 3.6285714285714286
+      },
+      {
+        "date": "2022-05-25",
+        "price": 1.69,
+        "unitPrice": 4.828571428571428
+      },
+      {
+        "date": "2022-05-23",
+        "price": 1.27,
+        "unitPrice": 3.6285714285714286
+      },
+      {
+        "date": "2022-01-09",
+        "price": 1.49,
+        "unitPrice": 4.257142857142857
+      },
+      {
+        "date": "2022-01-07",
+        "price": 1.12,
+        "unitPrice": 3.2
+      },
+      {
+        "date": "2021-02-04",
+        "price": 1.49,
+        "unitPrice": 4.257142857142857
+      },
+      {
+        "date": "2021-01-07",
+        "price": 1.29,
+        "unitPrice": 3.6857142857142855
+      },
+      {
+        "date": "2020-11-25",
+        "price": 1.49,
+        "unitPrice": 4.257142857142857
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 350,
+    "bio": true,
+    "available": true,
+    "url": "https://shop.billa.at/produkte/ja-natuerlich-apfelbananenmus-00412776"
+  },
+  {
+    "store": "billa",
+    "id": "00-402489",
+    "name": "Ja! Natürlich Bananen",
+    "category": "00",
+    "price": 2.29,
+    "priceHistory": [
+      {
+        "date": "2026-04-12",
+        "price": 2.29,
+        "unitPrice": 2.29
+      },
+      {
+        "date": "2026-04-10",
+        "price": 1.72,
+        "unitPrice": 1.72
+      },
+      {
+        "date": "2026-03-01",
+        "price": 2.29,
+        "unitPrice": 2.29
+      },
+      {
+        "date": "2026-02-27",
+        "price": 1.72,
+        "unitPrice": 1.72
+      },
+      {
+        "date": "2026-02-17",
+        "price": 2.29,
+        "unitPrice": 2.29
+      },
+      {
+        "date": "2026-01-04",
+        "price": 2.49,
+        "unitPrice": 2.49
+      },
+      {
+        "date": "2026-01-02",
+        "price": 1.87,
+        "unitPrice": 1.87
+      },
+      {
+        "date": "2025-09-15",
+        "price": 2.49,
+        "unitPrice": 2.49
+      },
+      {
+        "date": "2025-09-08",
+        "price": 1.87,
+        "unitPrice": 1.87
+      },
+      {
+        "date": "2025-08-11",
+        "price": 2.49,
+        "unitPrice": 2.49
+      },
+      {
+        "date": "2025-08-04",
+        "price": 1.87,
+        "unitPrice": 1.87
+      },
+      {
+        "date": "2025-08-03",
+        "price": 2.49,
+        "unitPrice": 2.49
+      },
+      {
+        "date": "2025-08-01",
+        "price": 1.87,
+        "unitPrice": 1.87
+      },
+      {
+        "date": "2025-07-27",
+        "price": 2.49,
+        "unitPrice": 2.49
+      },
+      {
+        "date": "2025-07-22",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2025-07-07",
+        "price": 2.49,
+        "unitPrice": 2.49
+      },
+      {
+        "date": "2025-06-30",
+        "price": 1.87,
+        "unitPrice": 1.87
+      },
+      {
+        "date": "2025-05-11",
+        "price": 2.49,
+        "unitPrice": 2.49
+      },
+      {
+        "date": "2025-05-09",
+        "price": 1.87,
+        "unitPrice": 1.87
+      },
+      {
+        "date": "2025-04-21",
+        "price": 2.49,
+        "unitPrice": 2.49
+      },
+      {
+        "date": "2025-04-13",
+        "price": 1.87,
+        "unitPrice": 1.87
+      },
+      {
+        "date": "2025-03-03",
+        "price": 2.49,
+        "unitPrice": 2.49
+      },
+      {
+        "date": "2025-02-24",
+        "price": 1.87,
+        "unitPrice": 1.87
+      },
+      {
+        "date": "2025-01-05",
+        "price": 2.49,
+        "unitPrice": 2.49
+      },
+      {
+        "date": "2025-01-03",
+        "price": 1.87,
+        "unitPrice": 1.87
+      },
+      {
+        "date": "2024-12-13",
+        "price": 2.49,
+        "unitPrice": 2.49
+      },
+      {
+        "date": "2024-12-08",
+        "price": 1.87,
+        "unitPrice": 1.87
+      },
+      {
+        "date": "2024-11-03",
+        "price": 2.49,
+        "unitPrice": 2.49
+      },
+      {
+        "date": "2024-11-01",
+        "price": 1.87,
+        "unitPrice": 1.87
+      },
+      {
+        "date": "2024-10-22",
+        "price": 2.49,
+        "unitPrice": 2.49
+      },
+      {
+        "date": "2024-10-17",
+        "price": 1.87,
+        "unitPrice": 1.87
+      },
+      {
+        "date": "2024-10-03",
+        "price": 2.49,
+        "unitPrice": 2.49
+      },
+      {
+        "date": "2024-09-26",
+        "price": 2.29,
+        "unitPrice": 2.29
+      },
+      {
+        "date": "2024-09-09",
+        "price": 2.49,
+        "unitPrice": 2.49
+      },
+      {
+        "date": "2024-09-02",
+        "price": 1.87,
+        "unitPrice": 1.87
+      },
+      {
+        "date": "2024-08-22",
+        "price": 2.49,
+        "unitPrice": 2.49
+      },
+      {
+        "date": "2024-08-14",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2024-08-12",
+        "price": 2.49,
+        "unitPrice": 2.49
+      },
+      {
+        "date": "2024-08-05",
+        "price": 1.87,
+        "unitPrice": 1.87
+      },
+      {
+        "date": "2024-08-01",
+        "price": 2.49,
+        "unitPrice": 2.49
+      },
+      {
+        "date": "2024-07-25",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2024-07-05",
+        "price": 2.49,
+        "unitPrice": 2.49
+      },
+      {
+        "date": "2024-06-28",
+        "price": 1.87,
+        "unitPrice": 1.87
+      },
+      {
+        "date": "2024-06-14",
+        "price": 2.49,
+        "unitPrice": 2.49
+      },
+      {
+        "date": "2024-06-07",
+        "price": 1.87,
+        "unitPrice": 1.87
+      },
+      {
+        "date": "2024-05-01",
+        "price": 2.49,
+        "unitPrice": 2.49
+      },
+      {
+        "date": "2024-04-28",
+        "price": 2.25,
+        "unitPrice": 2.25
+      },
+      {
+        "date": "2024-04-26",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2024-04-25",
+        "price": 2.25,
+        "unitPrice": 2.25
+      },
+      {
+        "date": "2024-03-21",
+        "price": 2.49,
+        "unitPrice": 2.49
+      },
+      {
+        "date": "2024-03-14",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2024-02-24",
+        "price": 2.49,
+        "unitPrice": 2.49
+      },
+      {
+        "date": "2024-02-16",
+        "price": 1.87,
+        "unitPrice": 1.87
+      },
+      {
+        "date": "2024-01-06",
+        "price": 2.49,
+        "unitPrice": 2.49
+      },
+      {
+        "date": "2024-01-04",
+        "price": 1.87,
+        "unitPrice": 1.87
+      },
+      {
+        "date": "2023-12-15",
+        "price": 2.49,
+        "unitPrice": 2.49
+      },
+      {
+        "date": "2023-12-11",
+        "price": 1.87,
+        "unitPrice": 1.87
+      },
+      {
+        "date": "2023-11-19",
+        "price": 2.49,
+        "unitPrice": 2.49
+      },
+      {
+        "date": "2023-11-15",
+        "price": 1.87,
+        "unitPrice": 1.87
+      },
+      {
+        "date": "2023-10-05",
+        "price": 2.49,
+        "unitPrice": 2.49
+      },
+      {
+        "date": "2023-09-28",
+        "price": 1.87,
+        "unitPrice": 1.87
+      },
+      {
+        "date": "2023-08-31",
+        "price": 2.49,
+        "unitPrice": 2.49
+      },
+      {
+        "date": "2023-08-27",
+        "price": 2.25,
+        "unitPrice": 2.25
+      },
+      {
+        "date": "2023-08-25",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2023-08-24",
+        "price": 2.25,
+        "unitPrice": 2.25
+      },
+      {
+        "date": "2023-08-03",
+        "price": 2.49,
+        "unitPrice": 2.49
+      },
+      {
+        "date": "2023-07-27",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2023-07-19",
+        "price": 2.49,
+        "unitPrice": 2.49
+      },
+      {
+        "date": "2023-07-14",
+        "price": 1.87,
+        "unitPrice": 1.87
+      },
+      {
+        "date": "2023-06-11",
+        "price": 2.49,
+        "unitPrice": 2.49
+      },
+      {
+        "date": "2023-06-07",
+        "price": 1.87,
+        "unitPrice": 1.87
+      },
+      {
+        "date": "2023-04-29",
+        "price": 2.49,
+        "unitPrice": 2.49
+      },
+      {
+        "date": "2023-04-22",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2023-02-07",
+        "price": 2.49,
+        "unitPrice": 2.49
+      },
+      {
+        "date": "2023-02-02",
+        "price": 1.87,
+        "unitPrice": 1.87
+      },
+      {
+        "date": "2023-01-08",
+        "price": 2.49,
+        "unitPrice": 2.49
+      },
+      {
+        "date": "2023-01-05",
+        "price": 1.87,
+        "unitPrice": 1.87
+      },
+      {
+        "date": "2023-01-01",
+        "price": 2.49,
+        "unitPrice": 2.49
+      },
+      {
+        "date": "2022-12-18",
+        "price": 2.19,
+        "unitPrice": 2.19
+      },
+      {
+        "date": "2022-12-16",
+        "price": 1.64,
+        "unitPrice": 1.64
+      },
+      {
+        "date": "2022-11-06",
+        "price": 2.19,
+        "unitPrice": 2.19
+      },
+      {
+        "date": "2022-11-04",
+        "price": 1.64,
+        "unitPrice": 1.64
+      },
+      {
+        "date": "2022-09-08",
+        "price": 2.19,
+        "unitPrice": 2.19
+      },
+      {
+        "date": "2022-09-05",
+        "price": 1.64,
+        "unitPrice": 1.64
+      },
+      {
+        "date": "2022-08-14",
+        "price": 2.19,
+        "unitPrice": 2.19
+      },
+      {
+        "date": "2022-08-12",
+        "price": 1.64,
+        "unitPrice": 1.64
+      },
+      {
+        "date": "2022-07-14",
+        "price": 2.19,
+        "unitPrice": 2.19
+      },
+      {
+        "date": "2022-07-11",
+        "price": 1.34,
+        "unitPrice": 1.34
+      },
+      {
+        "date": "2022-07-07",
+        "price": 1.79,
+        "unitPrice": 1.79
+      },
+      {
+        "date": "2022-05-25",
+        "price": 2.19,
+        "unitPrice": 2.19
+      },
+      {
+        "date": "2022-05-23",
+        "price": 1.64,
+        "unitPrice": 1.64
+      },
+      {
+        "date": "2022-05-19",
+        "price": 2.19,
+        "unitPrice": 2.19
+      },
+      {
+        "date": "2022-05-12",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2022-05-03",
+        "price": 2.19,
+        "unitPrice": 2.19
+      },
+      {
+        "date": "2022-01-09",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2022-01-07",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2021-08-26",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2021-08-19",
+        "price": 1.79,
+        "unitPrice": 1.79
+      },
+      {
+        "date": "2021-05-04",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2021-04-22",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2018-03-04",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2017-06-01",
+        "price": 2.29,
+        "unitPrice": 2.29
+      },
+      {
+        "date": "2017-05-21",
+        "price": 2.19,
+        "unitPrice": 2.19
+      },
+      {
+        "date": "2017-05-14",
+        "price": 2.29,
+        "unitPrice": 2.29
+      },
+      {
+        "date": "2017-04-05",
+        "price": 2.19,
+        "unitPrice": 2.19
+      }
+    ],
+    "isWeighted": true,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": true,
+    "available": true,
+    "url": "https://shop.billa.at/produkte/ja-natuerlich-bananen-00402489"
+  },
+  {
+    "store": "bipa",
+    "id": "B3-469313",
+    "name": "LOOK BY BIPA Bananenfeile",
+    "category": "A0",
+    "price": 2.49,
+    "priceHistory": [
+      {
+        "date": "2023-07-05",
+        "price": 2.49,
+        "unitPrice": 2.49
+      }
+    ],
+    "isWeighted": false,
+    "unit": "stk",
+    "quantity": 1,
+    "bio": false,
+    "available": false,
+    "url": "https://www.bipa.at/p/look-by-bipa-bananenfeile/B3-469313.html"
+  },
+  {
+    "store": "bipa",
+    "id": "B3-412776",
+    "name": "ja! Natürlich. Bio Apfel Bananen Mus",
+    "category": "73",
+    "price": 1.79,
+    "priceHistory": [
+      {
+        "date": "2023-07-05",
+        "price": 1.79,
+        "unitPrice": 5.114285714285715
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 350,
+    "bio": true,
+    "available": false,
+    "url": "https://www.bipa.at/p/ja-natuerlich.-bio-apfel-bananen-mus/B3-412776.html"
+  },
+  {
+    "store": "spar",
+    "id": "6942526",
+    "name": "S-BUDGET Bananen per kg",
+    "category": "00",
+    "price": 1.59,
+    "priceHistory": [
+      {
+        "date": "2026-03-29",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2026-03-27",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2026-03-08",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2026-03-06",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2026-02-01",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2026-01-30",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2026-01-18",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2026-01-16",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2026-01-14",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2025-12-07",
+        "price": 1.79,
+        "unitPrice": 1.79
+      },
+      {
+        "date": "2025-12-04",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2025-11-09",
+        "price": 1.79,
+        "unitPrice": 1.79
+      },
+      {
+        "date": "2025-11-07",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2025-10-19",
+        "price": 1.79,
+        "unitPrice": 1.79
+      },
+      {
+        "date": "2025-10-17",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2025-08-31",
+        "price": 1.79,
+        "unitPrice": 1.79
+      },
+      {
+        "date": "2025-08-29",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2025-08-10",
+        "price": 1.79,
+        "unitPrice": 1.79
+      },
+      {
+        "date": "2025-08-08",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2025-06-29",
+        "price": 1.79,
+        "unitPrice": 1.79
+      },
+      {
+        "date": "2025-06-27",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2025-06-08",
+        "price": 1.79,
+        "unitPrice": 1.79
+      },
+      {
+        "date": "2025-06-06",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2025-05-14",
+        "price": 1.79,
+        "unitPrice": 1.79
+      },
+      {
+        "date": "2024-10-20",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2024-10-18",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2024-09-01",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2024-08-30",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2024-08-04",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2024-08-02",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2024-07-07",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2024-07-05",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2024-06-09",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2024-06-07",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2024-05-27",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2024-05-20",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2024-04-21",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2024-04-19",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2024-03-17",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2024-03-15",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2024-02-04",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2024-02-02",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2024-01-14",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2024-01-07",
+        "price": 1,
+        "unitPrice": 1
+      },
+      {
+        "date": "2023-12-03",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2023-12-01",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2023-11-07",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2023-10-09",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2023-09-03",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2023-09-01",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2023-08-06",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2023-08-04",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2023-07-02",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2023-06-30",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2023-06-04",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2023-06-02",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2023-05-22",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2023-04-21",
+        "price": 1.79,
+        "unitPrice": 1.79
+      },
+      {
+        "date": "2023-04-14",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2023-03-12",
+        "price": 1.79,
+        "unitPrice": 1.79
+      },
+      {
+        "date": "2023-03-11",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2023-02-13",
+        "price": 1.79,
+        "unitPrice": 1.79
+      },
+      {
+        "date": "2023-02-10",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2023-01-16",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2023-01-09",
+        "price": 1,
+        "unitPrice": 1
+      },
+      {
+        "date": "2022-12-18",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2022-12-17",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2022-11-20",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2022-11-18",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2022-03-28",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2022-03-25",
+        "price": 1,
+        "unitPrice": 1
+      },
+      {
+        "date": "2022-02-22",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2022-02-21",
+        "price": 1.39,
+        "unitPrice": 1.39
+      },
+      {
+        "date": "2022-02-19",
+        "price": 1,
+        "unitPrice": 1
+      },
+      {
+        "date": "2022-01-24",
+        "price": 1.39,
+        "unitPrice": 1.39
+      },
+      {
+        "date": "2022-01-12",
+        "price": 1,
+        "unitPrice": 1
+      },
+      {
+        "date": "2021-12-20",
+        "price": 1.39,
+        "unitPrice": 1.39
+      },
+      {
+        "date": "2021-12-18",
+        "price": 1,
+        "unitPrice": 1
+      },
+      {
+        "date": "2021-11-29",
+        "price": 1.39,
+        "unitPrice": 1.39
+      },
+      {
+        "date": "2021-11-27",
+        "price": 1,
+        "unitPrice": 1
+      },
+      {
+        "date": "2021-06-28",
+        "price": 1.39,
+        "unitPrice": 1.39
+      },
+      {
+        "date": "2021-06-26",
+        "price": 1,
+        "unitPrice": 1
+      },
+      {
+        "date": "2021-05-02",
+        "price": 1.39,
+        "unitPrice": 1.39
+      },
+      {
+        "date": "2021-04-30",
+        "price": 1,
+        "unitPrice": 1
+      },
+      {
+        "date": "2021-04-05",
+        "price": 1.39,
+        "unitPrice": 1.39
+      },
+      {
+        "date": "2021-04-02",
+        "price": 1,
+        "unitPrice": 1
+      },
+      {
+        "date": "2021-02-08",
+        "price": 1.39,
+        "unitPrice": 1.39
+      },
+      {
+        "date": "2021-02-06",
+        "price": 1,
+        "unitPrice": 1
+      },
+      {
+        "date": "2021-01-19",
+        "price": 1.39,
+        "unitPrice": 1.39
+      },
+      {
+        "date": "2021-01-05",
+        "price": 1,
+        "unitPrice": 1
+      },
+      {
+        "date": "2020-11-30",
+        "price": 1.39,
+        "unitPrice": 1.39
+      },
+      {
+        "date": "2020-11-28",
+        "price": 1,
+        "unitPrice": 1
+      },
+      {
+        "date": "2020-11-10",
+        "price": 1.39,
+        "unitPrice": 1.39
+      },
+      {
+        "date": "2020-11-07",
+        "price": 1,
+        "unitPrice": 1
+      },
+      {
+        "date": "2020-10-19",
+        "price": 1.39,
+        "unitPrice": 1.39
+      },
+      {
+        "date": "2020-10-17",
+        "price": 1,
+        "unitPrice": 1
+      },
+      {
+        "date": "2020-09-07",
+        "price": 1.39,
+        "unitPrice": 1.39
+      },
+      {
+        "date": "2020-09-06",
+        "price": 1,
+        "unitPrice": 1
+      },
+      {
+        "date": "2020-08-17",
+        "price": 1.39,
+        "unitPrice": 1.39
+      },
+      {
+        "date": "2020-08-14",
+        "price": 1,
+        "unitPrice": 1
+      },
+      {
+        "date": "2020-07-27",
+        "price": 1.39,
+        "unitPrice": 1.39
+      },
+      {
+        "date": "2020-07-25",
+        "price": 1,
+        "unitPrice": 1
+      },
+      {
+        "date": "2020-07-21",
+        "price": 1.39,
+        "unitPrice": 1.39
+      },
+      {
+        "date": "2020-06-15",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2020-06-12",
+        "price": 1,
+        "unitPrice": 1
+      },
+      {
+        "date": "2020-05-25",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2020-05-21",
+        "price": 1,
+        "unitPrice": 1
+      },
+      {
+        "date": "2020-05-04",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2020-04-30",
+        "price": 1,
+        "unitPrice": 1
+      },
+      {
+        "date": "2020-03-23",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2020-03-21",
+        "price": 1,
+        "unitPrice": 1
+      },
+      {
+        "date": "2020-03-02",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2020-02-29",
+        "price": 1,
+        "unitPrice": 1
+      },
+      {
+        "date": "2020-02-10",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2020-02-08",
+        "price": 1,
+        "unitPrice": 1
+      },
+      {
+        "date": "2020-01-23",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2020-01-08",
+        "price": 1,
+        "unitPrice": 1
+      },
+      {
+        "date": "2019-12-09",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2019-12-06",
+        "price": 1,
+        "unitPrice": 1
+      },
+      {
+        "date": "2019-11-18",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2019-11-16",
+        "price": 1,
+        "unitPrice": 1
+      },
+      {
+        "date": "2019-10-27",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2019-10-24",
+        "price": 1,
+        "unitPrice": 1
+      },
+      {
+        "date": "2019-10-07",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2019-10-05",
+        "price": 1,
+        "unitPrice": 1
+      },
+      {
+        "date": "2019-09-16",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2019-09-14",
+        "price": 1,
+        "unitPrice": 1
+      },
+      {
+        "date": "2019-08-13",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2019-06-10",
+        "price": 1.39,
+        "unitPrice": 1.39
+      },
+      {
+        "date": "2019-06-07",
+        "price": 1,
+        "unitPrice": 1
+      },
+      {
+        "date": "2019-05-20",
+        "price": 1.39,
+        "unitPrice": 1.39
+      },
+      {
+        "date": "2019-05-18",
+        "price": 1,
+        "unitPrice": 1
+      },
+      {
+        "date": "2019-04-29",
+        "price": 1.39,
+        "unitPrice": 1.39
+      },
+      {
+        "date": "2019-04-27",
+        "price": 1,
+        "unitPrice": 1
+      },
+      {
+        "date": "2019-04-08",
+        "price": 1.39,
+        "unitPrice": 1.39
+      },
+      {
+        "date": "2019-04-06",
+        "price": 1,
+        "unitPrice": 1
+      },
+      {
+        "date": "2019-02-14",
+        "price": 1.39,
+        "unitPrice": 1.39
+      },
+      {
+        "date": "2019-02-03",
+        "price": 1,
+        "unitPrice": 1
+      },
+      {
+        "date": "2018-09-07",
+        "price": 1.39,
+        "unitPrice": 1.39
+      },
+      {
+        "date": "2017-04-20",
+        "price": 1.29,
+        "unitPrice": 1.29
+      }
+    ],
+    "isWeighted": true,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": false,
+    "available": true,
+    "url": "https://www.interspar.at/shop/lebensmittel/p/6942526"
+  },
+  {
+    "store": "spar",
+    "id": "2020004204103",
+    "name": "S-BUDGET Schoko-Bananen",
+    "category": "64",
+    "price": 3.29,
+    "priceHistory": [
+      {
+        "date": "2023-04-07",
+        "price": 3.29,
+        "unitPrice": 5.483333333333333
+      },
+      {
+        "date": "2023-03-24",
+        "price": 2.99,
+        "unitPrice": 4.983333333333333
+      },
+      {
+        "date": "2023-02-08",
+        "price": 2.79,
+        "unitPrice": 4.65
+      },
+      {
+        "date": "2022-12-06",
+        "price": 2.99,
+        "unitPrice": 4.983333333333333
+      },
+      {
+        "date": "2022-09-30",
+        "price": 2.79,
+        "unitPrice": 4.65
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 600,
+    "bio": false,
+    "available": false,
+    "url": "https://www.interspar.at/shop/lebensmittel/p/2020004204103"
+  }
+]

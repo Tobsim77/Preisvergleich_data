@@ -1,0 +1,5397 @@
+[
+  {
+    "store": "billa",
+    "id": "00-479967",
+    "name": "Beyond Meat Faschiertes",
+    "category": "30",
+    "price": 5.39,
+    "priceHistory": [
+      {
+        "date": "2024-11-12",
+        "price": 5.39,
+        "unitPrice": 17.966666666666665
+      },
+      {
+        "date": "2024-11-04",
+        "price": 4.04,
+        "unitPrice": 13.466666666666667
+      },
+      {
+        "date": "2024-08-19",
+        "price": 5.39,
+        "unitPrice": 17.966666666666665
+      },
+      {
+        "date": "2024-08-14",
+        "price": 4.04,
+        "unitPrice": 13.466666666666667
+      },
+      {
+        "date": "2024-04-18",
+        "price": 5.39,
+        "unitPrice": 17.966666666666665
+      },
+      {
+        "date": "2024-04-15",
+        "price": 4.04,
+        "unitPrice": 13.466666666666667
+      },
+      {
+        "date": "2024-01-19",
+        "price": 5.39,
+        "unitPrice": 17.966666666666665
+      },
+      {
+        "date": "2024-01-16",
+        "price": 4.04,
+        "unitPrice": 13.466666666666667
+      },
+      {
+        "date": "2024-01-12",
+        "price": 5.39,
+        "unitPrice": 17.966666666666665
+      },
+      {
+        "date": "2024-01-09",
+        "price": 4.04,
+        "unitPrice": 13.466666666666667
+      },
+      {
+        "date": "2023-07-07",
+        "price": 5.39,
+        "unitPrice": 17.966666666666665
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 300,
+    "bio": false,
+    "available": false,
+    "url": "https://shop.billa.at/produkte/beyond-meat-faschiertes-00479967"
+  },
+  {
+    "store": "billa",
+    "id": "00-518910",
+    "name": "Chef Menü Faschiertes Laibchen mit Püree",
+    "category": "30",
+    "price": 3.69,
+    "priceHistory": [
+      {
+        "date": "2025-09-25",
+        "price": 3.69,
+        "unitPrice": 8.200000000000001
+      },
+      {
+        "date": "2025-09-18",
+        "price": 2.99,
+        "unitPrice": 6.644444444444445
+      },
+      {
+        "date": "2025-08-28",
+        "price": 3.69,
+        "unitPrice": 8.200000000000001
+      },
+      {
+        "date": "2025-08-21",
+        "price": 2.99,
+        "unitPrice": 6.644444444444445
+      },
+      {
+        "date": "2024-11-28",
+        "price": 3.69,
+        "unitPrice": 8.200000000000001
+      },
+      {
+        "date": "2024-11-21",
+        "price": 2.99,
+        "unitPrice": 6.644444444444445
+      },
+      {
+        "date": "2024-10-24",
+        "price": 3.59,
+        "unitPrice": 7.977777777777778
+      },
+      {
+        "date": "2024-10-17",
+        "price": 2.99,
+        "unitPrice": 6.644444444444445
+      },
+      {
+        "date": "2024-08-30",
+        "price": 3.59,
+        "unitPrice": 7.977777777777778
+      },
+      {
+        "date": "2024-08-19",
+        "price": 2.69,
+        "unitPrice": 5.977777777777778
+      },
+      {
+        "date": "2024-08-14",
+        "price": 3.59,
+        "unitPrice": 7.977777777777778
+      },
+      {
+        "date": "2024-08-08",
+        "price": 2.99,
+        "unitPrice": 6.644444444444445
+      },
+      {
+        "date": "2024-06-18",
+        "price": 3.59,
+        "unitPrice": 7.977777777777778
+      },
+      {
+        "date": "2024-05-23",
+        "price": 3.49,
+        "unitPrice": 7.755555555555556
+      },
+      {
+        "date": "2024-05-16",
+        "price": 2.99,
+        "unitPrice": 6.644444444444445
+      },
+      {
+        "date": "2024-01-13",
+        "price": 3.49,
+        "unitPrice": 7.755555555555556
+      },
+      {
+        "date": "2024-01-11",
+        "price": 1.75,
+        "unitPrice": 3.888888888888889
+      },
+      {
+        "date": "2023-12-12",
+        "price": 3.49,
+        "unitPrice": 7.755555555555556
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 450,
+    "bio": false,
+    "available": false,
+    "url": "https://shop.billa.at/produkte/chef-menue-faschiertes-laibchen-mit-pueree-00518910"
+  },
+  {
+    "store": "billa",
+    "id": "00-317050",
+    "name": "Clever Faschiertes gemischt",
+    "category": "32",
+    "price": 4.89,
+    "priceHistory": [
+      {
+        "date": "2023-11-03",
+        "price": 4.89,
+        "unitPrice": 6.985714285714285
+      },
+      {
+        "date": "2023-10-05",
+        "price": 4.4,
+        "unitPrice": 6.285714285714286
+      },
+      {
+        "date": "2022-09-05",
+        "price": 4.89,
+        "unitPrice": 6.985714285714285
+      },
+      {
+        "date": "2022-06-15",
+        "price": 4.75,
+        "unitPrice": 6.785714285714286
+      },
+      {
+        "date": "2022-06-09",
+        "price": 4.49,
+        "unitPrice": 6.414285714285715
+      },
+      {
+        "date": "2022-05-24",
+        "price": 4.75,
+        "unitPrice": 6.785714285714286
+      },
+      {
+        "date": "2022-03-10",
+        "price": 4.49,
+        "unitPrice": 6.414285714285715
+      },
+      {
+        "date": "2022-03-01",
+        "price": 3.99,
+        "unitPrice": 5.7
+      },
+      {
+        "date": "2021-10-25",
+        "price": 3.49,
+        "unitPrice": 4.985714285714286
+      },
+      {
+        "date": "2021-09-27",
+        "price": 3.77,
+        "unitPrice": 5.385714285714285
+      },
+      {
+        "date": "2021-02-10",
+        "price": 3.49,
+        "unitPrice": 4.985714285714286
+      },
+      {
+        "date": "2020-03-05",
+        "price": 3.99,
+        "unitPrice": 5.7
+      },
+      {
+        "date": "2020-01-06",
+        "price": 4.19,
+        "unitPrice": 5.985714285714286
+      },
+      {
+        "date": "2019-09-18",
+        "price": 3.99,
+        "unitPrice": 5.7
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 700,
+    "bio": false,
+    "available": false,
+    "url": "https://shop.billa.at/produkte/clever-faschiertes-gemischt-00317050"
+  },
+  {
+    "store": "billa",
+    "id": "00-359926",
+    "name": "Garden Gourmet Sensational Faschiertes vegan",
+    "category": "30",
+    "price": 4.29,
+    "priceHistory": [
+      {
+        "date": "2025-01-24",
+        "price": 4.29,
+        "unitPrice": 21.45
+      },
+      {
+        "date": "2025-01-23",
+        "price": 3.22,
+        "unitPrice": 16.1
+      },
+      {
+        "date": "2025-01-17",
+        "price": 4.29,
+        "unitPrice": 21.45
+      },
+      {
+        "date": "2025-01-07",
+        "price": 3.22,
+        "unitPrice": 16.1
+      },
+      {
+        "date": "2024-11-12",
+        "price": 4.29,
+        "unitPrice": 21.45
+      },
+      {
+        "date": "2024-11-07",
+        "price": 3.22,
+        "unitPrice": 16.1
+      },
+      {
+        "date": "2024-11-04",
+        "price": 2.62,
+        "unitPrice": 13.100000000000001
+      },
+      {
+        "date": "2024-10-31",
+        "price": 3.49,
+        "unitPrice": 17.45
+      },
+      {
+        "date": "2024-08-19",
+        "price": 4.29,
+        "unitPrice": 21.45
+      },
+      {
+        "date": "2024-08-14",
+        "price": 3.22,
+        "unitPrice": 16.1
+      },
+      {
+        "date": "2024-04-18",
+        "price": 4.29,
+        "unitPrice": 21.45
+      },
+      {
+        "date": "2024-04-15",
+        "price": 3.22,
+        "unitPrice": 16.1
+      },
+      {
+        "date": "2024-01-19",
+        "price": 4.29,
+        "unitPrice": 21.45
+      },
+      {
+        "date": "2024-01-16",
+        "price": 3.22,
+        "unitPrice": 16.1
+      },
+      {
+        "date": "2024-01-10",
+        "price": 4.29,
+        "unitPrice": 21.45
+      },
+      {
+        "date": "2024-01-09",
+        "price": 3.22,
+        "unitPrice": 16.1
+      },
+      {
+        "date": "2023-08-15",
+        "price": 4.29,
+        "unitPrice": 21.45
+      },
+      {
+        "date": "2023-08-10",
+        "price": 3.22,
+        "unitPrice": 16.1
+      },
+      {
+        "date": "2023-05-29",
+        "price": 4.29,
+        "unitPrice": 21.45
+      },
+      {
+        "date": "2023-05-22",
+        "price": 3.65,
+        "unitPrice": 18.25
+      },
+      {
+        "date": "2023-03-30",
+        "price": 4.29,
+        "unitPrice": 21.45
+      },
+      {
+        "date": "2023-01-17",
+        "price": 3.89,
+        "unitPrice": 19.450000000000003
+      },
+      {
+        "date": "2023-01-12",
+        "price": 2.92,
+        "unitPrice": 14.6
+      },
+      {
+        "date": "2021-04-07",
+        "price": 3.89,
+        "unitPrice": 19.450000000000003
+      },
+      {
+        "date": "2020-06-17",
+        "price": 4.99,
+        "unitPrice": 24.95
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 200,
+    "bio": false,
+    "available": false,
+    "url": "https://shop.billa.at/produkte/garden-gourmet-sensational-faschiertes-vegan-00359926"
+  },
+  {
+    "store": "billa",
+    "id": "00-720465",
+    "name": "Hofstädter Fair zum Tier Faschiertes gemischt",
+    "category": "32",
+    "price": 4.99,
+    "priceHistory": [
+      {
+        "date": "2024-06-06",
+        "price": 4.99,
+        "unitPrice": 15.121212121212123
+      },
+      {
+        "date": "2024-05-31",
+        "price": 3.74,
+        "unitPrice": 11.333333333333334
+      },
+      {
+        "date": "2024-05-29",
+        "price": 4.99,
+        "unitPrice": 15.121212121212123
+      },
+      {
+        "date": "2024-05-23",
+        "price": 3.99,
+        "unitPrice": 12.090909090909092
+      },
+      {
+        "date": "2024-05-19",
+        "price": 4.99,
+        "unitPrice": 15.121212121212123
+      },
+      {
+        "date": "2024-05-15",
+        "price": 3.74,
+        "unitPrice": 11.333333333333334
+      },
+      {
+        "date": "2024-05-01",
+        "price": 4.99,
+        "unitPrice": 15.121212121212123
+      },
+      {
+        "date": "2024-04-25",
+        "price": 3.99,
+        "unitPrice": 12.090909090909092
+      },
+      {
+        "date": "2024-03-31",
+        "price": 4.99,
+        "unitPrice": 15.121212121212123
+      },
+      {
+        "date": "2024-03-26",
+        "price": 3.74,
+        "unitPrice": 11.333333333333334
+      },
+      {
+        "date": "2023-12-25",
+        "price": 4.99,
+        "unitPrice": 15.121212121212123
+      },
+      {
+        "date": "2023-12-18",
+        "price": 3.74,
+        "unitPrice": 11.333333333333334
+      },
+      {
+        "date": "2023-12-07",
+        "price": 4.99,
+        "unitPrice": 15.121212121212123
+      },
+      {
+        "date": "2023-11-30",
+        "price": 3.99,
+        "unitPrice": 12.090909090909092
+      },
+      {
+        "date": "2023-11-16",
+        "price": 4.99,
+        "unitPrice": 15.121212121212123
+      },
+      {
+        "date": "2023-11-09",
+        "price": 3.99,
+        "unitPrice": 12.090909090909092
+      },
+      {
+        "date": "2023-10-21",
+        "price": 5.49,
+        "unitPrice": 16.636363636363637
+      },
+      {
+        "date": "2023-10-12",
+        "price": 3.99,
+        "unitPrice": 12.090909090909092
+      },
+      {
+        "date": "2023-10-05",
+        "price": 5.49,
+        "unitPrice": 16.636363636363637
+      },
+      {
+        "date": "2023-09-28",
+        "price": 3.99,
+        "unitPrice": 12.090909090909092
+      },
+      {
+        "date": "2023-07-01",
+        "price": 5.49,
+        "unitPrice": 16.636363636363637
+      },
+      {
+        "date": "2023-06-23",
+        "price": 4.12,
+        "unitPrice": 12.484848484848486
+      },
+      {
+        "date": "2023-03-23",
+        "price": 5.49,
+        "unitPrice": 16.636363636363637
+      },
+      {
+        "date": "2023-03-05",
+        "price": 4.99,
+        "unitPrice": 15.121212121212123
+      },
+      {
+        "date": "2023-03-01",
+        "price": 3.74,
+        "unitPrice": 11.333333333333334
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 330,
+    "bio": false,
+    "available": false,
+    "url": "https://shop.billa.at/produkte/hofstaedter-fair-zum-tier-faschiertes-gemischt-00720465"
+  },
+  {
+    "store": "billa",
+    "id": "00-756257",
+    "name": "Hofstädter Fair zum Tier Strohwohl Faschiertes Gemischt",
+    "category": "32",
+    "price": 11.99,
+    "priceHistory": [
+      {
+        "date": "2025-09-17",
+        "price": 11.99,
+        "unitPrice": 15.571428571428571
+      },
+      {
+        "date": "2025-08-18",
+        "price": 10.99,
+        "unitPrice": 14.272727272727273
+      },
+      {
+        "date": "2025-08-11",
+        "price": 8.24,
+        "unitPrice": 10.7012987012987
+      },
+      {
+        "date": "2025-05-20",
+        "price": 10.99,
+        "unitPrice": 14.272727272727273
+      },
+      {
+        "date": "2025-05-12",
+        "price": 8.24,
+        "unitPrice": 10.7012987012987
+      },
+      {
+        "date": "2025-05-01",
+        "price": 10.99,
+        "unitPrice": 14.272727272727273
+      },
+      {
+        "date": "2025-04-27",
+        "price": 8.24,
+        "unitPrice": 10.7012987012987
+      },
+      {
+        "date": "2025-04-25",
+        "price": 10.99,
+        "unitPrice": 14.272727272727273
+      },
+      {
+        "date": "2025-04-02",
+        "price": 10.79,
+        "unitPrice": 14.012987012987011
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 770,
+    "bio": false,
+    "available": false,
+    "url": "https://shop.billa.at/produkte/hofstaedter-fair-zum-tier-strohwohl-faschiertes-gemischt-00756257"
+  },
+  {
+    "store": "billa",
+    "id": "00-930169",
+    "name": "Hofstädter Faschiertes gemischt",
+    "category": "32",
+    "price": 6.99,
+    "priceHistory": [
+      {
+        "date": "2025-10-02",
+        "price": 6.99,
+        "unitPrice": 13.98
+      },
+      {
+        "date": "2025-09-25",
+        "price": 6.49,
+        "unitPrice": 12.98
+      },
+      {
+        "date": "2025-09-18",
+        "price": 6.99,
+        "unitPrice": 13.98
+      },
+      {
+        "date": "2025-08-18",
+        "price": 6.49,
+        "unitPrice": 12.98
+      },
+      {
+        "date": "2025-08-14",
+        "price": 4.87,
+        "unitPrice": 9.74
+      },
+      {
+        "date": "2025-08-11",
+        "price": 3.74,
+        "unitPrice": 7.48
+      },
+      {
+        "date": "2025-08-07",
+        "price": 4.99,
+        "unitPrice": 9.98
+      },
+      {
+        "date": "2025-07-24",
+        "price": 6.49,
+        "unitPrice": 12.98
+      },
+      {
+        "date": "2025-07-18",
+        "price": 4.99,
+        "unitPrice": 9.98
+      },
+      {
+        "date": "2025-05-28",
+        "price": 6.49,
+        "unitPrice": 12.98
+      },
+      {
+        "date": "2025-05-22",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2025-05-20",
+        "price": 6.49,
+        "unitPrice": 12.98
+      },
+      {
+        "date": "2025-05-12",
+        "price": 4.87,
+        "unitPrice": 9.74
+      },
+      {
+        "date": "2025-05-06",
+        "price": 6.49,
+        "unitPrice": 12.98
+      },
+      {
+        "date": "2025-03-27",
+        "price": 5.99,
+        "unitPrice": 11.98
+      },
+      {
+        "date": "2025-03-23",
+        "price": 5.49,
+        "unitPrice": 10.98
+      },
+      {
+        "date": "2025-03-15",
+        "price": 4.12,
+        "unitPrice": 8.24
+      },
+      {
+        "date": "2024-12-25",
+        "price": 5.49,
+        "unitPrice": 10.98
+      },
+      {
+        "date": "2024-12-16",
+        "price": 4.12,
+        "unitPrice": 8.24
+      },
+      {
+        "date": "2024-11-07",
+        "price": 5.49,
+        "unitPrice": 10.98
+      },
+      {
+        "date": "2024-10-31",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2024-09-01",
+        "price": 5.49,
+        "unitPrice": 10.98
+      },
+      {
+        "date": "2024-08-24",
+        "price": 4.12,
+        "unitPrice": 8.24
+      },
+      {
+        "date": "2024-06-06",
+        "price": 5.49,
+        "unitPrice": 10.98
+      },
+      {
+        "date": "2024-05-31",
+        "price": 4.12,
+        "unitPrice": 8.24
+      },
+      {
+        "date": "2024-05-19",
+        "price": 5.49,
+        "unitPrice": 10.98
+      },
+      {
+        "date": "2024-05-15",
+        "price": 4.12,
+        "unitPrice": 8.24
+      },
+      {
+        "date": "2024-05-08",
+        "price": 5.49,
+        "unitPrice": 10.98
+      },
+      {
+        "date": "2024-05-02",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2024-04-25",
+        "price": 5.49,
+        "unitPrice": 10.98
+      },
+      {
+        "date": "2024-04-18",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2024-03-31",
+        "price": 5.49,
+        "unitPrice": 10.98
+      },
+      {
+        "date": "2024-03-26",
+        "price": 4.12,
+        "unitPrice": 8.24
+      },
+      {
+        "date": "2023-12-25",
+        "price": 5.49,
+        "unitPrice": 10.98
+      },
+      {
+        "date": "2023-12-18",
+        "price": 4.12,
+        "unitPrice": 8.24
+      },
+      {
+        "date": "2023-11-09",
+        "price": 5.49,
+        "unitPrice": 10.98
+      },
+      {
+        "date": "2023-11-02",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2023-09-28",
+        "price": 5.49,
+        "unitPrice": 10.98
+      },
+      {
+        "date": "2023-09-22",
+        "price": 4.49,
+        "unitPrice": 8.98
+      },
+      {
+        "date": "2023-09-14",
+        "price": 5.49,
+        "unitPrice": 10.98
+      },
+      {
+        "date": "2023-09-07",
+        "price": 4.49,
+        "unitPrice": 8.98
+      },
+      {
+        "date": "2023-07-01",
+        "price": 5.99,
+        "unitPrice": 11.98
+      },
+      {
+        "date": "2023-06-23",
+        "price": 4.49,
+        "unitPrice": 8.98
+      },
+      {
+        "date": "2023-04-22",
+        "price": 5.99,
+        "unitPrice": 11.98
+      },
+      {
+        "date": "2023-03-05",
+        "price": 5.49,
+        "unitPrice": 10.98
+      },
+      {
+        "date": "2023-03-01",
+        "price": 4.12,
+        "unitPrice": 8.24
+      },
+      {
+        "date": "2022-12-07",
+        "price": 5.49,
+        "unitPrice": 10.98
+      },
+      {
+        "date": "2022-11-18",
+        "price": 4.99,
+        "unitPrice": 9.98
+      },
+      {
+        "date": "2022-11-17",
+        "price": 2.49,
+        "unitPrice": 4.98
+      },
+      {
+        "date": "2022-07-28",
+        "price": 4.99,
+        "unitPrice": 9.98
+      },
+      {
+        "date": "2022-07-25",
+        "price": 3.74,
+        "unitPrice": 7.48
+      },
+      {
+        "date": "2022-07-21",
+        "price": 4.99,
+        "unitPrice": 9.98
+      },
+      {
+        "date": "2022-07-14",
+        "price": 2.49,
+        "unitPrice": 4.98
+      },
+      {
+        "date": "2022-06-30",
+        "price": 4.99,
+        "unitPrice": 9.98
+      },
+      {
+        "date": "2022-06-23",
+        "price": 2.49,
+        "unitPrice": 4.98
+      },
+      {
+        "date": "2022-06-03",
+        "price": 4.99,
+        "unitPrice": 9.98
+      },
+      {
+        "date": "2022-05-30",
+        "price": 3.74,
+        "unitPrice": 7.48
+      },
+      {
+        "date": "2022-04-28",
+        "price": 4.99,
+        "unitPrice": 9.98
+      },
+      {
+        "date": "2022-04-21",
+        "price": 2.49,
+        "unitPrice": 4.98
+      },
+      {
+        "date": "2022-03-24",
+        "price": 4.99,
+        "unitPrice": 9.98
+      },
+      {
+        "date": "2022-03-17",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2022-03-03",
+        "price": 4.49,
+        "unitPrice": 8.98
+      },
+      {
+        "date": "2022-02-24",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2022-02-10",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2022-02-07",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2022-01-27",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2022-01-20",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2022-01-13",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2022-01-03",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2021-09-30",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2021-09-23",
+        "price": 2.49,
+        "unitPrice": 4.98
+      },
+      {
+        "date": "2021-09-02",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2021-08-26",
+        "price": 2.29,
+        "unitPrice": 4.58
+      },
+      {
+        "date": "2021-07-29",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2021-07-22",
+        "price": 2.22,
+        "unitPrice": 4.44
+      },
+      {
+        "date": "2021-07-01",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2021-06-24",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2021-06-02",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2021-05-27",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2021-05-12",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2021-05-06",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2021-04-15",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2021-04-07",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2021-03-18",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2021-03-12",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2021-03-04",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2021-02-25",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2021-02-18",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2021-02-04",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2021-01-28",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2021-01-21",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2021-01-14",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2021-01-01",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2020-12-28",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2020-11-19",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2020-11-12",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2020-10-29",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2020-10-22",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2020-10-01",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2020-09-24",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2020-08-27",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2020-08-20",
+        "price": 2.49,
+        "unitPrice": 4.98
+      },
+      {
+        "date": "2020-08-06",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2020-07-30",
+        "price": 2.49,
+        "unitPrice": 4.98
+      },
+      {
+        "date": "2020-07-23",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2020-07-16",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2020-07-09",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2020-07-02",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2020-06-04",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2020-05-28",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2020-05-14",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2020-05-07",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2020-04-02",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2020-03-29",
+        "price": 2.49,
+        "unitPrice": 4.98
+      },
+      {
+        "date": "2020-03-19",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2020-03-15",
+        "price": 2.49,
+        "unitPrice": 4.98
+      },
+      {
+        "date": "2020-03-05",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2020-02-27",
+        "price": 2.49,
+        "unitPrice": 4.98
+      },
+      {
+        "date": "2020-02-20",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2020-02-17",
+        "price": 2.49,
+        "unitPrice": 4.98
+      },
+      {
+        "date": "2020-02-06",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2020-01-30",
+        "price": 3.33,
+        "unitPrice": 6.66
+      },
+      {
+        "date": "2020-01-23",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2020-01-16",
+        "price": 3.33,
+        "unitPrice": 6.66
+      },
+      {
+        "date": "2019-11-21",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2019-11-14",
+        "price": 2.44,
+        "unitPrice": 4.88
+      },
+      {
+        "date": "2019-10-31",
+        "price": 3.49,
+        "unitPrice": 6.98
+      },
+      {
+        "date": "2019-10-28",
+        "price": 2.44,
+        "unitPrice": 4.88
+      },
+      {
+        "date": "2019-09-19",
+        "price": 3.49,
+        "unitPrice": 6.98
+      },
+      {
+        "date": "2019-09-16",
+        "price": 2.44,
+        "unitPrice": 4.88
+      },
+      {
+        "date": "2019-08-25",
+        "price": 3.49,
+        "unitPrice": 6.98
+      },
+      {
+        "date": "2019-08-22",
+        "price": 2.22,
+        "unitPrice": 4.44
+      },
+      {
+        "date": "2019-07-25",
+        "price": 3.49,
+        "unitPrice": 6.98
+      },
+      {
+        "date": "2019-07-18",
+        "price": 2.44,
+        "unitPrice": 4.88
+      },
+      {
+        "date": "2018-05-14",
+        "price": 3.49,
+        "unitPrice": 6.98
+      },
+      {
+        "date": "2018-05-06",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2018-04-09",
+        "price": 3.49,
+        "unitPrice": 6.98
+      },
+      {
+        "date": "2018-04-01",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2018-03-12",
+        "price": 3.49,
+        "unitPrice": 6.98
+      },
+      {
+        "date": "2018-03-04",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2018-01-29",
+        "price": 3.49,
+        "unitPrice": 6.98
+      },
+      {
+        "date": "2018-01-26",
+        "price": 2.99,
+        "unitPrice": 5.98
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 500,
+    "bio": false,
+    "available": false,
+    "url": "https://shop.billa.at/produkte/hofstaedter-faschiertes-gemischt-00930169"
+  },
+  {
+    "store": "billa",
+    "id": "00-275272",
+    "name": "Hofstädter Faschiertes gemischt",
+    "category": "32",
+    "price": 8.79,
+    "priceHistory": [
+      {
+        "date": "2024-09-01",
+        "price": 8.79,
+        "unitPrice": 10.987499999999999
+      },
+      {
+        "date": "2024-08-24",
+        "price": 6.59,
+        "unitPrice": 8.2375
+      },
+      {
+        "date": "2024-06-06",
+        "price": 8.79,
+        "unitPrice": 10.987499999999999
+      },
+      {
+        "date": "2024-05-31",
+        "price": 6.59,
+        "unitPrice": 8.2375
+      },
+      {
+        "date": "2024-05-19",
+        "price": 8.79,
+        "unitPrice": 10.987499999999999
+      },
+      {
+        "date": "2024-05-15",
+        "price": 6.59,
+        "unitPrice": 8.2375
+      },
+      {
+        "date": "2024-03-31",
+        "price": 8.79,
+        "unitPrice": 10.987499999999999
+      },
+      {
+        "date": "2024-03-26",
+        "price": 6.59,
+        "unitPrice": 8.2375
+      },
+      {
+        "date": "2023-12-25",
+        "price": 8.79,
+        "unitPrice": 10.987499999999999
+      },
+      {
+        "date": "2023-12-18",
+        "price": 6.59,
+        "unitPrice": 8.2375
+      },
+      {
+        "date": "2023-09-25",
+        "price": 8.79,
+        "unitPrice": 10.987499999999999
+      },
+      {
+        "date": "2023-07-01",
+        "price": 9.58,
+        "unitPrice": 11.975
+      },
+      {
+        "date": "2023-06-23",
+        "price": 7.19,
+        "unitPrice": 8.9875
+      },
+      {
+        "date": "2023-03-30",
+        "price": 9.58,
+        "unitPrice": 11.975
+      },
+      {
+        "date": "2023-03-05",
+        "price": 8.78,
+        "unitPrice": 10.974999999999998
+      },
+      {
+        "date": "2023-03-01",
+        "price": 6.59,
+        "unitPrice": 8.2375
+      },
+      {
+        "date": "2023-01-19",
+        "price": 8.78,
+        "unitPrice": 10.974999999999998
+      },
+      {
+        "date": "2022-07-28",
+        "price": 7.98,
+        "unitPrice": 9.975000000000001
+      },
+      {
+        "date": "2022-07-25",
+        "price": 5.99,
+        "unitPrice": 7.4875
+      },
+      {
+        "date": "2022-07-13",
+        "price": 7.98,
+        "unitPrice": 9.975000000000001
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 800,
+    "bio": false,
+    "available": false,
+    "url": "https://shop.billa.at/produkte/hofstaedter-faschiertes-gemischt-00275272"
+  },
+  {
+    "store": "billa",
+    "id": "00-458428",
+    "name": "Hofstädter Hühner Faschiertes",
+    "category": "32",
+    "price": 5.99,
+    "priceHistory": [
+      {
+        "date": "2024-03-04",
+        "price": 5.99,
+        "unitPrice": 14.975
+      },
+      {
+        "date": "2023-12-25",
+        "price": 4.99,
+        "unitPrice": 12.475
+      },
+      {
+        "date": "2023-12-18",
+        "price": 3.74,
+        "unitPrice": 9.350000000000001
+      },
+      {
+        "date": "2023-07-01",
+        "price": 4.99,
+        "unitPrice": 12.475
+      },
+      {
+        "date": "2023-06-23",
+        "price": 3.74,
+        "unitPrice": 9.350000000000001
+      },
+      {
+        "date": "2023-03-05",
+        "price": 4.99,
+        "unitPrice": 12.475
+      },
+      {
+        "date": "2023-03-01",
+        "price": 3.74,
+        "unitPrice": 9.350000000000001
+      },
+      {
+        "date": "2022-11-14",
+        "price": 4.99,
+        "unitPrice": 12.475
+      },
+      {
+        "date": "2022-07-28",
+        "price": 3.49,
+        "unitPrice": 8.725
+      },
+      {
+        "date": "2022-07-25",
+        "price": 2.62,
+        "unitPrice": 6.550000000000001
+      },
+      {
+        "date": "2022-06-09",
+        "price": 3.49,
+        "unitPrice": 8.725
+      },
+      {
+        "date": "2022-05-30",
+        "price": 2.62,
+        "unitPrice": 6.550000000000001
+      },
+      {
+        "date": "2022-05-25",
+        "price": 3.49,
+        "unitPrice": 8.725
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 400,
+    "bio": false,
+    "available": false,
+    "url": "https://shop.billa.at/produkte/hofstaedter-huehner-faschiertes-00458428"
+  },
+  {
+    "store": "billa",
+    "id": "00-255257",
+    "name": "Hofstädter Putenfaschiertes",
+    "category": "32",
+    "price": 3.74,
+    "priceHistory": [
+      {
+        "date": "2024-05-15",
+        "price": 3.74,
+        "unitPrice": 9.350000000000001
+      },
+      {
+        "date": "2024-03-31",
+        "price": 4.99,
+        "unitPrice": 12.475
+      },
+      {
+        "date": "2024-03-26",
+        "price": 3.74,
+        "unitPrice": 9.350000000000001
+      },
+      {
+        "date": "2023-12-25",
+        "price": 4.99,
+        "unitPrice": 12.475
+      },
+      {
+        "date": "2023-12-18",
+        "price": 3.74,
+        "unitPrice": 9.350000000000001
+      },
+      {
+        "date": "2023-07-01",
+        "price": 4.99,
+        "unitPrice": 12.475
+      },
+      {
+        "date": "2023-06-23",
+        "price": 3.74,
+        "unitPrice": 9.350000000000001
+      },
+      {
+        "date": "2023-03-05",
+        "price": 4.99,
+        "unitPrice": 12.475
+      },
+      {
+        "date": "2023-03-01",
+        "price": 3.74,
+        "unitPrice": 9.350000000000001
+      },
+      {
+        "date": "2022-11-21",
+        "price": 4.99,
+        "unitPrice": 12.475
+      },
+      {
+        "date": "2022-07-28",
+        "price": 3.99,
+        "unitPrice": 9.975000000000001
+      },
+      {
+        "date": "2022-07-25",
+        "price": 2.99,
+        "unitPrice": 7.4750000000000005
+      },
+      {
+        "date": "2022-06-09",
+        "price": 3.99,
+        "unitPrice": 9.975000000000001
+      },
+      {
+        "date": "2021-12-08",
+        "price": 3.49,
+        "unitPrice": 8.725
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 400,
+    "bio": false,
+    "available": false,
+    "url": "https://shop.billa.at/produkte/hofstaedter-putenfaschiertes-00255257"
+  },
+  {
+    "store": "billa",
+    "id": "00-380456",
+    "name": "Ja! Natürlich Faschiertes gemischt",
+    "category": "32",
+    "price": 5.99,
+    "priceHistory": [
+      {
+        "date": "2024-11-03",
+        "price": 5.99,
+        "unitPrice": 16.63888888888889
+      },
+      {
+        "date": "2024-10-31",
+        "price": 4.49,
+        "unitPrice": 12.472222222222223
+      },
+      {
+        "date": "2024-10-22",
+        "price": 5.99,
+        "unitPrice": 16.63888888888889
+      },
+      {
+        "date": "2024-10-17",
+        "price": 4.49,
+        "unitPrice": 12.472222222222223
+      },
+      {
+        "date": "2024-09-09",
+        "price": 5.99,
+        "unitPrice": 16.63888888888889
+      },
+      {
+        "date": "2024-09-02",
+        "price": 4.49,
+        "unitPrice": 12.472222222222223
+      },
+      {
+        "date": "2024-08-29",
+        "price": 5.99,
+        "unitPrice": 16.63888888888889
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 360,
+    "bio": true,
+    "available": false,
+    "url": "https://shop.billa.at/produkte/ja-natuerlich-faschiertes-gemischt-00380456"
+  },
+  {
+    "store": "billa",
+    "id": "00-312537",
+    "name": "Ja! Natürlich Faschiertes gemischt",
+    "category": "32",
+    "price": 4.99,
+    "priceHistory": [
+      {
+        "date": "2024-08-12",
+        "price": 4.99,
+        "unitPrice": 16.633333333333333
+      },
+      {
+        "date": "2024-08-05",
+        "price": 3.74,
+        "unitPrice": 12.466666666666667
+      },
+      {
+        "date": "2024-07-05",
+        "price": 4.99,
+        "unitPrice": 16.633333333333333
+      },
+      {
+        "date": "2024-06-28",
+        "price": 3.74,
+        "unitPrice": 12.466666666666667
+      },
+      {
+        "date": "2024-06-14",
+        "price": 4.99,
+        "unitPrice": 16.633333333333333
+      },
+      {
+        "date": "2024-06-07",
+        "price": 3.74,
+        "unitPrice": 12.466666666666667
+      },
+      {
+        "date": "2024-04-28",
+        "price": 4.99,
+        "unitPrice": 16.633333333333333
+      },
+      {
+        "date": "2024-04-26",
+        "price": 3.74,
+        "unitPrice": 12.466666666666667
+      },
+      {
+        "date": "2024-03-05",
+        "price": 4.99,
+        "unitPrice": 16.633333333333333
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 300,
+    "bio": true,
+    "available": false,
+    "url": "https://shop.billa.at/produkte/ja-natuerlich-faschiertes-gemischt-00312537"
+  },
+  {
+    "store": "billa",
+    "id": "00-725870",
+    "name": "Ja! Natürlich Faschiertes gemischt",
+    "category": "32",
+    "price": 4.99,
+    "priceHistory": [
+      {
+        "date": "2024-02-24",
+        "price": 4.99,
+        "unitPrice": 16.633333333333333
+      },
+      {
+        "date": "2024-02-16",
+        "price": 3.74,
+        "unitPrice": 12.466666666666667
+      },
+      {
+        "date": "2024-01-29",
+        "price": 4.99,
+        "unitPrice": 16.633333333333333
+      },
+      {
+        "date": "2024-01-06",
+        "price": 4.79,
+        "unitPrice": 15.966666666666667
+      },
+      {
+        "date": "2024-01-04",
+        "price": 3.59,
+        "unitPrice": 11.966666666666665
+      },
+      {
+        "date": "2023-12-15",
+        "price": 4.79,
+        "unitPrice": 15.966666666666667
+      },
+      {
+        "date": "2023-12-11",
+        "price": 3.59,
+        "unitPrice": 11.966666666666665
+      },
+      {
+        "date": "2023-11-19",
+        "price": 4.79,
+        "unitPrice": 15.966666666666667
+      },
+      {
+        "date": "2023-11-15",
+        "price": 3.59,
+        "unitPrice": 11.966666666666665
+      },
+      {
+        "date": "2023-11-09",
+        "price": 4.79,
+        "unitPrice": 15.966666666666667
+      },
+      {
+        "date": "2023-10-05",
+        "price": 4.99,
+        "unitPrice": 16.633333333333333
+      },
+      {
+        "date": "2023-09-28",
+        "price": 3.74,
+        "unitPrice": 12.466666666666667
+      },
+      {
+        "date": "2023-09-27",
+        "price": 4.99,
+        "unitPrice": 16.633333333333333
+      },
+      {
+        "date": "2023-09-25",
+        "price": 3.74,
+        "unitPrice": 12.466666666666667
+      },
+      {
+        "date": "2023-08-27",
+        "price": 4.99,
+        "unitPrice": 16.633333333333333
+      },
+      {
+        "date": "2023-08-25",
+        "price": 3.74,
+        "unitPrice": 12.466666666666667
+      },
+      {
+        "date": "2023-07-19",
+        "price": 4.99,
+        "unitPrice": 16.633333333333333
+      },
+      {
+        "date": "2023-07-14",
+        "price": 3.74,
+        "unitPrice": 12.466666666666667
+      },
+      {
+        "date": "2023-06-11",
+        "price": 4.99,
+        "unitPrice": 16.633333333333333
+      },
+      {
+        "date": "2023-06-07",
+        "price": 3.74,
+        "unitPrice": 12.466666666666667
+      },
+      {
+        "date": "2023-05-20",
+        "price": 4.99,
+        "unitPrice": 16.633333333333333
+      },
+      {
+        "date": "2023-05-18",
+        "price": 3.74,
+        "unitPrice": 12.466666666666667
+      },
+      {
+        "date": "2023-05-17",
+        "price": 4.99,
+        "unitPrice": 16.633333333333333
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 300,
+    "bio": true,
+    "available": false,
+    "url": "https://shop.billa.at/produkte/ja-natuerlich-faschiertes-gemischt-00725870"
+  },
+  {
+    "store": "billa",
+    "id": "00-531215",
+    "name": "Ja! Natürlich Faschiertes mit Kräuterseitlinge",
+    "category": "32",
+    "price": 4.99,
+    "priceHistory": [
+      {
+        "date": "2024-11-03",
+        "price": 4.99,
+        "unitPrice": 16.633333333333333
+      },
+      {
+        "date": "2024-10-31",
+        "price": 3.74,
+        "unitPrice": 12.466666666666667
+      },
+      {
+        "date": "2024-10-22",
+        "price": 4.99,
+        "unitPrice": 16.633333333333333
+      },
+      {
+        "date": "2024-10-17",
+        "price": 3.74,
+        "unitPrice": 12.466666666666667
+      },
+      {
+        "date": "2024-09-09",
+        "price": 4.99,
+        "unitPrice": 16.633333333333333
+      },
+      {
+        "date": "2024-09-02",
+        "price": 3.74,
+        "unitPrice": 12.466666666666667
+      },
+      {
+        "date": "2024-08-12",
+        "price": 4.99,
+        "unitPrice": 16.633333333333333
+      },
+      {
+        "date": "2024-08-05",
+        "price": 3.74,
+        "unitPrice": 12.466666666666667
+      },
+      {
+        "date": "2024-07-05",
+        "price": 4.99,
+        "unitPrice": 16.633333333333333
+      },
+      {
+        "date": "2024-06-28",
+        "price": 3.74,
+        "unitPrice": 12.466666666666667
+      },
+      {
+        "date": "2024-06-14",
+        "price": 4.99,
+        "unitPrice": 16.633333333333333
+      },
+      {
+        "date": "2024-06-07",
+        "price": 3.74,
+        "unitPrice": 12.466666666666667
+      },
+      {
+        "date": "2024-04-28",
+        "price": 4.99,
+        "unitPrice": 16.633333333333333
+      },
+      {
+        "date": "2024-04-26",
+        "price": 3.74,
+        "unitPrice": 12.466666666666667
+      },
+      {
+        "date": "2024-03-05",
+        "price": 4.99,
+        "unitPrice": 16.633333333333333
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 300,
+    "bio": true,
+    "available": false,
+    "url": "https://shop.billa.at/produkte/ja-natuerlich-faschiertes-mit-kraeuterseitlinge-00531215"
+  },
+  {
+    "store": "billa",
+    "id": "00-725875",
+    "name": "Ja! Natürlich Faschiertes mit Kräuterseitlinge",
+    "category": "32",
+    "price": 4.99,
+    "priceHistory": [
+      {
+        "date": "2024-02-24",
+        "price": 4.99,
+        "unitPrice": 16.633333333333333
+      },
+      {
+        "date": "2024-02-16",
+        "price": 3.74,
+        "unitPrice": 12.466666666666667
+      },
+      {
+        "date": "2024-01-12",
+        "price": 4.99,
+        "unitPrice": 16.633333333333333
+      },
+      {
+        "date": "2024-01-10",
+        "price": 3.74,
+        "unitPrice": 12.466666666666667
+      },
+      {
+        "date": "2024-01-06",
+        "price": 4.99,
+        "unitPrice": 16.633333333333333
+      },
+      {
+        "date": "2024-01-04",
+        "price": 3.74,
+        "unitPrice": 12.466666666666667
+      },
+      {
+        "date": "2023-12-15",
+        "price": 4.99,
+        "unitPrice": 16.633333333333333
+      },
+      {
+        "date": "2023-12-11",
+        "price": 3.74,
+        "unitPrice": 12.466666666666667
+      },
+      {
+        "date": "2023-11-19",
+        "price": 4.99,
+        "unitPrice": 16.633333333333333
+      },
+      {
+        "date": "2023-11-15",
+        "price": 3.74,
+        "unitPrice": 12.466666666666667
+      },
+      {
+        "date": "2023-10-05",
+        "price": 4.99,
+        "unitPrice": 16.633333333333333
+      },
+      {
+        "date": "2023-09-28",
+        "price": 3.74,
+        "unitPrice": 12.466666666666667
+      },
+      {
+        "date": "2023-08-27",
+        "price": 4.99,
+        "unitPrice": 16.633333333333333
+      },
+      {
+        "date": "2023-08-25",
+        "price": 3.74,
+        "unitPrice": 12.466666666666667
+      },
+      {
+        "date": "2023-07-19",
+        "price": 4.99,
+        "unitPrice": 16.633333333333333
+      },
+      {
+        "date": "2023-07-14",
+        "price": 3.74,
+        "unitPrice": 12.466666666666667
+      },
+      {
+        "date": "2023-06-11",
+        "price": 4.99,
+        "unitPrice": 16.633333333333333
+      },
+      {
+        "date": "2023-06-07",
+        "price": 3.74,
+        "unitPrice": 12.466666666666667
+      },
+      {
+        "date": "2023-05-17",
+        "price": 4.99,
+        "unitPrice": 16.633333333333333
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 300,
+    "bio": true,
+    "available": false,
+    "url": "https://shop.billa.at/produkte/ja-natuerlich-faschiertes-mit-kraeuterseitlinge-00725875"
+  },
+  {
+    "store": "billa",
+    "id": "00-256073",
+    "name": "Ja! Natürlich Rinderfaschiertes",
+    "category": "32",
+    "price": 11.59,
+    "priceHistory": [
+      {
+        "date": "2025-01-05",
+        "price": 11.59,
+        "unitPrice": 16.557142857142857
+      },
+      {
+        "date": "2025-01-03",
+        "price": 8.69,
+        "unitPrice": 12.414285714285713
+      },
+      {
+        "date": "2024-12-13",
+        "price": 11.59,
+        "unitPrice": 16.557142857142857
+      },
+      {
+        "date": "2024-12-08",
+        "price": 8.69,
+        "unitPrice": 12.414285714285713
+      },
+      {
+        "date": "2024-11-03",
+        "price": 11.59,
+        "unitPrice": 16.557142857142857
+      },
+      {
+        "date": "2024-10-31",
+        "price": 8.69,
+        "unitPrice": 12.414285714285713
+      },
+      {
+        "date": "2024-10-22",
+        "price": 11.59,
+        "unitPrice": 16.557142857142857
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 700,
+    "bio": true,
+    "available": false,
+    "url": "https://shop.billa.at/produkte/ja-natuerlich-rinderfaschiertes-00256073"
+  },
+  {
+    "store": "billa",
+    "id": "00-527272",
+    "name": "Ja! Natürlich Rinderfaschiertes",
+    "category": "32",
+    "price": 4.99,
+    "priceHistory": [
+      {
+        "date": "2024-09-09",
+        "price": 4.99,
+        "unitPrice": 16.633333333333333
+      },
+      {
+        "date": "2024-09-04",
+        "price": 3.74,
+        "unitPrice": 12.466666666666667
+      },
+      {
+        "date": "2024-08-22",
+        "price": 4.99,
+        "unitPrice": 16.633333333333333
+      },
+      {
+        "date": "2024-08-14",
+        "price": 3.99,
+        "unitPrice": 13.3
+      },
+      {
+        "date": "2024-08-12",
+        "price": 4.99,
+        "unitPrice": 16.633333333333333
+      },
+      {
+        "date": "2024-08-05",
+        "price": 3.74,
+        "unitPrice": 12.466666666666667
+      },
+      {
+        "date": "2024-07-05",
+        "price": 4.99,
+        "unitPrice": 16.633333333333333
+      },
+      {
+        "date": "2024-06-28",
+        "price": 3.74,
+        "unitPrice": 12.466666666666667
+      },
+      {
+        "date": "2024-06-14",
+        "price": 4.99,
+        "unitPrice": 16.633333333333333
+      },
+      {
+        "date": "2024-06-07",
+        "price": 3.74,
+        "unitPrice": 12.466666666666667
+      },
+      {
+        "date": "2024-04-28",
+        "price": 4.99,
+        "unitPrice": 16.633333333333333
+      },
+      {
+        "date": "2024-04-26",
+        "price": 3.74,
+        "unitPrice": 12.466666666666667
+      },
+      {
+        "date": "2024-02-24",
+        "price": 4.99,
+        "unitPrice": 16.633333333333333
+      },
+      {
+        "date": "2024-02-16",
+        "price": 3.74,
+        "unitPrice": 12.466666666666667
+      },
+      {
+        "date": "2024-01-31",
+        "price": 4.99,
+        "unitPrice": 16.633333333333333
+      },
+      {
+        "date": "2024-01-29",
+        "price": 5.49,
+        "unitPrice": 18.3
+      },
+      {
+        "date": "2024-01-18",
+        "price": 4.99,
+        "unitPrice": 16.633333333333333
+      },
+      {
+        "date": "2024-01-11",
+        "price": 3.99,
+        "unitPrice": 13.3
+      },
+      {
+        "date": "2024-01-06",
+        "price": 4.99,
+        "unitPrice": 16.633333333333333
+      },
+      {
+        "date": "2024-01-04",
+        "price": 3.74,
+        "unitPrice": 12.466666666666667
+      },
+      {
+        "date": "2023-12-15",
+        "price": 4.99,
+        "unitPrice": 16.633333333333333
+      },
+      {
+        "date": "2023-12-14",
+        "price": 3.74,
+        "unitPrice": 12.466666666666667
+      },
+      {
+        "date": "2023-12-11",
+        "price": 2.24,
+        "unitPrice": 7.466666666666668
+      },
+      {
+        "date": "2023-12-07",
+        "price": 2.99,
+        "unitPrice": 9.966666666666667
+      },
+      {
+        "date": "2023-11-19",
+        "price": 4.99,
+        "unitPrice": 16.633333333333333
+      },
+      {
+        "date": "2023-11-15",
+        "price": 3.74,
+        "unitPrice": 12.466666666666667
+      },
+      {
+        "date": "2023-11-02",
+        "price": 4.99,
+        "unitPrice": 16.633333333333333
+      },
+      {
+        "date": "2023-10-25",
+        "price": 5.49,
+        "unitPrice": 18.3
+      },
+      {
+        "date": "2023-10-21",
+        "price": 4.49,
+        "unitPrice": 14.966666666666669
+      },
+      {
+        "date": "2023-10-12",
+        "price": 5.49,
+        "unitPrice": 18.3
+      },
+      {
+        "date": "2023-10-05",
+        "price": 3.99,
+        "unitPrice": 13.3
+      },
+      {
+        "date": "2023-09-28",
+        "price": 4.12,
+        "unitPrice": 13.733333333333334
+      },
+      {
+        "date": "2023-08-27",
+        "price": 5.49,
+        "unitPrice": 18.3
+      },
+      {
+        "date": "2023-08-25",
+        "price": 4.12,
+        "unitPrice": 13.733333333333334
+      },
+      {
+        "date": "2023-08-24",
+        "price": 5.49,
+        "unitPrice": 18.3
+      },
+      {
+        "date": "2023-08-17",
+        "price": 4.49,
+        "unitPrice": 14.966666666666669
+      },
+      {
+        "date": "2023-08-10",
+        "price": 5.49,
+        "unitPrice": 18.3
+      },
+      {
+        "date": "2023-08-03",
+        "price": 4.49,
+        "unitPrice": 14.966666666666669
+      },
+      {
+        "date": "2023-07-20",
+        "price": 5.49,
+        "unitPrice": 18.3
+      },
+      {
+        "date": "2023-07-19",
+        "price": 3.99,
+        "unitPrice": 13.3
+      },
+      {
+        "date": "2023-07-14",
+        "price": 2.99,
+        "unitPrice": 9.966666666666667
+      },
+      {
+        "date": "2023-07-13",
+        "price": 3.99,
+        "unitPrice": 13.3
+      },
+      {
+        "date": "2023-06-22",
+        "price": 5.49,
+        "unitPrice": 18.3
+      },
+      {
+        "date": "2023-06-15",
+        "price": 3.99,
+        "unitPrice": 13.3
+      },
+      {
+        "date": "2023-06-11",
+        "price": 5.49,
+        "unitPrice": 18.3
+      },
+      {
+        "date": "2023-06-07",
+        "price": 4.12,
+        "unitPrice": 13.733333333333334
+      },
+      {
+        "date": "2023-04-22",
+        "price": 5.49,
+        "unitPrice": 18.3
+      },
+      {
+        "date": "2023-03-01",
+        "price": 4.99,
+        "unitPrice": 16.633333333333333
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 300,
+    "bio": true,
+    "available": false,
+    "url": "https://shop.billa.at/produkte/ja-natuerlich-rinderfaschiertes-00527272"
+  },
+  {
+    "store": "billa",
+    "id": "00-738300",
+    "name": "Vegavita Faschiertes",
+    "category": "30",
+    "price": 2.19,
+    "priceHistory": [
+      {
+        "date": "2024-06-06",
+        "price": 2.19,
+        "unitPrice": 10.95
+      },
+      {
+        "date": "2024-05-31",
+        "price": 1.64,
+        "unitPrice": 8.2
+      },
+      {
+        "date": "2024-04-18",
+        "price": 2.19,
+        "unitPrice": 10.95
+      },
+      {
+        "date": "2024-04-15",
+        "price": 1.64,
+        "unitPrice": 8.2
+      },
+      {
+        "date": "2024-02-14",
+        "price": 2.19,
+        "unitPrice": 10.95
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 200,
+    "bio": false,
+    "available": false,
+    "url": "https://shop.billa.at/produkte/vegavita-faschiertes-00738300"
+  },
+  {
+    "store": "billa",
+    "id": "00-726192",
+    "name": "Vegavita Faschiertes",
+    "category": "30",
+    "price": 2.99,
+    "priceHistory": [
+      {
+        "date": "2023-08-02",
+        "price": 2.99,
+        "unitPrice": 14.950000000000001
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 200,
+    "bio": false,
+    "available": false,
+    "url": "https://shop.billa.at/produkte/"
+  },
+  {
+    "store": "hofer",
+    "id": 546475,
+    "name": "ZURÜCK ZUM URSPRUNG Faschiertes vom Bergrind 500g",
+    "category": "32",
+    "price": 6.99,
+    "priceHistory": [
+      {
+        "date": "2023-05-18",
+        "price": 6.99,
+        "unitPrice": 13.98
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 500,
+    "bio": true,
+    "available": false,
+    "url": "https://www.roksh.at/hofer/produkte/rind/ZZU-Rinderfaschiertes-500g"
+  },
+  {
+    "store": "mpreis",
+    "id": "737954",
+    "name": "Bio v. Berg Tir. Sommerrind Faschiertes",
+    "category": "37",
+    "price": 6.39,
+    "priceHistory": [
+      {
+        "date": "2023-05-26",
+        "price": 6.39,
+        "unitPrice": 15.975
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 400,
+    "bio": true,
+    "available": false,
+    "url": "https://www.mpreis.at/shop/p/737954"
+  },
+  {
+    "store": "mpreis",
+    "id": "736001",
+    "name": "Bio v.Berg Tir. Faschiertes gemischt",
+    "category": "37",
+    "price": 5.49,
+    "priceHistory": [
+      {
+        "date": "2024-04-15",
+        "price": 5.49,
+        "unitPrice": 16.636363636363637
+      },
+      {
+        "date": "2024-04-08",
+        "price": 4.12,
+        "unitPrice": 12.484848484848486
+      },
+      {
+        "date": "2023-05-26",
+        "price": 5.49,
+        "unitPrice": 16.636363636363637
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 330,
+    "bio": true,
+    "available": false,
+    "url": "https://www.mpreis.at/shop/p/736001"
+  },
+  {
+    "store": "mpreis",
+    "id": "751011",
+    "name": "Bio v.Berg Tir. Faschiertes gemischt",
+    "category": "37",
+    "price": 5.99,
+    "priceHistory": [
+      {
+        "date": "2023-05-26",
+        "price": 5.99,
+        "unitPrice": 14.975
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 400,
+    "bio": true,
+    "available": false,
+    "url": "https://www.mpreis.at/shop/p/751011"
+  },
+  {
+    "store": "mpreis",
+    "id": "750480",
+    "name": "Bio v.Berg Tir. Jungrind Faschiertes",
+    "category": "37",
+    "price": 5.79,
+    "priceHistory": [
+      {
+        "date": "2024-04-15",
+        "price": 5.79,
+        "unitPrice": 17.545454545454543
+      },
+      {
+        "date": "2024-04-08",
+        "price": 4.34,
+        "unitPrice": 13.151515151515152
+      },
+      {
+        "date": "2024-01-01",
+        "price": 5.79,
+        "unitPrice": 17.545454545454543
+      },
+      {
+        "date": "2023-12-11",
+        "price": 4.99,
+        "unitPrice": 15.121212121212123
+      },
+      {
+        "date": "2023-12-04",
+        "price": 5.79,
+        "unitPrice": 17.545454545454543
+      },
+      {
+        "date": "2023-11-27",
+        "price": 3.99,
+        "unitPrice": 12.090909090909092
+      },
+      {
+        "date": "2023-11-13",
+        "price": 5.79,
+        "unitPrice": 17.545454545454543
+      },
+      {
+        "date": "2023-10-30",
+        "price": 4.99,
+        "unitPrice": 15.121212121212123
+      },
+      {
+        "date": "2023-10-16",
+        "price": 5.79,
+        "unitPrice": 17.545454545454543
+      },
+      {
+        "date": "2023-10-02",
+        "price": 4.99,
+        "unitPrice": 15.121212121212123
+      },
+      {
+        "date": "2023-05-26",
+        "price": 5.79,
+        "unitPrice": 17.545454545454543
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 330,
+    "bio": true,
+    "available": false,
+    "url": "https://www.mpreis.at/shop/p/750480"
+  },
+  {
+    "store": "mpreis",
+    "id": "750460",
+    "name": "Bio vom Berg Sommerrind Faschiertes",
+    "category": "37",
+    "price": 5.79,
+    "priceHistory": [
+      {
+        "date": "2024-06-10",
+        "price": 5.79,
+        "unitPrice": 19.3
+      },
+      {
+        "date": "2024-06-03",
+        "price": 4.99,
+        "unitPrice": 16.633333333333333
+      },
+      {
+        "date": "2024-04-29",
+        "price": 5.79,
+        "unitPrice": 19.3
+      },
+      {
+        "date": "2024-04-22",
+        "price": 4.99,
+        "unitPrice": 16.633333333333333
+      },
+      {
+        "date": "2024-04-17",
+        "price": 5.79,
+        "unitPrice": 19.3
+      },
+      {
+        "date": "2023-05-26",
+        "price": 4.99,
+        "unitPrice": 16.633333333333333
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 300,
+    "bio": true,
+    "available": false,
+    "url": "https://www.mpreis.at/shop/p/750460"
+  },
+  {
+    "store": "mpreis",
+    "id": "736004",
+    "name": "Faschiertes gemischt",
+    "category": "37",
+    "price": 5.49,
+    "priceHistory": [
+      {
+        "date": "2023-11-20",
+        "price": 5.49,
+        "unitPrice": 10.98
+      },
+      {
+        "date": "2023-11-13",
+        "price": 3.49,
+        "unitPrice": 6.98
+      },
+      {
+        "date": "2023-05-26",
+        "price": 5.49,
+        "unitPrice": 10.98
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 500,
+    "bio": false,
+    "available": false,
+    "url": "https://www.mpreis.at/shop/p/736004"
+  },
+  {
+    "store": "mpreis",
+    "id": "750206",
+    "name": "Faschiertes gemischt",
+    "category": "37",
+    "price": 3.99,
+    "priceHistory": [
+      {
+        "date": "2023-05-26",
+        "price": 3.99,
+        "unitPrice": 8.866666666666667
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 450,
+    "bio": false,
+    "available": false,
+    "url": "https://www.mpreis.at/shop/p/750206"
+  },
+  {
+    "store": "mpreis",
+    "id": "736005",
+    "name": "Faschiertes gemischt Großpackung",
+    "category": "37",
+    "price": 6.99,
+    "priceHistory": [
+      {
+        "date": "2023-05-26",
+        "price": 6.99,
+        "unitPrice": 6.99
+      }
+    ],
+    "isWeighted": true,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": false,
+    "available": false,
+    "url": "https://www.mpreis.at/shop/p/736005"
+  },
+  {
+    "store": "mpreis",
+    "id": "736003",
+    "name": "Faschiertes gemischt Großpackung",
+    "category": "37",
+    "price": 6.99,
+    "priceHistory": [
+      {
+        "date": "2023-05-26",
+        "price": 6.99,
+        "unitPrice": 6.99
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": false,
+    "available": false,
+    "url": "https://www.mpreis.at/shop/p/736003"
+  },
+  {
+    "store": "mpreis",
+    "id": "750200",
+    "name": "Faschiertes mager gemischt",
+    "category": "37",
+    "price": 5.99,
+    "priceHistory": [
+      {
+        "date": "2023-05-26",
+        "price": 5.99,
+        "unitPrice": 13.311111111111112
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 450,
+    "bio": false,
+    "available": false,
+    "url": "https://www.mpreis.at/shop/p/750200"
+  },
+  {
+    "store": "mpreis",
+    "id": "736007",
+    "name": "JT Faschiertes gemischt",
+    "category": "37",
+    "price": 6.99,
+    "priceHistory": [
+      {
+        "date": "2024-03-18",
+        "price": 6.99,
+        "unitPrice": 6.99
+      },
+      {
+        "date": "2024-03-11",
+        "price": 4.99,
+        "unitPrice": 4.99
+      },
+      {
+        "date": "2024-02-12",
+        "price": 6.99,
+        "unitPrice": 6.99
+      },
+      {
+        "date": "2024-02-07",
+        "price": 4.99,
+        "unitPrice": 4.99
+      },
+      {
+        "date": "2024-01-01",
+        "price": 6.99,
+        "unitPrice": 6.99
+      },
+      {
+        "date": "2023-11-03",
+        "price": 5.99,
+        "unitPrice": 5.99
+      },
+      {
+        "date": "2023-05-26",
+        "price": 6.99,
+        "unitPrice": 6.99
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": false,
+    "available": false,
+    "url": "https://www.mpreis.at/shop/p/736007"
+  },
+  {
+    "store": "mpreis",
+    "id": "750215",
+    "name": "Natur Fair Faschiertes gem.mager",
+    "category": "37",
+    "price": 3.99,
+    "priceHistory": [
+      {
+        "date": "2023-12-03",
+        "price": 3.99,
+        "unitPrice": 15.960000000000003
+      },
+      {
+        "date": "2023-06-26",
+        "price": 3.79,
+        "unitPrice": 15.16
+      },
+      {
+        "date": "2023-06-12",
+        "price": 2.99,
+        "unitPrice": 11.96
+      },
+      {
+        "date": "2023-05-26",
+        "price": 3.79,
+        "unitPrice": 15.16
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 250,
+    "bio": false,
+    "available": false,
+    "url": "https://www.mpreis.at/shop/p/750215"
+  },
+  {
+    "store": "mpreis",
+    "id": "736015",
+    "name": "Rinds Faschiertes",
+    "category": "37",
+    "price": 4.89,
+    "priceHistory": [
+      {
+        "date": "2023-10-30",
+        "price": 4.89,
+        "unitPrice": 14.818181818181817
+      },
+      {
+        "date": "2023-05-29",
+        "price": 4.99,
+        "unitPrice": 15.121212121212123
+      },
+      {
+        "date": "2023-05-26",
+        "price": 3.49,
+        "unitPrice": 10.575757575757576
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 330,
+    "bio": false,
+    "available": false,
+    "url": "https://www.mpreis.at/shop/p/736015"
+  },
+  {
+    "store": "mpreis",
+    "id": "750325",
+    "name": "Rinds Faschiertes",
+    "category": "37",
+    "price": 6.49,
+    "priceHistory": [
+      {
+        "date": "2023-05-26",
+        "price": 6.49,
+        "unitPrice": 12.98
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 500,
+    "bio": false,
+    "available": false,
+    "url": "https://www.mpreis.at/shop/p/750325"
+  },
+  {
+    "store": "mpreis",
+    "id": "736019",
+    "name": "Tiroler Jahrlings Faschiertes",
+    "category": "37",
+    "price": 4.99,
+    "priceHistory": [
+      {
+        "date": "2023-05-26",
+        "price": 4.99,
+        "unitPrice": 12.475
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 400,
+    "bio": false,
+    "available": false,
+    "url": "https://www.mpreis.at/shop/p/736019"
+  },
+  {
+    "store": "spar",
+    "id": "2020003163333",
+    "name": "Garden Gourmet Incredible Faschiertes aus Sojaeiweiss",
+    "category": "3B",
+    "price": 3.99,
+    "priceHistory": [
+      {
+        "date": "2024-03-01",
+        "price": 3.99,
+        "unitPrice": 19.950000000000003
+      },
+      {
+        "date": "2023-02-02",
+        "price": 4.29,
+        "unitPrice": 21.45
+      },
+      {
+        "date": "2022-04-28",
+        "price": 3.89,
+        "unitPrice": 19.450000000000003
+      },
+      {
+        "date": "2022-04-06",
+        "price": 2.99,
+        "unitPrice": 14.950000000000001
+      },
+      {
+        "date": "2022-03-04",
+        "price": 3.89,
+        "unitPrice": 19.450000000000003
+      },
+      {
+        "date": "2022-02-24",
+        "price": 2.89,
+        "unitPrice": 14.450000000000001
+      },
+      {
+        "date": "2022-02-04",
+        "price": 3.89,
+        "unitPrice": 19.450000000000003
+      },
+      {
+        "date": "2022-01-20",
+        "price": 2.89,
+        "unitPrice": 14.450000000000001
+      },
+      {
+        "date": "2021-12-03",
+        "price": 3.89,
+        "unitPrice": 19.450000000000003
+      },
+      {
+        "date": "2021-11-18",
+        "price": 2.89,
+        "unitPrice": 14.450000000000001
+      },
+      {
+        "date": "2021-08-26",
+        "price": 3.89,
+        "unitPrice": 19.450000000000003
+      },
+      {
+        "date": "2021-08-18",
+        "price": 2.89,
+        "unitPrice": 14.450000000000001
+      },
+      {
+        "date": "2021-06-02",
+        "price": 3.89,
+        "unitPrice": 19.450000000000003
+      },
+      {
+        "date": "2021-05-26",
+        "price": 2.99,
+        "unitPrice": 14.950000000000001
+      },
+      {
+        "date": "2021-05-20",
+        "price": 3.89,
+        "unitPrice": 19.450000000000003
+      },
+      {
+        "date": "2021-05-04",
+        "price": 2.99,
+        "unitPrice": 14.950000000000001
+      },
+      {
+        "date": "2021-04-22",
+        "price": 3.89,
+        "unitPrice": 19.450000000000003
+      },
+      {
+        "date": "2021-04-07",
+        "price": 2.99,
+        "unitPrice": 14.950000000000001
+      },
+      {
+        "date": "2021-03-05",
+        "price": 3.89,
+        "unitPrice": 19.450000000000003
+      },
+      {
+        "date": "2021-02-18",
+        "price": 2.99,
+        "unitPrice": 14.950000000000001
+      },
+      {
+        "date": "2020-07-09",
+        "price": 3.89,
+        "unitPrice": 19.450000000000003
+      },
+      {
+        "date": "2020-06-25",
+        "price": 2.89,
+        "unitPrice": 14.450000000000001
+      },
+      {
+        "date": "2019-10-19",
+        "price": 3.89,
+        "unitPrice": 19.450000000000003
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 200,
+    "bio": false,
+    "available": true,
+    "url": "https://www.interspar.at/shop/lebensmittel/p/2020003163333"
+  },
+  {
+    "store": "spar",
+    "id": "2020002281397",
+    "name": "S-BUDGET Faschiertes gemischt per Packung",
+    "category": "32",
+    "price": 6.99,
+    "priceHistory": [
+      {
+        "date": "2025-08-14",
+        "price": 6.99,
+        "unitPrice": 9.985714285714286
+      },
+      {
+        "date": "2025-08-09",
+        "price": 5.99,
+        "unitPrice": 8.557142857142857
+      },
+      {
+        "date": "2025-07-31",
+        "price": 4.99,
+        "unitPrice": 7.128571428571428
+      },
+      {
+        "date": "2025-07-03",
+        "price": 6.99,
+        "unitPrice": 9.985714285714286
+      },
+      {
+        "date": "2025-06-18",
+        "price": 5.99,
+        "unitPrice": 8.557142857142857
+      },
+      {
+        "date": "2025-06-05",
+        "price": 6.99,
+        "unitPrice": 9.985714285714286
+      },
+      {
+        "date": "2025-05-22",
+        "price": 5.49,
+        "unitPrice": 7.8428571428571425
+      },
+      {
+        "date": "2025-05-14",
+        "price": 6.49,
+        "unitPrice": 9.27142857142857
+      },
+      {
+        "date": "2024-11-28",
+        "price": 6.29,
+        "unitPrice": 8.985714285714286
+      },
+      {
+        "date": "2024-11-15",
+        "price": 4.49,
+        "unitPrice": 6.414285714285715
+      },
+      {
+        "date": "2024-10-21",
+        "price": 6.29,
+        "unitPrice": 8.985714285714286
+      },
+      {
+        "date": "2024-08-08",
+        "price": 5.58,
+        "unitPrice": 7.971428571428572
+      },
+      {
+        "date": "2024-07-27",
+        "price": 4.49,
+        "unitPrice": 6.414285714285715
+      },
+      {
+        "date": "2024-07-11",
+        "price": 5.58,
+        "unitPrice": 7.971428571428572
+      },
+      {
+        "date": "2024-07-04",
+        "price": 4.49,
+        "unitPrice": 6.414285714285715
+      },
+      {
+        "date": "2024-06-13",
+        "price": 5.58,
+        "unitPrice": 7.971428571428572
+      },
+      {
+        "date": "2024-05-29",
+        "price": 4.49,
+        "unitPrice": 6.414285714285715
+      },
+      {
+        "date": "2024-05-01",
+        "price": 5.58,
+        "unitPrice": 7.971428571428572
+      },
+      {
+        "date": "2024-04-20",
+        "price": 4.49,
+        "unitPrice": 6.414285714285715
+      },
+      {
+        "date": "2024-03-21",
+        "price": 5.58,
+        "unitPrice": 7.971428571428572
+      },
+      {
+        "date": "2024-02-29",
+        "price": 4.49,
+        "unitPrice": 6.414285714285715
+      },
+      {
+        "date": "2023-11-09",
+        "price": 5.58,
+        "unitPrice": 7.971428571428572
+      },
+      {
+        "date": "2023-10-26",
+        "price": 4.49,
+        "unitPrice": 6.414285714285715
+      },
+      {
+        "date": "2023-09-28",
+        "price": 5.58,
+        "unitPrice": 7.971428571428572
+      },
+      {
+        "date": "2023-09-14",
+        "price": 4.49,
+        "unitPrice": 6.414285714285715
+      },
+      {
+        "date": "2023-08-17",
+        "price": 5.58,
+        "unitPrice": 7.971428571428572
+      },
+      {
+        "date": "2023-08-03",
+        "price": 3.99,
+        "unitPrice": 5.7
+      },
+      {
+        "date": "2023-07-06",
+        "price": 5.58,
+        "unitPrice": 7.971428571428572
+      },
+      {
+        "date": "2023-06-22",
+        "price": 4.49,
+        "unitPrice": 6.414285714285715
+      },
+      {
+        "date": "2023-05-15",
+        "price": 5.58,
+        "unitPrice": 7.971428571428572
+      },
+      {
+        "date": "2023-04-28",
+        "price": 4.49,
+        "unitPrice": 6.414285714285715
+      },
+      {
+        "date": "2023-04-14",
+        "price": 5.58,
+        "unitPrice": 7.971428571428572
+      },
+      {
+        "date": "2023-03-30",
+        "price": 4.49,
+        "unitPrice": 6.414285714285715
+      },
+      {
+        "date": "2023-03-16",
+        "price": 5.58,
+        "unitPrice": 7.971428571428572
+      },
+      {
+        "date": "2023-03-02",
+        "price": 3.99,
+        "unitPrice": 5.7
+      },
+      {
+        "date": "2023-02-16",
+        "price": 5.58,
+        "unitPrice": 7.971428571428572
+      },
+      {
+        "date": "2023-02-06",
+        "price": 3.99,
+        "unitPrice": 5.7
+      },
+      {
+        "date": "2023-02-02",
+        "price": 5.99,
+        "unitPrice": 8.557142857142857
+      },
+      {
+        "date": "2023-01-24",
+        "price": 3.99,
+        "unitPrice": 5.7
+      },
+      {
+        "date": "2023-01-02",
+        "price": 5.99,
+        "unitPrice": 8.557142857142857
+      },
+      {
+        "date": "2022-12-01",
+        "price": 4.99,
+        "unitPrice": 7.128571428571428
+      },
+      {
+        "date": "2022-11-18",
+        "price": 4.49,
+        "unitPrice": 6.414285714285715
+      },
+      {
+        "date": "2022-11-03",
+        "price": 4.99,
+        "unitPrice": 7.128571428571428
+      },
+      {
+        "date": "2022-10-06",
+        "price": 3.99,
+        "unitPrice": 5.7
+      },
+      {
+        "date": "2022-04-08",
+        "price": 4.99,
+        "unitPrice": 7.128571428571428
+      },
+      {
+        "date": "2022-03-26",
+        "price": 3.49,
+        "unitPrice": 4.985714285714286
+      },
+      {
+        "date": "2022-03-10",
+        "price": 4.49,
+        "unitPrice": 6.414285714285715
+      },
+      {
+        "date": "2022-02-18",
+        "price": 3.49,
+        "unitPrice": 4.985714285714286
+      },
+      {
+        "date": "2022-02-04",
+        "price": 2.99,
+        "unitPrice": 4.271428571428572
+      },
+      {
+        "date": "2021-09-25",
+        "price": 3.49,
+        "unitPrice": 4.985714285714286
+      },
+      {
+        "date": "2021-09-08",
+        "price": 2.99,
+        "unitPrice": 4.271428571428572
+      },
+      {
+        "date": "2021-08-12",
+        "price": 3.49,
+        "unitPrice": 4.985714285714286
+      },
+      {
+        "date": "2021-07-28",
+        "price": 2.99,
+        "unitPrice": 4.271428571428572
+      },
+      {
+        "date": "2021-03-26",
+        "price": 3.49,
+        "unitPrice": 4.985714285714286
+      },
+      {
+        "date": "2021-03-11",
+        "price": 2.99,
+        "unitPrice": 4.271428571428572
+      },
+      {
+        "date": "2021-02-17",
+        "price": 3.49,
+        "unitPrice": 4.985714285714286
+      },
+      {
+        "date": "2018-02-08",
+        "price": 3.99,
+        "unitPrice": 5.7
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 700,
+    "bio": false,
+    "available": true,
+    "url": "https://www.interspar.at/shop/lebensmittel/p/2020002281397"
+  },
+  {
+    "store": "spar",
+    "id": "2020004910691",
+    "name": "S-BUDGET Hühner-Faschiertes Frisch",
+    "category": "32",
+    "price": 4.49,
+    "priceHistory": [
+      {
+        "date": "2025-08-14",
+        "price": 4.49,
+        "unitPrice": 11.225000000000001
+      },
+      {
+        "date": "2025-05-26",
+        "price": 4.29,
+        "unitPrice": 10.725
+      },
+      {
+        "date": "2025-05-21",
+        "price": 3.99,
+        "unitPrice": 9.975000000000001
+      },
+      {
+        "date": "2025-05-19",
+        "price": 4.29,
+        "unitPrice": 10.725
+      },
+      {
+        "date": "2024-08-31",
+        "price": 3.99,
+        "unitPrice": 9.975000000000001
+      },
+      {
+        "date": "2024-08-29",
+        "price": 1.6,
+        "unitPrice": 4
+      },
+      {
+        "date": "2024-01-19",
+        "price": 3.99,
+        "unitPrice": 9.975000000000001
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 400,
+    "bio": false,
+    "available": false,
+    "url": "https://www.interspar.at/shop/lebensmittel/p/2020004910691"
+  },
+  {
+    "store": "spar",
+    "id": "2020002340674",
+    "name": "S-BUDGET Puten-Faschiertes gewürzt",
+    "category": "32",
+    "price": 4.49,
+    "priceHistory": [
+      {
+        "date": "2025-05-26",
+        "price": 4.49,
+        "unitPrice": 8.98
+      },
+      {
+        "date": "2025-05-21",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2025-05-19",
+        "price": 4.49,
+        "unitPrice": 8.98
+      },
+      {
+        "date": "2022-03-30",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2019-03-05",
+        "price": 3.29,
+        "unitPrice": 6.58
+      },
+      {
+        "date": "2019-02-24",
+        "price": 1.65,
+        "unitPrice": 3.3
+      },
+      {
+        "date": "2018-03-16",
+        "price": 3.29,
+        "unitPrice": 6.58
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 500,
+    "bio": false,
+    "available": true,
+    "url": "https://www.interspar.at/shop/lebensmittel/p/2020002340674"
+  },
+  {
+    "store": "spar",
+    "id": "2020003430169",
+    "name": "S-BUDGET Rinderfaschiertes per Packung",
+    "category": "32",
+    "price": 7.79,
+    "priceHistory": [
+      {
+        "date": "2025-10-24",
+        "price": 7.79,
+        "unitPrice": 12.983333333333333
+      },
+      {
+        "date": "2025-09-15",
+        "price": 7.49,
+        "unitPrice": 12.483333333333334
+      },
+      {
+        "date": "2025-05-28",
+        "price": 7.19,
+        "unitPrice": 11.983333333333334
+      },
+      {
+        "date": "2025-05-14",
+        "price": 6.99,
+        "unitPrice": 11.65
+      },
+      {
+        "date": "2024-12-07",
+        "price": 5.99,
+        "unitPrice": 9.983333333333334
+      },
+      {
+        "date": "2024-10-21",
+        "price": 5.69,
+        "unitPrice": 9.483333333333333
+      },
+      {
+        "date": "2023-05-25",
+        "price": 5.29,
+        "unitPrice": 8.816666666666666
+      },
+      {
+        "date": "2023-05-15",
+        "price": 4.49,
+        "unitPrice": 7.483333333333334
+      },
+      {
+        "date": "2023-01-02",
+        "price": 5.29,
+        "unitPrice": 8.816666666666666
+      },
+      {
+        "date": "2022-03-18",
+        "price": 4.99,
+        "unitPrice": 8.316666666666666
+      },
+      {
+        "date": "2020-06-15",
+        "price": 3.99,
+        "unitPrice": 6.65
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 600,
+    "bio": false,
+    "available": true,
+    "url": "https://www.interspar.at/shop/lebensmittel/p/2020003430169"
+  },
+  {
+    "store": "spar",
+    "id": "2020005657809",
+    "name": "S-BUDGET veganes Faschiertes",
+    "category": "30",
+    "price": 3.59,
+    "priceHistory": [
+      {
+        "date": "2025-05-14",
+        "price": 3.59,
+        "unitPrice": 8.975
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 400,
+    "bio": false,
+    "available": true,
+    "url": "https://www.interspar.at/shop/lebensmittel/p/2020005657809"
+  },
+  {
+    "store": "spar",
+    "id": "2020002801342",
+    "name": "SPAR Natur*pur Bio-Faschiertes gemischt aus Rind- und Schweinefleisch",
+    "category": "32",
+    "price": 19.99,
+    "priceHistory": [
+      {
+        "date": "2025-09-08",
+        "price": 19.99,
+        "unitPrice": 19.99
+      },
+      {
+        "date": "2025-07-05",
+        "price": 18.99,
+        "unitPrice": 18.99
+      },
+      {
+        "date": "2025-05-14",
+        "price": 17.99,
+        "unitPrice": 17.99
+      },
+      {
+        "date": "2022-04-14",
+        "price": 16.99,
+        "unitPrice": 16.99
+      },
+      {
+        "date": "2021-11-26",
+        "price": 12.99,
+        "unitPrice": 12.99
+      },
+      {
+        "date": "2020-08-21",
+        "price": 14.99,
+        "unitPrice": 14.99
+      },
+      {
+        "date": "2020-08-14",
+        "price": 11.99,
+        "unitPrice": 11.99
+      },
+      {
+        "date": "2020-07-09",
+        "price": 14.99,
+        "unitPrice": 14.99
+      },
+      {
+        "date": "2020-06-27",
+        "price": 11.99,
+        "unitPrice": 11.99
+      }
+    ],
+    "isWeighted": true,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": true,
+    "available": true,
+    "url": "https://www.interspar.at/shop/lebensmittel/p/2020002801342"
+  },
+  {
+    "store": "spar",
+    "id": "6761493",
+    "name": "SPAR Natur*pur Bio-Faschiertes gemischt per Packung",
+    "category": "32",
+    "price": 6.99,
+    "priceHistory": [
+      {
+        "date": "2025-09-08",
+        "price": 6.99,
+        "unitPrice": 21.181818181818183
+      },
+      {
+        "date": "2025-05-14",
+        "price": 6.49,
+        "unitPrice": 19.666666666666664
+      },
+      {
+        "date": "2023-03-02",
+        "price": 5.49,
+        "unitPrice": 16.636363636363637
+      },
+      {
+        "date": "2022-03-15",
+        "price": 4.99,
+        "unitPrice": 15.121212121212123
+      },
+      {
+        "date": "2019-11-19",
+        "price": 3.99,
+        "unitPrice": 12.090909090909092
+      },
+      {
+        "date": "2017-04-20",
+        "price": 3.49,
+        "unitPrice": 10.575757575757576
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 330,
+    "bio": true,
+    "available": true,
+    "url": "https://www.interspar.at/shop/lebensmittel/p/6761493"
+  },
+  {
+    "store": "spar",
+    "id": "2020002801403",
+    "name": "SPAR Natur*pur Bio-Rinder-Faschiertes mager",
+    "category": "32",
+    "price": 20.99,
+    "priceHistory": [
+      {
+        "date": "2025-09-08",
+        "price": 20.99,
+        "unitPrice": 20.99
+      },
+      {
+        "date": "2025-06-16",
+        "price": 19.99,
+        "unitPrice": 19.99
+      },
+      {
+        "date": "2025-05-14",
+        "price": 18.99,
+        "unitPrice": 18.99
+      },
+      {
+        "date": "2022-04-10",
+        "price": 16.99,
+        "unitPrice": 16.99
+      },
+      {
+        "date": "2022-03-18",
+        "price": 15.99,
+        "unitPrice": 15.99
+      },
+      {
+        "date": "2019-11-19",
+        "price": 14.99,
+        "unitPrice": 14.99
+      },
+      {
+        "date": "2019-07-05",
+        "price": 13.99,
+        "unitPrice": 13.99
+      },
+      {
+        "date": "2019-06-19",
+        "price": 9.99,
+        "unitPrice": 9.99
+      },
+      {
+        "date": "2019-06-18",
+        "price": 13.99,
+        "unitPrice": 13.99
+      }
+    ],
+    "isWeighted": true,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": true,
+    "available": true,
+    "url": "https://www.interspar.at/shop/lebensmittel/p/2020002801403"
+  },
+  {
+    "store": "spar",
+    "id": "6761462",
+    "name": "SPAR Natur*pur Bio-Rinder-Faschiertes per Packung",
+    "category": "32",
+    "price": 6.99,
+    "priceHistory": [
+      {
+        "date": "2025-09-08",
+        "price": 6.99,
+        "unitPrice": 21.181818181818183
+      },
+      {
+        "date": "2025-06-05",
+        "price": 6.49,
+        "unitPrice": 19.666666666666664
+      },
+      {
+        "date": "2025-05-28",
+        "price": 4.99,
+        "unitPrice": 15.121212121212123
+      },
+      {
+        "date": "2025-05-14",
+        "price": 6.49,
+        "unitPrice": 19.666666666666664
+      },
+      {
+        "date": "2024-12-12",
+        "price": 5.49,
+        "unitPrice": 16.636363636363637
+      },
+      {
+        "date": "2024-12-05",
+        "price": 4.99,
+        "unitPrice": 15.121212121212123
+      },
+      {
+        "date": "2024-11-14",
+        "price": 5.49,
+        "unitPrice": 16.636363636363637
+      },
+      {
+        "date": "2024-11-01",
+        "price": 4.49,
+        "unitPrice": 13.606060606060606
+      },
+      {
+        "date": "2024-04-04",
+        "price": 5.49,
+        "unitPrice": 16.636363636363637
+      },
+      {
+        "date": "2024-03-26",
+        "price": 4.49,
+        "unitPrice": 13.606060606060606
+      },
+      {
+        "date": "2024-03-21",
+        "price": 5.49,
+        "unitPrice": 16.636363636363637
+      },
+      {
+        "date": "2024-03-14",
+        "price": 3.99,
+        "unitPrice": 12.090909090909092
+      },
+      {
+        "date": "2024-02-29",
+        "price": 5.49,
+        "unitPrice": 16.636363636363637
+      },
+      {
+        "date": "2024-02-15",
+        "price": 4.49,
+        "unitPrice": 13.606060606060606
+      },
+      {
+        "date": "2024-01-18",
+        "price": 5.49,
+        "unitPrice": 16.636363636363637
+      },
+      {
+        "date": "2024-01-02",
+        "price": 4.99,
+        "unitPrice": 15.121212121212123
+      },
+      {
+        "date": "2023-08-31",
+        "price": 5.49,
+        "unitPrice": 16.636363636363637
+      },
+      {
+        "date": "2023-08-24",
+        "price": 3.99,
+        "unitPrice": 12.090909090909092
+      },
+      {
+        "date": "2023-08-17",
+        "price": 5.49,
+        "unitPrice": 16.636363636363637
+      },
+      {
+        "date": "2023-08-10",
+        "price": 3.99,
+        "unitPrice": 12.090909090909092
+      },
+      {
+        "date": "2023-03-02",
+        "price": 5.49,
+        "unitPrice": 16.636363636363637
+      },
+      {
+        "date": "2022-03-25",
+        "price": 4.99,
+        "unitPrice": 15.121212121212123
+      },
+      {
+        "date": "2022-03-19",
+        "price": 3.99,
+        "unitPrice": 12.090909090909092
+      },
+      {
+        "date": "2022-03-18",
+        "price": 4.99,
+        "unitPrice": 15.121212121212123
+      },
+      {
+        "date": "2019-11-20",
+        "price": 3.99,
+        "unitPrice": 12.090909090909092
+      },
+      {
+        "date": "2017-10-09",
+        "price": 3.49,
+        "unitPrice": 10.575757575757576
+      },
+      {
+        "date": "2017-07-13",
+        "price": 2.99,
+        "unitPrice": 9.06060606060606
+      },
+      {
+        "date": "2017-06-02",
+        "price": 3.49,
+        "unitPrice": 10.575757575757576
+      },
+      {
+        "date": "2017-05-18",
+        "price": 2.99,
+        "unitPrice": 9.06060606060606
+      },
+      {
+        "date": "2017-04-20",
+        "price": 3.49,
+        "unitPrice": 10.575757575757576
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 330,
+    "bio": true,
+    "available": true,
+    "url": "https://www.interspar.at/shop/lebensmittel/p/6761462"
+  },
+  {
+    "store": "spar",
+    "id": "2020004676078",
+    "name": "SPAR Veggie veganes Faschiertes",
+    "category": "3B",
+    "price": 4.99,
+    "priceHistory": [
+      {
+        "date": "2024-02-01",
+        "price": 4.99,
+        "unitPrice": 18.145454545454548
+      },
+      {
+        "date": "2024-01-02",
+        "price": 3.99,
+        "unitPrice": 14.509090909090911
+      },
+      {
+        "date": "2023-10-12",
+        "price": 4.99,
+        "unitPrice": 18.145454545454548
+      },
+      {
+        "date": "2023-10-10",
+        "price": 3.99,
+        "unitPrice": 14.509090909090911
+      },
+      {
+        "date": "2023-07-06",
+        "price": 4.99,
+        "unitPrice": 18.145454545454548
+      },
+      {
+        "date": "2023-07-04",
+        "price": 3.99,
+        "unitPrice": 14.509090909090911
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 275,
+    "bio": false,
+    "available": true,
+    "url": "https://www.interspar.at/shop/lebensmittel/p/2020004676078"
+  },
+  {
+    "store": "spar",
+    "id": "2020004362032",
+    "name": "SPAR Veggie veganes Faschiertes",
+    "category": "3B",
+    "price": 2.99,
+    "priceHistory": [
+      {
+        "date": "2023-02-02",
+        "price": 2.99,
+        "unitPrice": 21.357142857142858
+      },
+      {
+        "date": "2023-01-18",
+        "price": 2.49,
+        "unitPrice": 17.78571428571429
+      },
+      {
+        "date": "2022-12-17",
+        "price": 2.89,
+        "unitPrice": 20.642857142857142
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 140,
+    "bio": false,
+    "available": false,
+    "url": "https://www.interspar.at/shop/lebensmittel/p/2020004362032"
+  },
+  {
+    "store": "spar",
+    "id": "835022",
+    "name": "TANN Faschiertes gemischt in Bedienung",
+    "category": "32",
+    "price": 13.99,
+    "priceHistory": [
+      {
+        "date": "2025-09-08",
+        "price": 13.99,
+        "unitPrice": 13.99
+      },
+      {
+        "date": "2025-07-17",
+        "price": 12.99,
+        "unitPrice": 12.99
+      },
+      {
+        "date": "2025-07-04",
+        "price": 8.99,
+        "unitPrice": 8.99
+      },
+      {
+        "date": "2025-06-16",
+        "price": 12.99,
+        "unitPrice": 12.99
+      },
+      {
+        "date": "2025-05-14",
+        "price": 11.99,
+        "unitPrice": 11.99
+      },
+      {
+        "date": "2024-11-14",
+        "price": 9.99,
+        "unitPrice": 9.99
+      },
+      {
+        "date": "2024-11-01",
+        "price": 6.99,
+        "unitPrice": 6.99
+      },
+      {
+        "date": "2024-08-22",
+        "price": 9.99,
+        "unitPrice": 9.99
+      },
+      {
+        "date": "2024-08-08",
+        "price": 6.99,
+        "unitPrice": 6.99
+      },
+      {
+        "date": "2024-06-27",
+        "price": 9.99,
+        "unitPrice": 9.99
+      },
+      {
+        "date": "2024-06-15",
+        "price": 6.99,
+        "unitPrice": 6.99
+      },
+      {
+        "date": "2024-05-16",
+        "price": 9.99,
+        "unitPrice": 9.99
+      },
+      {
+        "date": "2024-05-03",
+        "price": 6.99,
+        "unitPrice": 6.99
+      },
+      {
+        "date": "2024-04-04",
+        "price": 9.99,
+        "unitPrice": 9.99
+      },
+      {
+        "date": "2024-03-21",
+        "price": 6.99,
+        "unitPrice": 6.99
+      },
+      {
+        "date": "2024-02-15",
+        "price": 9.99,
+        "unitPrice": 9.99
+      },
+      {
+        "date": "2024-02-01",
+        "price": 6.99,
+        "unitPrice": 6.99
+      },
+      {
+        "date": "2024-01-18",
+        "price": 9.99,
+        "unitPrice": 9.99
+      },
+      {
+        "date": "2024-01-02",
+        "price": 6.99,
+        "unitPrice": 6.99
+      },
+      {
+        "date": "2023-11-23",
+        "price": 9.99,
+        "unitPrice": 9.99
+      },
+      {
+        "date": "2023-11-09",
+        "price": 7.99,
+        "unitPrice": 7.99
+      },
+      {
+        "date": "2023-10-12",
+        "price": 9.99,
+        "unitPrice": 9.99
+      },
+      {
+        "date": "2023-09-28",
+        "price": 7.99,
+        "unitPrice": 7.99
+      },
+      {
+        "date": "2023-08-31",
+        "price": 9.99,
+        "unitPrice": 9.99
+      },
+      {
+        "date": "2023-08-17",
+        "price": 7.99,
+        "unitPrice": 7.99
+      },
+      {
+        "date": "2023-07-20",
+        "price": 9.99,
+        "unitPrice": 9.99
+      },
+      {
+        "date": "2023-07-06",
+        "price": 6.99,
+        "unitPrice": 6.99
+      },
+      {
+        "date": "2023-04-28",
+        "price": 9.99,
+        "unitPrice": 9.99
+      },
+      {
+        "date": "2023-04-14",
+        "price": 6.99,
+        "unitPrice": 6.99
+      },
+      {
+        "date": "2023-03-02",
+        "price": 9.99,
+        "unitPrice": 9.99
+      },
+      {
+        "date": "2023-02-16",
+        "price": 6.99,
+        "unitPrice": 6.99
+      },
+      {
+        "date": "2022-12-15",
+        "price": 9.99,
+        "unitPrice": 9.99
+      },
+      {
+        "date": "2022-12-01",
+        "price": 6.99,
+        "unitPrice": 6.99
+      },
+      {
+        "date": "2022-11-03",
+        "price": 9.99,
+        "unitPrice": 9.99
+      },
+      {
+        "date": "2022-10-20",
+        "price": 6.99,
+        "unitPrice": 6.99
+      },
+      {
+        "date": "2022-10-06",
+        "price": 9.99,
+        "unitPrice": 9.99
+      },
+      {
+        "date": "2022-04-28",
+        "price": 6.99,
+        "unitPrice": 6.99
+      },
+      {
+        "date": "2022-04-07",
+        "price": 9.99,
+        "unitPrice": 9.99
+      },
+      {
+        "date": "2022-03-10",
+        "price": 8.99,
+        "unitPrice": 8.99
+      },
+      {
+        "date": "2022-01-21",
+        "price": 7.99,
+        "unitPrice": 7.99
+      },
+      {
+        "date": "2022-01-04",
+        "price": 5.99,
+        "unitPrice": 5.99
+      },
+      {
+        "date": "2021-12-17",
+        "price": 7.99,
+        "unitPrice": 7.99
+      },
+      {
+        "date": "2021-12-03",
+        "price": 5.99,
+        "unitPrice": 5.99
+      },
+      {
+        "date": "2021-11-19",
+        "price": 7.99,
+        "unitPrice": 7.99
+      },
+      {
+        "date": "2021-11-05",
+        "price": 5.99,
+        "unitPrice": 5.99
+      },
+      {
+        "date": "2021-10-08",
+        "price": 7.99,
+        "unitPrice": 7.99
+      },
+      {
+        "date": "2021-09-23",
+        "price": 4.99,
+        "unitPrice": 4.99
+      },
+      {
+        "date": "2021-09-10",
+        "price": 7.99,
+        "unitPrice": 7.99
+      },
+      {
+        "date": "2021-08-27",
+        "price": 4.99,
+        "unitPrice": 4.99
+      },
+      {
+        "date": "2021-07-30",
+        "price": 7.99,
+        "unitPrice": 7.99
+      },
+      {
+        "date": "2021-07-15",
+        "price": 4.99,
+        "unitPrice": 4.99
+      },
+      {
+        "date": "2021-07-02",
+        "price": 7.99,
+        "unitPrice": 7.99
+      },
+      {
+        "date": "2021-06-17",
+        "price": 4.99,
+        "unitPrice": 4.99
+      },
+      {
+        "date": "2021-06-03",
+        "price": 7.99,
+        "unitPrice": 7.99
+      },
+      {
+        "date": "2021-05-21",
+        "price": 4.99,
+        "unitPrice": 4.99
+      },
+      {
+        "date": "2021-05-07",
+        "price": 7.99,
+        "unitPrice": 7.99
+      },
+      {
+        "date": "2021-04-23",
+        "price": 4.99,
+        "unitPrice": 4.99
+      },
+      {
+        "date": "2021-04-09",
+        "price": 7.99,
+        "unitPrice": 7.99
+      },
+      {
+        "date": "2021-03-26",
+        "price": 4.99,
+        "unitPrice": 4.99
+      },
+      {
+        "date": "2021-02-19",
+        "price": 7.99,
+        "unitPrice": 7.99
+      },
+      {
+        "date": "2021-02-05",
+        "price": 4.99,
+        "unitPrice": 4.99
+      },
+      {
+        "date": "2021-01-22",
+        "price": 7.99,
+        "unitPrice": 7.99
+      },
+      {
+        "date": "2021-01-05",
+        "price": 4.99,
+        "unitPrice": 4.99
+      },
+      {
+        "date": "2020-11-27",
+        "price": 7.99,
+        "unitPrice": 7.99
+      },
+      {
+        "date": "2020-11-13",
+        "price": 5.99,
+        "unitPrice": 5.99
+      },
+      {
+        "date": "2020-10-16",
+        "price": 7.99,
+        "unitPrice": 7.99
+      },
+      {
+        "date": "2020-10-02",
+        "price": 5.99,
+        "unitPrice": 5.99
+      },
+      {
+        "date": "2020-09-04",
+        "price": 7.99,
+        "unitPrice": 7.99
+      },
+      {
+        "date": "2020-08-21",
+        "price": 5.99,
+        "unitPrice": 5.99
+      },
+      {
+        "date": "2020-07-24",
+        "price": 7.99,
+        "unitPrice": 7.99
+      },
+      {
+        "date": "2020-07-10",
+        "price": 5.99,
+        "unitPrice": 5.99
+      },
+      {
+        "date": "2020-06-26",
+        "price": 7.99,
+        "unitPrice": 7.99
+      },
+      {
+        "date": "2020-06-11",
+        "price": 5.99,
+        "unitPrice": 5.99
+      },
+      {
+        "date": "2020-05-29",
+        "price": 7.99,
+        "unitPrice": 7.99
+      },
+      {
+        "date": "2020-05-15",
+        "price": 5.99,
+        "unitPrice": 5.99
+      },
+      {
+        "date": "2020-04-17",
+        "price": 7.99,
+        "unitPrice": 7.99
+      },
+      {
+        "date": "2020-04-03",
+        "price": 5.99,
+        "unitPrice": 5.99
+      },
+      {
+        "date": "2020-03-20",
+        "price": 7.99,
+        "unitPrice": 7.99
+      },
+      {
+        "date": "2020-02-28",
+        "price": 5.99,
+        "unitPrice": 5.99
+      },
+      {
+        "date": "2020-02-14",
+        "price": 7.99,
+        "unitPrice": 7.99
+      },
+      {
+        "date": "2020-01-31",
+        "price": 5.99,
+        "unitPrice": 5.99
+      },
+      {
+        "date": "2020-01-17",
+        "price": 7.99,
+        "unitPrice": 7.99
+      },
+      {
+        "date": "2020-01-03",
+        "price": 5.99,
+        "unitPrice": 5.99
+      },
+      {
+        "date": "2019-11-19",
+        "price": 7.99,
+        "unitPrice": 7.99
+      },
+      {
+        "date": "2019-11-08",
+        "price": 6.99,
+        "unitPrice": 6.99
+      },
+      {
+        "date": "2019-10-24",
+        "price": 5.99,
+        "unitPrice": 5.99
+      },
+      {
+        "date": "2019-10-11",
+        "price": 6.99,
+        "unitPrice": 6.99
+      },
+      {
+        "date": "2019-09-27",
+        "price": 4.99,
+        "unitPrice": 4.99
+      },
+      {
+        "date": "2019-08-30",
+        "price": 6.99,
+        "unitPrice": 6.99
+      },
+      {
+        "date": "2019-08-15",
+        "price": 4.99,
+        "unitPrice": 4.99
+      },
+      {
+        "date": "2019-08-02",
+        "price": 6.99,
+        "unitPrice": 6.99
+      },
+      {
+        "date": "2019-07-19",
+        "price": 4.99,
+        "unitPrice": 4.99
+      },
+      {
+        "date": "2019-06-19",
+        "price": 6.99,
+        "unitPrice": 6.99
+      },
+      {
+        "date": "2019-06-06",
+        "price": 4.99,
+        "unitPrice": 4.99
+      },
+      {
+        "date": "2019-05-09",
+        "price": 6.99,
+        "unitPrice": 6.99
+      },
+      {
+        "date": "2019-04-25",
+        "price": 4.99,
+        "unitPrice": 4.99
+      },
+      {
+        "date": "2019-03-15",
+        "price": 6.99,
+        "unitPrice": 6.99
+      },
+      {
+        "date": "2019-03-01",
+        "price": 4.99,
+        "unitPrice": 4.99
+      },
+      {
+        "date": "2019-02-24",
+        "price": 6.99,
+        "unitPrice": 6.99
+      },
+      {
+        "date": "2018-11-16",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2018-10-19",
+        "price": 6.99,
+        "unitPrice": 6.99
+      },
+      {
+        "date": "2018-10-05",
+        "price": 4.99,
+        "unitPrice": 4.99
+      },
+      {
+        "date": "2018-09-07",
+        "price": 6.99,
+        "unitPrice": 6.99
+      },
+      {
+        "date": "2018-08-24",
+        "price": 4.99,
+        "unitPrice": 4.99
+      },
+      {
+        "date": "2018-07-27",
+        "price": 6.99,
+        "unitPrice": 6.99
+      },
+      {
+        "date": "2018-07-13",
+        "price": 4.99,
+        "unitPrice": 4.99
+      },
+      {
+        "date": "2018-05-31",
+        "price": 6.99,
+        "unitPrice": 6.99
+      },
+      {
+        "date": "2018-05-18",
+        "price": 4.99,
+        "unitPrice": 4.99
+      },
+      {
+        "date": "2018-04-20",
+        "price": 6.99,
+        "unitPrice": 6.99
+      },
+      {
+        "date": "2018-04-05",
+        "price": 4.99,
+        "unitPrice": 4.99
+      },
+      {
+        "date": "2018-03-15",
+        "price": 6.99,
+        "unitPrice": 6.99
+      },
+      {
+        "date": "2018-03-01",
+        "price": 4.99,
+        "unitPrice": 4.99
+      },
+      {
+        "date": "2018-01-19",
+        "price": 6.99,
+        "unitPrice": 6.99
+      },
+      {
+        "date": "2018-01-12",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2017-11-17",
+        "price": 6.99,
+        "unitPrice": 6.99
+      },
+      {
+        "date": "2017-11-02",
+        "price": 4.99,
+        "unitPrice": 4.99
+      },
+      {
+        "date": "2017-06-15",
+        "price": 6.99,
+        "unitPrice": 6.99
+      },
+      {
+        "date": "2017-06-02",
+        "price": 4.99,
+        "unitPrice": 4.99
+      },
+      {
+        "date": "2017-04-20",
+        "price": 6.99,
+        "unitPrice": 6.99
+      }
+    ],
+    "isWeighted": true,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": false,
+    "available": true,
+    "url": "https://www.interspar.at/shop/lebensmittel/p/835022"
+  },
+  {
+    "store": "spar",
+    "id": "6389284",
+    "name": "TANN Faschiertes gemischt per Packung",
+    "category": "32",
+    "price": 6.99,
+    "priceHistory": [
+      {
+        "date": "2025-09-08",
+        "price": 6.99,
+        "unitPrice": 13.98
+      },
+      {
+        "date": "2025-08-28",
+        "price": 6.49,
+        "unitPrice": 12.98
+      },
+      {
+        "date": "2025-08-14",
+        "price": 4.99,
+        "unitPrice": 9.98
+      },
+      {
+        "date": "2025-07-31",
+        "price": 6.49,
+        "unitPrice": 12.98
+      },
+      {
+        "date": "2025-07-17",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2025-05-22",
+        "price": 6.49,
+        "unitPrice": 12.98
+      },
+      {
+        "date": "2025-05-14",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2024-07-11",
+        "price": 5.49,
+        "unitPrice": 10.98
+      },
+      {
+        "date": "2024-06-27",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2024-05-29",
+        "price": 5.49,
+        "unitPrice": 10.98
+      },
+      {
+        "date": "2024-05-16",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2024-04-18",
+        "price": 5.49,
+        "unitPrice": 10.98
+      },
+      {
+        "date": "2024-04-05",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2024-02-01",
+        "price": 5.49,
+        "unitPrice": 10.98
+      },
+      {
+        "date": "2024-01-18",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2023-12-14",
+        "price": 5.49,
+        "unitPrice": 10.98
+      },
+      {
+        "date": "2023-11-23",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2023-10-26",
+        "price": 5.49,
+        "unitPrice": 10.98
+      },
+      {
+        "date": "2023-10-19",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2023-09-14",
+        "price": 5.49,
+        "unitPrice": 10.98
+      },
+      {
+        "date": "2023-08-31",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2023-08-03",
+        "price": 5.49,
+        "unitPrice": 10.98
+      },
+      {
+        "date": "2023-07-20",
+        "price": 3.19,
+        "unitPrice": 6.38
+      },
+      {
+        "date": "2023-06-22",
+        "price": 5.49,
+        "unitPrice": 10.98
+      },
+      {
+        "date": "2023-06-07",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2023-03-30",
+        "price": 5.49,
+        "unitPrice": 10.98
+      },
+      {
+        "date": "2023-03-16",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2023-03-02",
+        "price": 5.49,
+        "unitPrice": 10.98
+      },
+      {
+        "date": "2023-01-20",
+        "price": 4.99,
+        "unitPrice": 9.98
+      },
+      {
+        "date": "2023-01-02",
+        "price": 3.49,
+        "unitPrice": 6.98
+      },
+      {
+        "date": "2022-11-17",
+        "price": 4.99,
+        "unitPrice": 9.98
+      },
+      {
+        "date": "2022-11-03",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2022-03-10",
+        "price": 4.99,
+        "unitPrice": 9.98
+      },
+      {
+        "date": "2022-02-05",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2022-01-21",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2021-12-03",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2021-11-19",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2021-10-24",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2021-10-08",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2021-05-23",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2021-05-09",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2021-03-28",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2021-03-05",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2021-02-05",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2021-01-29",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2020-10-03",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2020-09-20",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2020-05-15",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2020-04-30",
+        "price": 3.49,
+        "unitPrice": 6.98
+      },
+      {
+        "date": "2019-11-19",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2018-09-21",
+        "price": 3.49,
+        "unitPrice": 6.98
+      },
+      {
+        "date": "2018-09-08",
+        "price": 2.49,
+        "unitPrice": 4.98
+      },
+      {
+        "date": "2017-04-20",
+        "price": 3.49,
+        "unitPrice": 6.98
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 500,
+    "bio": false,
+    "available": true,
+    "url": "https://www.interspar.at/shop/lebensmittel/p/6389284"
+  },
+  {
+    "store": "spar",
+    "id": "7164347",
+    "name": "TANN Mageres Faschiertes gemischt",
+    "category": "32",
+    "price": 6.99,
+    "priceHistory": [
+      {
+        "date": "2025-09-08",
+        "price": 6.99,
+        "unitPrice": 18.64
+      },
+      {
+        "date": "2025-05-14",
+        "price": 6.49,
+        "unitPrice": 17.30666666666667
+      },
+      {
+        "date": "2023-03-02",
+        "price": 5.49,
+        "unitPrice": 14.64
+      },
+      {
+        "date": "2022-03-10",
+        "price": 4.99,
+        "unitPrice": 13.306666666666668
+      },
+      {
+        "date": "2019-11-19",
+        "price": 3.99,
+        "unitPrice": 10.64
+      },
+      {
+        "date": "2017-04-20",
+        "price": 3.49,
+        "unitPrice": 9.306666666666668
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 375,
+    "bio": false,
+    "available": true,
+    "url": "https://www.interspar.at/shop/lebensmittel/p/7164347"
+  },
+  {
+    "store": "spar",
+    "id": "835824",
+    "name": "TANN Rinder-Faschiertes in Bedienung",
+    "category": "32",
+    "price": 15.99,
+    "priceHistory": [
+      {
+        "date": "2025-09-08",
+        "price": 15.99,
+        "unitPrice": 15.99
+      },
+      {
+        "date": "2025-06-16",
+        "price": 14.99,
+        "unitPrice": 14.99
+      },
+      {
+        "date": "2025-05-14",
+        "price": 13.99,
+        "unitPrice": 13.99
+      },
+      {
+        "date": "2022-04-07",
+        "price": 11.99,
+        "unitPrice": 11.99
+      },
+      {
+        "date": "2022-03-10",
+        "price": 10.99,
+        "unitPrice": 10.99
+      },
+      {
+        "date": "2022-03-04",
+        "price": 9.99,
+        "unitPrice": 9.99
+      },
+      {
+        "date": "2022-02-18",
+        "price": 7.99,
+        "unitPrice": 7.99
+      },
+      {
+        "date": "2021-12-03",
+        "price": 9.99,
+        "unitPrice": 9.99
+      },
+      {
+        "date": "2021-11-19",
+        "price": 7.99,
+        "unitPrice": 7.99
+      },
+      {
+        "date": "2021-11-05",
+        "price": 9.99,
+        "unitPrice": 9.99
+      },
+      {
+        "date": "2021-10-22",
+        "price": 7.99,
+        "unitPrice": 7.99
+      },
+      {
+        "date": "2021-08-13",
+        "price": 9.99,
+        "unitPrice": 9.99
+      },
+      {
+        "date": "2021-08-05",
+        "price": 7.99,
+        "unitPrice": 7.99
+      },
+      {
+        "date": "2021-07-15",
+        "price": 9.99,
+        "unitPrice": 9.99
+      },
+      {
+        "date": "2021-07-02",
+        "price": 6.99,
+        "unitPrice": 6.99
+      },
+      {
+        "date": "2021-06-17",
+        "price": 9.99,
+        "unitPrice": 9.99
+      },
+      {
+        "date": "2021-06-03",
+        "price": 7.99,
+        "unitPrice": 7.99
+      },
+      {
+        "date": "2021-05-21",
+        "price": 9.99,
+        "unitPrice": 9.99
+      },
+      {
+        "date": "2021-05-13",
+        "price": 6.99,
+        "unitPrice": 6.99
+      },
+      {
+        "date": "2021-04-23",
+        "price": 9.99,
+        "unitPrice": 9.99
+      },
+      {
+        "date": "2021-04-09",
+        "price": 7.99,
+        "unitPrice": 7.99
+      },
+      {
+        "date": "2021-03-26",
+        "price": 9.99,
+        "unitPrice": 9.99
+      },
+      {
+        "date": "2021-02-19",
+        "price": 7.99,
+        "unitPrice": 7.99
+      },
+      {
+        "date": "2021-02-05",
+        "price": 9.99,
+        "unitPrice": 9.99
+      },
+      {
+        "date": "2021-01-22",
+        "price": 7.99,
+        "unitPrice": 7.99
+      },
+      {
+        "date": "2020-12-11",
+        "price": 9.99,
+        "unitPrice": 9.99
+      },
+      {
+        "date": "2020-11-27",
+        "price": 7.99,
+        "unitPrice": 7.99
+      },
+      {
+        "date": "2020-10-30",
+        "price": 9.99,
+        "unitPrice": 9.99
+      },
+      {
+        "date": "2020-10-16",
+        "price": 7.99,
+        "unitPrice": 7.99
+      },
+      {
+        "date": "2020-09-18",
+        "price": 9.99,
+        "unitPrice": 9.99
+      },
+      {
+        "date": "2020-09-04",
+        "price": 6.99,
+        "unitPrice": 6.99
+      },
+      {
+        "date": "2020-08-07",
+        "price": 9.99,
+        "unitPrice": 9.99
+      },
+      {
+        "date": "2020-07-24",
+        "price": 7.99,
+        "unitPrice": 7.99
+      },
+      {
+        "date": "2020-06-11",
+        "price": 9.99,
+        "unitPrice": 9.99
+      },
+      {
+        "date": "2020-05-29",
+        "price": 7.99,
+        "unitPrice": 7.99
+      },
+      {
+        "date": "2020-04-30",
+        "price": 9.99,
+        "unitPrice": 9.99
+      },
+      {
+        "date": "2020-04-17",
+        "price": 5.99,
+        "unitPrice": 5.99
+      },
+      {
+        "date": "2020-04-03",
+        "price": 9.99,
+        "unitPrice": 9.99
+      },
+      {
+        "date": "2020-03-20",
+        "price": 7.99,
+        "unitPrice": 7.99
+      },
+      {
+        "date": "2020-02-28",
+        "price": 9.99,
+        "unitPrice": 9.99
+      },
+      {
+        "date": "2020-02-14",
+        "price": 7.99,
+        "unitPrice": 7.99
+      },
+      {
+        "date": "2020-01-31",
+        "price": 9.99,
+        "unitPrice": 9.99
+      },
+      {
+        "date": "2020-01-17",
+        "price": 7.99,
+        "unitPrice": 7.99
+      },
+      {
+        "date": "2019-12-13",
+        "price": 9.99,
+        "unitPrice": 9.99
+      },
+      {
+        "date": "2019-11-22",
+        "price": 7.99,
+        "unitPrice": 7.99
+      },
+      {
+        "date": "2019-11-19",
+        "price": 9.99,
+        "unitPrice": 9.99
+      },
+      {
+        "date": "2019-10-24",
+        "price": 8.99,
+        "unitPrice": 8.99
+      },
+      {
+        "date": "2019-10-10",
+        "price": 7.99,
+        "unitPrice": 7.99
+      },
+      {
+        "date": "2019-09-27",
+        "price": 8.99,
+        "unitPrice": 8.99
+      },
+      {
+        "date": "2019-09-13",
+        "price": 6.99,
+        "unitPrice": 6.99
+      },
+      {
+        "date": "2019-08-15",
+        "price": 8.99,
+        "unitPrice": 8.99
+      },
+      {
+        "date": "2019-08-02",
+        "price": 6.99,
+        "unitPrice": 6.99
+      },
+      {
+        "date": "2019-07-19",
+        "price": 8.99,
+        "unitPrice": 8.99
+      },
+      {
+        "date": "2019-07-05",
+        "price": 5.99,
+        "unitPrice": 5.99
+      },
+      {
+        "date": "2019-06-06",
+        "price": 8.99,
+        "unitPrice": 8.99
+      },
+      {
+        "date": "2019-05-24",
+        "price": 6.99,
+        "unitPrice": 6.99
+      },
+      {
+        "date": "2019-04-11",
+        "price": 8.99,
+        "unitPrice": 8.99
+      },
+      {
+        "date": "2019-03-29",
+        "price": 6.99,
+        "unitPrice": 6.99
+      },
+      {
+        "date": "2018-11-16",
+        "price": 8.99,
+        "unitPrice": 8.99
+      },
+      {
+        "date": "2018-11-01",
+        "price": 5.99,
+        "unitPrice": 5.99
+      },
+      {
+        "date": "2018-10-05",
+        "price": 8.99,
+        "unitPrice": 8.99
+      },
+      {
+        "date": "2018-09-21",
+        "price": 6.99,
+        "unitPrice": 6.99
+      },
+      {
+        "date": "2018-08-10",
+        "price": 8.99,
+        "unitPrice": 8.99
+      },
+      {
+        "date": "2018-07-27",
+        "price": 6.99,
+        "unitPrice": 6.99
+      },
+      {
+        "date": "2018-06-29",
+        "price": 8.99,
+        "unitPrice": 8.99
+      },
+      {
+        "date": "2018-06-15",
+        "price": 6.99,
+        "unitPrice": 6.99
+      },
+      {
+        "date": "2018-05-04",
+        "price": 8.99,
+        "unitPrice": 8.99
+      },
+      {
+        "date": "2018-04-20",
+        "price": 6.99,
+        "unitPrice": 6.99
+      },
+      {
+        "date": "2018-03-01",
+        "price": 8.99,
+        "unitPrice": 8.99
+      },
+      {
+        "date": "2018-02-22",
+        "price": 6.99,
+        "unitPrice": 6.99
+      },
+      {
+        "date": "2018-02-01",
+        "price": 8.99,
+        "unitPrice": 8.99
+      },
+      {
+        "date": "2018-01-19",
+        "price": 6.99,
+        "unitPrice": 6.99
+      },
+      {
+        "date": "2017-10-19",
+        "price": 8.99,
+        "unitPrice": 8.99
+      },
+      {
+        "date": "2017-10-09",
+        "price": 6.99,
+        "unitPrice": 6.99
+      },
+      {
+        "date": "2017-07-14",
+        "price": 8.99,
+        "unitPrice": 8.99
+      },
+      {
+        "date": "2017-06-29",
+        "price": 6.99,
+        "unitPrice": 6.99
+      },
+      {
+        "date": "2017-05-18",
+        "price": 8.99,
+        "unitPrice": 8.99
+      },
+      {
+        "date": "2017-05-04",
+        "price": 6.99,
+        "unitPrice": 6.99
+      },
+      {
+        "date": "2017-04-20",
+        "price": 8.99,
+        "unitPrice": 8.99
+      }
+    ],
+    "isWeighted": true,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": false,
+    "available": true,
+    "url": "https://www.interspar.at/shop/lebensmittel/p/835824"
+  },
+  {
+    "store": "spar",
+    "id": "7753220",
+    "name": "TANN Rinder-Faschiertes per Packung",
+    "category": "32",
+    "price": 6.99,
+    "priceHistory": [
+      {
+        "date": "2025-09-08",
+        "price": 6.99,
+        "unitPrice": 18.64
+      },
+      {
+        "date": "2025-05-14",
+        "price": 6.49,
+        "unitPrice": 17.30666666666667
+      },
+      {
+        "date": "2023-03-02",
+        "price": 5.49,
+        "unitPrice": 14.64
+      },
+      {
+        "date": "2022-03-10",
+        "price": 4.99,
+        "unitPrice": 13.306666666666668
+      },
+      {
+        "date": "2019-11-19",
+        "price": 3.99,
+        "unitPrice": 10.64
+      },
+      {
+        "date": "2018-02-28",
+        "price": 3.49,
+        "unitPrice": 9.306666666666668
+      },
+      {
+        "date": "2017-11-14",
+        "price": 2.99,
+        "unitPrice": 7.973333333333334
+      },
+      {
+        "date": "2017-06-29",
+        "price": 3.49,
+        "unitPrice": 9.306666666666668
+      },
+      {
+        "date": "2017-06-15",
+        "price": 2.99,
+        "unitPrice": 7.973333333333334
+      },
+      {
+        "date": "2017-04-20",
+        "price": 3.49,
+        "unitPrice": 9.306666666666668
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 375,
+    "bio": false,
+    "available": true,
+    "url": "https://www.interspar.at/shop/lebensmittel/p/7753220"
+  },
+  {
+    "store": "spar",
+    "id": "2020003320378",
+    "name": "TANN schaut drauf Mageres Faschiertes gemischt vom Rind + Schwein",
+    "category": "32",
+    "price": 5.99,
+    "priceHistory": [
+      {
+        "date": "2025-05-14",
+        "price": 5.99,
+        "unitPrice": 18.151515151515152
+      },
+      {
+        "date": "2023-03-02",
+        "price": 5.49,
+        "unitPrice": 16.636363636363637
+      },
+      {
+        "date": "2022-03-10",
+        "price": 4.99,
+        "unitPrice": 15.121212121212123
+      },
+      {
+        "date": "2020-04-18",
+        "price": 3.99,
+        "unitPrice": 12.090909090909092
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 330,
+    "bio": false,
+    "available": true,
+    "url": "https://www.interspar.at/shop/lebensmittel/p/2020003320378"
+  },
+  {
+    "store": "unimarkt",
+    "id": "95189",
+    "name": "UNIpur Faschiertes gemischt",
+    "category": "36",
+    "price": 6.09,
+    "priceHistory": [
+      {
+        "date": "2023-07-05",
+        "price": 6.09,
+        "unitPrice": 12.18
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 500,
+    "bio": false,
+    "available": false,
+    "url": "https://shop.unimarkt.at//UNIpur-Faschiertes-gemischt-95189"
+  },
+  {
+    "store": "unimarkt",
+    "id": "95190",
+    "name": "UNIpur R-Faschiertes 500g",
+    "category": "36",
+    "price": 8.79,
+    "priceHistory": [
+      {
+        "date": "2023-06-22",
+        "price": 8.79,
+        "unitPrice": 17.58
+      },
+      {
+        "date": "2023-05-29",
+        "price": 7.99,
+        "unitPrice": 15.98
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 500,
+    "bio": false,
+    "available": false,
+    "url": "https://shop.unimarkt.at//UNIpur-R-Faschiertes-500g-95190"
+  }
+]

@@ -1,0 +1,2152 @@
+[
+  {
+    "store": "billa",
+    "id": "00-346427",
+    "name": "Clever Zwiebel Gelb",
+    "category": "01",
+    "price": 1.79,
+    "priceHistory": [
+      {
+        "date": "2026-04-12",
+        "price": 1.79,
+        "unitPrice": 0.5966666666666667
+      },
+      {
+        "date": "2026-04-10",
+        "price": 1.7,
+        "unitPrice": 0.5666666666666667
+      },
+      {
+        "date": "2026-03-15",
+        "price": 1.79,
+        "unitPrice": 0.5966666666666667
+      },
+      {
+        "date": "2026-03-13",
+        "price": 1.7,
+        "unitPrice": 0.5666666666666667
+      },
+      {
+        "date": "2025-11-20",
+        "price": 1.79,
+        "unitPrice": 0.5966666666666667
+      },
+      {
+        "date": "2025-11-13",
+        "price": 1.59,
+        "unitPrice": 0.53
+      },
+      {
+        "date": "2025-10-22",
+        "price": 1.79,
+        "unitPrice": 0.5966666666666667
+      },
+      {
+        "date": "2025-09-16",
+        "price": 1.99,
+        "unitPrice": 0.6633333333333333
+      },
+      {
+        "date": "2025-09-09",
+        "price": 2.49,
+        "unitPrice": 0.8300000000000001
+      },
+      {
+        "date": "2025-09-02",
+        "price": 1.99,
+        "unitPrice": 0.6633333333333333
+      },
+      {
+        "date": "2025-08-19",
+        "price": 2.69,
+        "unitPrice": 0.8966666666666666
+      },
+      {
+        "date": "2025-06-24",
+        "price": 2.99,
+        "unitPrice": 0.9966666666666667
+      },
+      {
+        "date": "2025-05-25",
+        "price": 3.49,
+        "unitPrice": 1.1633333333333336
+      },
+      {
+        "date": "2025-05-13",
+        "price": 2.69,
+        "unitPrice": 0.8966666666666666
+      },
+      {
+        "date": "2025-05-06",
+        "price": 2.49,
+        "unitPrice": 0.8300000000000001
+      },
+      {
+        "date": "2025-05-04",
+        "price": 2.69,
+        "unitPrice": 0.8966666666666666
+      },
+      {
+        "date": "2025-04-02",
+        "price": 2.49,
+        "unitPrice": 0.8300000000000001
+      },
+      {
+        "date": "2025-03-18",
+        "price": 2.29,
+        "unitPrice": 0.7633333333333333
+      },
+      {
+        "date": "2025-03-11",
+        "price": 1.99,
+        "unitPrice": 0.6633333333333333
+      },
+      {
+        "date": "2025-02-25",
+        "price": 2.19,
+        "unitPrice": 0.73
+      },
+      {
+        "date": "2024-08-27",
+        "price": 1.99,
+        "unitPrice": 0.6633333333333333
+      },
+      {
+        "date": "2024-07-17",
+        "price": 2.29,
+        "unitPrice": 0.7633333333333333
+      },
+      {
+        "date": "2024-07-09",
+        "price": 2.49,
+        "unitPrice": 0.8300000000000001
+      },
+      {
+        "date": "2024-06-26",
+        "price": 2.69,
+        "unitPrice": 0.8966666666666666
+      },
+      {
+        "date": "2024-02-27",
+        "price": 2.79,
+        "unitPrice": 0.93
+      },
+      {
+        "date": "2024-02-18",
+        "price": 2.99,
+        "unitPrice": 0.9966666666666667
+      },
+      {
+        "date": "2024-01-30",
+        "price": 2.79,
+        "unitPrice": 0.93
+      },
+      {
+        "date": "2023-10-25",
+        "price": 2.69,
+        "unitPrice": 0.8966666666666666
+      },
+      {
+        "date": "2023-10-10",
+        "price": 2.79,
+        "unitPrice": 0.93
+      },
+      {
+        "date": "2023-09-12",
+        "price": 2.89,
+        "unitPrice": 0.9633333333333334
+      },
+      {
+        "date": "2023-08-01",
+        "price": 2.99,
+        "unitPrice": 0.9966666666666667
+      },
+      {
+        "date": "2023-07-25",
+        "price": 3.39,
+        "unitPrice": 1.1300000000000001
+      },
+      {
+        "date": "2023-05-06",
+        "price": 3.49,
+        "unitPrice": 1.1633333333333336
+      },
+      {
+        "date": "2023-04-04",
+        "price": 3.69,
+        "unitPrice": 1.23
+      },
+      {
+        "date": "2023-03-26",
+        "price": 3.29,
+        "unitPrice": 1.0966666666666667
+      },
+      {
+        "date": "2023-02-28",
+        "price": 3.39,
+        "unitPrice": 1.1300000000000001
+      },
+      {
+        "date": "2023-02-26",
+        "price": 2.99,
+        "unitPrice": 0.9966666666666667
+      },
+      {
+        "date": "2023-02-09",
+        "price": 2.69,
+        "unitPrice": 0.8966666666666666
+      },
+      {
+        "date": "2023-02-04",
+        "price": 2.99,
+        "unitPrice": 0.9966666666666667
+      },
+      {
+        "date": "2023-01-19",
+        "price": 2.59,
+        "unitPrice": 0.8633333333333333
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 3000,
+    "bio": false,
+    "available": true,
+    "url": "https://shop.billa.at/produkte/clever-zwiebel-gelb-00346427"
+  },
+  {
+    "store": "billa",
+    "id": "00-530250",
+    "name": "Ja! Bio Zwiebel gelb",
+    "category": "01",
+    "price": 1.49,
+    "priceHistory": [
+      {
+        "date": "2024-10-31",
+        "price": 1.49,
+        "unitPrice": 4.382352941176471
+      },
+      {
+        "date": "2024-10-22",
+        "price": 1.99,
+        "unitPrice": 5.852941176470589
+      },
+      {
+        "date": "2024-10-17",
+        "price": 1.49,
+        "unitPrice": 4.382352941176471
+      },
+      {
+        "date": "2024-09-09",
+        "price": 1.99,
+        "unitPrice": 5.852941176470589
+      },
+      {
+        "date": "2024-09-02",
+        "price": 1.49,
+        "unitPrice": 4.382352941176471
+      },
+      {
+        "date": "2024-08-12",
+        "price": 1.99,
+        "unitPrice": 5.852941176470589
+      },
+      {
+        "date": "2024-08-05",
+        "price": 1.49,
+        "unitPrice": 4.382352941176471
+      },
+      {
+        "date": "2024-02-24",
+        "price": 2.29,
+        "unitPrice": 6.735294117647059
+      },
+      {
+        "date": "2024-02-16",
+        "price": 1.72,
+        "unitPrice": 5.0588235294117645
+      },
+      {
+        "date": "2024-01-06",
+        "price": 2.29,
+        "unitPrice": 6.735294117647059
+      },
+      {
+        "date": "2024-01-04",
+        "price": 1.72,
+        "unitPrice": 5.0588235294117645
+      },
+      {
+        "date": "2023-12-15",
+        "price": 2.29,
+        "unitPrice": 6.735294117647059
+      },
+      {
+        "date": "2023-12-11",
+        "price": 1.72,
+        "unitPrice": 5.0588235294117645
+      },
+      {
+        "date": "2023-11-19",
+        "price": 2.29,
+        "unitPrice": 6.735294117647059
+      },
+      {
+        "date": "2023-11-15",
+        "price": 1.72,
+        "unitPrice": 5.0588235294117645
+      },
+      {
+        "date": "2023-10-05",
+        "price": 2.29,
+        "unitPrice": 6.735294117647059
+      },
+      {
+        "date": "2023-09-28",
+        "price": 1.72,
+        "unitPrice": 5.0588235294117645
+      },
+      {
+        "date": "2023-08-27",
+        "price": 2.29,
+        "unitPrice": 6.735294117647059
+      },
+      {
+        "date": "2023-08-25",
+        "price": 1.72,
+        "unitPrice": 5.0588235294117645
+      },
+      {
+        "date": "2023-08-06",
+        "price": 2.29,
+        "unitPrice": 6.735294117647059
+      },
+      {
+        "date": "2023-08-05",
+        "price": 1.99,
+        "unitPrice": 5.852941176470589
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 340,
+    "bio": true,
+    "available": false,
+    "url": "https://shop.billa.at/produkte/ja-bio-zwiebel-gelb-00530250"
+  },
+  {
+    "store": "billa",
+    "id": "00-817912",
+    "name": "Ja! Natürlich Bio Jungzwiebel rot aus Österreich",
+    "category": "01",
+    "price": 1.99,
+    "priceHistory": [
+      {
+        "date": "2023-09-12",
+        "price": 1.99,
+        "unitPrice": 1.99
+      }
+    ],
+    "isWeighted": false,
+    "unit": "stk",
+    "quantity": 1,
+    "bio": true,
+    "available": false,
+    "url": "https://shop.billa.at/produkte/"
+  },
+  {
+    "store": "billa",
+    "id": "00-89668",
+    "name": "Ja! Natürlich Bio Zwiebel Gelb",
+    "category": "01",
+    "price": 2.89,
+    "priceHistory": [
+      {
+        "date": "2024-03-28",
+        "price": 2.89,
+        "unitPrice": 2.89
+      },
+      {
+        "date": "2024-03-06",
+        "price": 2.79,
+        "unitPrice": 2.79
+      },
+      {
+        "date": "2024-02-24",
+        "price": 2.59,
+        "unitPrice": 2.59
+      },
+      {
+        "date": "2024-02-22",
+        "price": 1.94,
+        "unitPrice": 1.94
+      },
+      {
+        "date": "2024-02-16",
+        "price": 1.72,
+        "unitPrice": 1.72
+      },
+      {
+        "date": "2024-02-15",
+        "price": 2.29,
+        "unitPrice": 2.29
+      },
+      {
+        "date": "2024-01-06",
+        "price": 2.59,
+        "unitPrice": 2.59
+      },
+      {
+        "date": "2024-01-04",
+        "price": 1.94,
+        "unitPrice": 1.94
+      },
+      {
+        "date": "2023-12-15",
+        "price": 2.59,
+        "unitPrice": 2.59
+      },
+      {
+        "date": "2023-12-11",
+        "price": 1.94,
+        "unitPrice": 1.94
+      },
+      {
+        "date": "2023-11-19",
+        "price": 2.59,
+        "unitPrice": 2.59
+      },
+      {
+        "date": "2023-11-15",
+        "price": 1.94,
+        "unitPrice": 1.94
+      },
+      {
+        "date": "2023-10-25",
+        "price": 2.59,
+        "unitPrice": 2.59
+      },
+      {
+        "date": "2023-10-21",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2023-10-05",
+        "price": 2.59,
+        "unitPrice": 2.59
+      },
+      {
+        "date": "2023-09-28",
+        "price": 1.94,
+        "unitPrice": 1.94
+      },
+      {
+        "date": "2023-08-27",
+        "price": 2.59,
+        "unitPrice": 2.59
+      },
+      {
+        "date": "2023-08-25",
+        "price": 1.94,
+        "unitPrice": 1.94
+      },
+      {
+        "date": "2023-07-19",
+        "price": 2.59,
+        "unitPrice": 2.59
+      },
+      {
+        "date": "2023-07-14",
+        "price": 1.94,
+        "unitPrice": 1.94
+      },
+      {
+        "date": "2023-06-11",
+        "price": 2.59,
+        "unitPrice": 2.59
+      },
+      {
+        "date": "2023-06-07",
+        "price": 1.94,
+        "unitPrice": 1.94
+      },
+      {
+        "date": "2023-03-28",
+        "price": 2.59,
+        "unitPrice": 2.59
+      },
+      {
+        "date": "2023-02-09",
+        "price": 2.49,
+        "unitPrice": 2.49
+      },
+      {
+        "date": "2023-02-04",
+        "price": 1.87,
+        "unitPrice": 1.87
+      },
+      {
+        "date": "2022-11-06",
+        "price": 2.49,
+        "unitPrice": 2.49
+      },
+      {
+        "date": "2022-11-04",
+        "price": 1.87,
+        "unitPrice": 1.87
+      },
+      {
+        "date": "2022-09-08",
+        "price": 2.49,
+        "unitPrice": 2.49
+      },
+      {
+        "date": "2022-09-05",
+        "price": 1.87,
+        "unitPrice": 1.87
+      },
+      {
+        "date": "2022-08-14",
+        "price": 2.49,
+        "unitPrice": 2.49
+      },
+      {
+        "date": "2022-08-12",
+        "price": 1.87,
+        "unitPrice": 1.87
+      },
+      {
+        "date": "2022-07-14",
+        "price": 2.49,
+        "unitPrice": 2.49
+      },
+      {
+        "date": "2022-07-11",
+        "price": 1.87,
+        "unitPrice": 1.87
+      },
+      {
+        "date": "2022-05-25",
+        "price": 2.49,
+        "unitPrice": 2.49
+      },
+      {
+        "date": "2022-05-23",
+        "price": 1.87,
+        "unitPrice": 1.87
+      },
+      {
+        "date": "2022-04-21",
+        "price": 2.49,
+        "unitPrice": 2.49
+      },
+      {
+        "date": "2022-04-14",
+        "price": 2.29,
+        "unitPrice": 2.29
+      },
+      {
+        "date": "2022-02-24",
+        "price": 2.49,
+        "unitPrice": 2.49
+      },
+      {
+        "date": "2022-02-17",
+        "price": 1.79,
+        "unitPrice": 1.79
+      },
+      {
+        "date": "2022-02-10",
+        "price": 2.49,
+        "unitPrice": 2.49
+      },
+      {
+        "date": "2022-02-03",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2022-01-09",
+        "price": 2.49,
+        "unitPrice": 2.49
+      },
+      {
+        "date": "2022-01-07",
+        "price": 1.87,
+        "unitPrice": 1.87
+      },
+      {
+        "date": "2021-12-28",
+        "price": 2.49,
+        "unitPrice": 2.49
+      },
+      {
+        "date": "2021-10-12",
+        "price": 2.29,
+        "unitPrice": 2.29
+      },
+      {
+        "date": "2021-09-23",
+        "price": 2.19,
+        "unitPrice": 2.19
+      },
+      {
+        "date": "2021-09-16",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2021-04-21",
+        "price": 2.19,
+        "unitPrice": 2.19
+      },
+      {
+        "date": "2020-07-23",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2020-07-16",
+        "price": 1.79,
+        "unitPrice": 1.79
+      },
+      {
+        "date": "2020-07-07",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2020-06-25",
+        "price": 1.79,
+        "unitPrice": 1.79
+      },
+      {
+        "date": "2020-06-21",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2019-07-28",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2019-06-25",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2019-02-12",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2019-02-07",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2018-06-27",
+        "price": 1.59,
+        "unitPrice": 1.59
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": true,
+    "available": false,
+    "url": "https://shop.billa.at/produkte/ja-natuerlich-bio-zwiebel-gelb-0089668"
+  },
+  {
+    "store": "billa",
+    "id": "00-883925",
+    "name": "Ja! Natürlich Raritätenmix Zwiebeln & Schalotten",
+    "category": "01",
+    "price": 2.47,
+    "priceHistory": [
+      {
+        "date": "2026-02-27",
+        "price": 2.47,
+        "unitPrice": 6.175000000000001
+      },
+      {
+        "date": "2026-02-17",
+        "price": 3.29,
+        "unitPrice": 8.225
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 400,
+    "bio": true,
+    "available": false,
+    "url": "https://shop.billa.at/produkte/ja-natuerlich-raritaetenmix-zwiebeln-und-schalotten-00883925"
+  },
+  {
+    "store": "billa",
+    "id": "00-410613",
+    "name": "Ja! Natürlich Schalotten Zwiebel",
+    "category": "01",
+    "price": 3.29,
+    "priceHistory": [
+      {
+        "date": "2026-04-12",
+        "price": 3.29,
+        "unitPrice": 8.225
+      },
+      {
+        "date": "2026-04-10",
+        "price": 2.47,
+        "unitPrice": 6.175000000000001
+      },
+      {
+        "date": "2026-03-01",
+        "price": 3.29,
+        "unitPrice": 8.225
+      },
+      {
+        "date": "2026-02-27",
+        "price": 2.47,
+        "unitPrice": 6.175000000000001
+      },
+      {
+        "date": "2026-01-04",
+        "price": 3.29,
+        "unitPrice": 8.225
+      },
+      {
+        "date": "2026-01-02",
+        "price": 2.47,
+        "unitPrice": 6.175000000000001
+      },
+      {
+        "date": "2025-09-15",
+        "price": 3.29,
+        "unitPrice": 8.225
+      },
+      {
+        "date": "2025-09-08",
+        "price": 2.47,
+        "unitPrice": 6.175000000000001
+      },
+      {
+        "date": "2025-03-03",
+        "price": 3.29,
+        "unitPrice": 8.225
+      },
+      {
+        "date": "2025-02-24",
+        "price": 2.47,
+        "unitPrice": 6.175000000000001
+      },
+      {
+        "date": "2025-02-06",
+        "price": 3.29,
+        "unitPrice": 8.225
+      },
+      {
+        "date": "2025-01-05",
+        "price": 3.19,
+        "unitPrice": 7.975
+      },
+      {
+        "date": "2025-01-03",
+        "price": 2.39,
+        "unitPrice": 5.9750000000000005
+      },
+      {
+        "date": "2024-12-13",
+        "price": 3.19,
+        "unitPrice": 7.975
+      },
+      {
+        "date": "2024-12-08",
+        "price": 2.39,
+        "unitPrice": 5.9750000000000005
+      },
+      {
+        "date": "2024-11-27",
+        "price": 3.19,
+        "unitPrice": 7.975
+      },
+      {
+        "date": "2023-06-07",
+        "price": 2.24,
+        "unitPrice": 5.6000000000000005
+      },
+      {
+        "date": "2023-02-07",
+        "price": 2.99,
+        "unitPrice": 7.4750000000000005
+      },
+      {
+        "date": "2023-02-02",
+        "price": 2.24,
+        "unitPrice": 5.6000000000000005
+      },
+      {
+        "date": "2023-01-08",
+        "price": 2.99,
+        "unitPrice": 7.4750000000000005
+      },
+      {
+        "date": "2023-01-05",
+        "price": 2.24,
+        "unitPrice": 5.6000000000000005
+      },
+      {
+        "date": "2022-12-18",
+        "price": 2.99,
+        "unitPrice": 7.4750000000000005
+      },
+      {
+        "date": "2022-12-16",
+        "price": 2.24,
+        "unitPrice": 5.6000000000000005
+      },
+      {
+        "date": "2022-11-06",
+        "price": 2.99,
+        "unitPrice": 7.4750000000000005
+      },
+      {
+        "date": "2022-11-04",
+        "price": 2.24,
+        "unitPrice": 5.6000000000000005
+      },
+      {
+        "date": "2022-10-09",
+        "price": 2.99,
+        "unitPrice": 7.4750000000000005
+      },
+      {
+        "date": "2022-09-08",
+        "price": 3.29,
+        "unitPrice": 8.225
+      },
+      {
+        "date": "2022-09-05",
+        "price": 2.47,
+        "unitPrice": 6.175000000000001
+      },
+      {
+        "date": "2022-08-14",
+        "price": 3.29,
+        "unitPrice": 8.225
+      },
+      {
+        "date": "2022-08-12",
+        "price": 2.47,
+        "unitPrice": 6.175000000000001
+      },
+      {
+        "date": "2022-08-02",
+        "price": 3.29,
+        "unitPrice": 8.225
+      },
+      {
+        "date": "2020-08-04",
+        "price": 2.49,
+        "unitPrice": 6.2250000000000005
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 400,
+    "bio": true,
+    "available": true,
+    "url": "https://shop.billa.at/produkte/ja-natuerlich-schalotten-zwiebel-00410613"
+  },
+  {
+    "store": "billa",
+    "id": "00-410615",
+    "name": "Ja! Natürlich Zwiebel gelb",
+    "category": "01",
+    "price": 1.99,
+    "priceHistory": [
+      {
+        "date": "2026-04-12",
+        "price": 1.99,
+        "unitPrice": 2.6533333333333333
+      },
+      {
+        "date": "2026-04-10",
+        "price": 1.49,
+        "unitPrice": 1.9866666666666666
+      },
+      {
+        "date": "2026-04-06",
+        "price": 1.99,
+        "unitPrice": 2.6533333333333333
+      },
+      {
+        "date": "2026-03-01",
+        "price": 1.79,
+        "unitPrice": 2.3866666666666667
+      },
+      {
+        "date": "2026-02-27",
+        "price": 1.34,
+        "unitPrice": 1.7866666666666668
+      },
+      {
+        "date": "2026-01-08",
+        "price": 1.79,
+        "unitPrice": 2.3866666666666667
+      },
+      {
+        "date": "2026-01-04",
+        "price": 2.49,
+        "unitPrice": 3.3200000000000003
+      },
+      {
+        "date": "2026-01-02",
+        "price": 1.87,
+        "unitPrice": 2.4933333333333336
+      },
+      {
+        "date": "2025-09-24",
+        "price": 1.79,
+        "unitPrice": 2.3866666666666667
+      },
+      {
+        "date": "2025-09-15",
+        "price": 1.99,
+        "unitPrice": 2.6533333333333333
+      },
+      {
+        "date": "2025-09-08",
+        "price": 1.49,
+        "unitPrice": 1.9866666666666666
+      },
+      {
+        "date": "2025-08-11",
+        "price": 1.99,
+        "unitPrice": 2.6533333333333333
+      },
+      {
+        "date": "2025-08-04",
+        "price": 1.49,
+        "unitPrice": 1.9866666666666666
+      },
+      {
+        "date": "2025-08-03",
+        "price": 1.99,
+        "unitPrice": 2.6533333333333333
+      },
+      {
+        "date": "2025-08-01",
+        "price": 1.49,
+        "unitPrice": 1.9866666666666666
+      },
+      {
+        "date": "2025-07-08",
+        "price": 1.99,
+        "unitPrice": 2.6533333333333333
+      },
+      {
+        "date": "2025-07-07",
+        "price": 2.29,
+        "unitPrice": 3.0533333333333332
+      },
+      {
+        "date": "2025-06-30",
+        "price": 1.72,
+        "unitPrice": 2.2933333333333334
+      },
+      {
+        "date": "2025-06-24",
+        "price": 2.29,
+        "unitPrice": 3.0533333333333332
+      },
+      {
+        "date": "2025-05-11",
+        "price": 2.49,
+        "unitPrice": 3.3200000000000003
+      },
+      {
+        "date": "2025-05-09",
+        "price": 1.87,
+        "unitPrice": 2.4933333333333336
+      },
+      {
+        "date": "2025-04-21",
+        "price": 2.49,
+        "unitPrice": 3.3200000000000003
+      },
+      {
+        "date": "2025-04-13",
+        "price": 1.87,
+        "unitPrice": 2.4933333333333336
+      },
+      {
+        "date": "2025-03-03",
+        "price": 1.99,
+        "unitPrice": 2.6533333333333333
+      },
+      {
+        "date": "2025-02-24",
+        "price": 1.49,
+        "unitPrice": 1.9866666666666666
+      },
+      {
+        "date": "2025-01-05",
+        "price": 1.99,
+        "unitPrice": 2.6533333333333333
+      },
+      {
+        "date": "2025-01-03",
+        "price": 1.49,
+        "unitPrice": 1.9866666666666666
+      },
+      {
+        "date": "2024-12-13",
+        "price": 1.99,
+        "unitPrice": 2.6533333333333333
+      },
+      {
+        "date": "2024-12-08",
+        "price": 1.49,
+        "unitPrice": 1.9866666666666666
+      },
+      {
+        "date": "2024-11-03",
+        "price": 1.99,
+        "unitPrice": 2.6533333333333333
+      },
+      {
+        "date": "2024-10-31",
+        "price": 1.49,
+        "unitPrice": 1.9866666666666666
+      },
+      {
+        "date": "2024-10-22",
+        "price": 1.99,
+        "unitPrice": 2.6533333333333333
+      },
+      {
+        "date": "2024-10-17",
+        "price": 1.49,
+        "unitPrice": 1.9866666666666666
+      },
+      {
+        "date": "2024-10-10",
+        "price": 1.99,
+        "unitPrice": 2.6533333333333333
+      },
+      {
+        "date": "2024-10-03",
+        "price": 1.79,
+        "unitPrice": 2.3866666666666667
+      },
+      {
+        "date": "2024-09-09",
+        "price": 1.99,
+        "unitPrice": 2.6533333333333333
+      },
+      {
+        "date": "2024-09-02",
+        "price": 1.49,
+        "unitPrice": 1.9866666666666666
+      },
+      {
+        "date": "2024-08-12",
+        "price": 1.99,
+        "unitPrice": 2.6533333333333333
+      },
+      {
+        "date": "2024-08-05",
+        "price": 1.49,
+        "unitPrice": 1.9866666666666666
+      },
+      {
+        "date": "2024-07-05",
+        "price": 1.99,
+        "unitPrice": 2.6533333333333333
+      },
+      {
+        "date": "2024-07-02",
+        "price": 1.49,
+        "unitPrice": 1.9866666666666666
+      },
+      {
+        "date": "2024-06-28",
+        "price": 1.64,
+        "unitPrice": 2.1866666666666665
+      },
+      {
+        "date": "2024-06-16",
+        "price": 2.19,
+        "unitPrice": 2.92
+      },
+      {
+        "date": "2024-06-14",
+        "price": 1.99,
+        "unitPrice": 2.6533333333333333
+      },
+      {
+        "date": "2024-06-07",
+        "price": 1.49,
+        "unitPrice": 1.9866666666666666
+      },
+      {
+        "date": "2024-06-04",
+        "price": 1.99,
+        "unitPrice": 2.6533333333333333
+      },
+      {
+        "date": "2024-05-22",
+        "price": 2.19,
+        "unitPrice": 2.92
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 750,
+    "bio": true,
+    "available": true,
+    "url": "https://shop.billa.at/produkte/ja-natuerlich-zwiebel-gelb-00410615"
+  },
+  {
+    "store": "billa",
+    "id": "00-407973",
+    "name": "Ja! Natürlich Zwiebel rot",
+    "category": "01",
+    "price": 1.79,
+    "priceHistory": [
+      {
+        "date": "2026-04-12",
+        "price": 1.79,
+        "unitPrice": 3.58
+      },
+      {
+        "date": "2026-04-10",
+        "price": 1.34,
+        "unitPrice": 2.68
+      },
+      {
+        "date": "2026-03-01",
+        "price": 1.79,
+        "unitPrice": 3.58
+      },
+      {
+        "date": "2026-02-27",
+        "price": 1.34,
+        "unitPrice": 2.68
+      },
+      {
+        "date": "2026-01-04",
+        "price": 1.79,
+        "unitPrice": 3.58
+      },
+      {
+        "date": "2026-01-02",
+        "price": 1.34,
+        "unitPrice": 2.68
+      },
+      {
+        "date": "2025-09-15",
+        "price": 1.79,
+        "unitPrice": 3.58
+      },
+      {
+        "date": "2025-09-09",
+        "price": 1.34,
+        "unitPrice": 2.68
+      },
+      {
+        "date": "2025-09-08",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2025-08-11",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2025-08-04",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2025-08-03",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2025-08-01",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2025-07-07",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2025-06-30",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2025-06-29",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2025-05-30",
+        "price": 2.49,
+        "unitPrice": 4.98
+      },
+      {
+        "date": "2025-05-11",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2025-05-09",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2025-04-21",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2025-04-13",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2025-03-03",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2025-02-24",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2025-01-21",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2025-01-14",
+        "price": 2.49,
+        "unitPrice": 4.98
+      },
+      {
+        "date": "2025-01-05",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2025-01-03",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2024-12-13",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2024-12-08",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2024-11-03",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2024-10-31",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2024-10-22",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2024-10-17",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2024-09-09",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2024-09-02",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2024-08-12",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2024-08-05",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2024-07-05",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2024-07-02",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2024-06-28",
+        "price": 1.87,
+        "unitPrice": 3.74
+      },
+      {
+        "date": "2024-06-18",
+        "price": 2.49,
+        "unitPrice": 4.98
+      },
+      {
+        "date": "2024-06-16",
+        "price": 2.29,
+        "unitPrice": 4.58
+      },
+      {
+        "date": "2024-06-14",
+        "price": 2.49,
+        "unitPrice": 4.98
+      },
+      {
+        "date": "2024-06-07",
+        "price": 1.87,
+        "unitPrice": 3.74
+      },
+      {
+        "date": "2024-04-28",
+        "price": 2.49,
+        "unitPrice": 4.98
+      },
+      {
+        "date": "2024-04-26",
+        "price": 1.87,
+        "unitPrice": 3.74
+      },
+      {
+        "date": "2024-04-16",
+        "price": 2.49,
+        "unitPrice": 4.98
+      },
+      {
+        "date": "2024-03-28",
+        "price": 2.69,
+        "unitPrice": 5.38
+      },
+      {
+        "date": "2024-03-24",
+        "price": 2.49,
+        "unitPrice": 4.98
+      },
+      {
+        "date": "2024-02-24",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2024-02-16",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2024-01-16",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2024-01-09",
+        "price": 1.89,
+        "unitPrice": 3.78
+      },
+      {
+        "date": "2024-01-07",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2024-01-06",
+        "price": 1.89,
+        "unitPrice": 3.78
+      },
+      {
+        "date": "2024-01-04",
+        "price": 1.42,
+        "unitPrice": 2.84
+      },
+      {
+        "date": "2023-12-15",
+        "price": 1.89,
+        "unitPrice": 3.78
+      },
+      {
+        "date": "2023-12-11",
+        "price": 1.42,
+        "unitPrice": 2.84
+      },
+      {
+        "date": "2023-11-19",
+        "price": 1.89,
+        "unitPrice": 3.78
+      },
+      {
+        "date": "2023-11-15",
+        "price": 1.42,
+        "unitPrice": 2.84
+      },
+      {
+        "date": "2023-10-05",
+        "price": 1.89,
+        "unitPrice": 3.78
+      },
+      {
+        "date": "2023-09-28",
+        "price": 1.42,
+        "unitPrice": 2.84
+      },
+      {
+        "date": "2023-08-27",
+        "price": 1.89,
+        "unitPrice": 3.78
+      },
+      {
+        "date": "2023-08-25",
+        "price": 1.42,
+        "unitPrice": 2.84
+      },
+      {
+        "date": "2023-07-19",
+        "price": 1.89,
+        "unitPrice": 3.78
+      },
+      {
+        "date": "2023-07-14",
+        "price": 1.42,
+        "unitPrice": 2.84
+      },
+      {
+        "date": "2023-06-11",
+        "price": 1.89,
+        "unitPrice": 3.78
+      },
+      {
+        "date": "2023-06-07",
+        "price": 1.42,
+        "unitPrice": 2.84
+      },
+      {
+        "date": "2023-03-28",
+        "price": 1.89,
+        "unitPrice": 3.78
+      },
+      {
+        "date": "2023-02-07",
+        "price": 1.79,
+        "unitPrice": 3.58
+      },
+      {
+        "date": "2023-02-02",
+        "price": 1.34,
+        "unitPrice": 2.68
+      },
+      {
+        "date": "2023-01-08",
+        "price": 1.79,
+        "unitPrice": 3.58
+      },
+      {
+        "date": "2023-01-05",
+        "price": 1.34,
+        "unitPrice": 2.68
+      },
+      {
+        "date": "2022-12-18",
+        "price": 1.79,
+        "unitPrice": 3.58
+      },
+      {
+        "date": "2022-12-16",
+        "price": 1.34,
+        "unitPrice": 2.68
+      },
+      {
+        "date": "2022-11-06",
+        "price": 1.79,
+        "unitPrice": 3.58
+      },
+      {
+        "date": "2022-11-04",
+        "price": 1.34,
+        "unitPrice": 2.68
+      },
+      {
+        "date": "2022-09-08",
+        "price": 1.79,
+        "unitPrice": 3.58
+      },
+      {
+        "date": "2022-09-05",
+        "price": 1.34,
+        "unitPrice": 2.68
+      },
+      {
+        "date": "2022-08-14",
+        "price": 1.79,
+        "unitPrice": 3.58
+      },
+      {
+        "date": "2022-08-12",
+        "price": 1.34,
+        "unitPrice": 2.68
+      },
+      {
+        "date": "2022-07-26",
+        "price": 1.79,
+        "unitPrice": 3.58
+      },
+      {
+        "date": "2022-07-14",
+        "price": 1.69,
+        "unitPrice": 3.38
+      },
+      {
+        "date": "2022-07-11",
+        "price": 1.27,
+        "unitPrice": 2.54
+      },
+      {
+        "date": "2022-05-25",
+        "price": 1.69,
+        "unitPrice": 3.38
+      },
+      {
+        "date": "2022-05-23",
+        "price": 1.27,
+        "unitPrice": 2.54
+      },
+      {
+        "date": "2022-03-15",
+        "price": 1.69,
+        "unitPrice": 3.38
+      },
+      {
+        "date": "2022-01-09",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2022-01-07",
+        "price": 1.12,
+        "unitPrice": 2.24
+      },
+      {
+        "date": "2020-08-06",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2020-06-16",
+        "price": 2.49,
+        "unitPrice": 4.98
+      },
+      {
+        "date": "2019-08-20",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2018-07-22",
+        "price": 1.09,
+        "unitPrice": 2.18
+      },
+      {
+        "date": "2018-06-03",
+        "price": 2.49,
+        "unitPrice": 4.98
+      },
+      {
+        "date": "2018-04-19",
+        "price": 1.09,
+        "unitPrice": 2.18
+      },
+      {
+        "date": "2018-02-25",
+        "price": 1.59,
+        "unitPrice": 3.18
+      },
+      {
+        "date": "2017-08-13",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2017-06-20",
+        "price": 2.49,
+        "unitPrice": 4.98
+      },
+      {
+        "date": "2017-04-05",
+        "price": 1.99,
+        "unitPrice": 3.98
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 500,
+    "bio": true,
+    "available": true,
+    "url": "https://shop.billa.at/produkte/ja-natuerlich-zwiebel-rot-00407973"
+  },
+  {
+    "store": "billa",
+    "id": "00-882816",
+    "name": "Ja! Natürlich Zwiebelzopf gelb",
+    "category": "01",
+    "price": 1.59,
+    "priceHistory": [
+      {
+        "date": "2026-04-12",
+        "price": 1.59,
+        "unitPrice": 5.678571428571429
+      },
+      {
+        "date": "2026-04-10",
+        "price": 1.19,
+        "unitPrice": 4.249999999999999
+      },
+      {
+        "date": "2026-03-01",
+        "price": 1.59,
+        "unitPrice": 5.678571428571429
+      },
+      {
+        "date": "2026-02-27",
+        "price": 1.19,
+        "unitPrice": 4.249999999999999
+      },
+      {
+        "date": "2026-02-17",
+        "price": 1.59,
+        "unitPrice": 5.678571428571429
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 280,
+    "bio": true,
+    "available": true,
+    "url": "https://shop.billa.at/produkte/ja-natuerlich-zwiebelzopf-gelb-00882816"
+  },
+  {
+    "store": "billa",
+    "id": "00-882815",
+    "name": "Ja! Natürlich Zwiebelzopf rot",
+    "category": "01",
+    "price": 1.69,
+    "priceHistory": [
+      {
+        "date": "2026-04-12",
+        "price": 1.69,
+        "unitPrice": 6.035714285714286
+      },
+      {
+        "date": "2026-04-10",
+        "price": 1.27,
+        "unitPrice": 4.5357142857142865
+      },
+      {
+        "date": "2026-03-01",
+        "price": 1.69,
+        "unitPrice": 6.035714285714286
+      },
+      {
+        "date": "2026-02-27",
+        "price": 1.27,
+        "unitPrice": 4.5357142857142865
+      },
+      {
+        "date": "2026-02-17",
+        "price": 1.69,
+        "unitPrice": 6.035714285714286
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 280,
+    "bio": true,
+    "available": true,
+    "url": "https://shop.billa.at/produkte/ja-natuerlich-zwiebelzopf-rot-00882815"
+  },
+  {
+    "store": "mpreis",
+    "id": "599975",
+    "name": "Jeden Tag Zwiebel",
+    "category": "01",
+    "price": 1.99,
+    "priceHistory": [
+      {
+        "date": "2024-02-13",
+        "price": 1.99,
+        "unitPrice": 0.995
+      },
+      {
+        "date": "2023-08-28",
+        "price": 1.89,
+        "unitPrice": 0.945
+      },
+      {
+        "date": "2023-07-24",
+        "price": 1.99,
+        "unitPrice": 0.995
+      },
+      {
+        "date": "2023-07-17",
+        "price": 2.49,
+        "unitPrice": 1.245
+      },
+      {
+        "date": "2023-06-19",
+        "price": 2.79,
+        "unitPrice": 1.395
+      },
+      {
+        "date": "2023-05-26",
+        "price": 2.49,
+        "unitPrice": 1.245
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 2000,
+    "bio": false,
+    "available": false,
+    "url": "https://www.mpreis.at/shop/p/599975"
+  },
+  {
+    "store": "spar",
+    "id": "2020001465170",
+    "name": "S-BUDGET Zwiebel gelb",
+    "category": "01",
+    "price": 1.99,
+    "priceHistory": [
+      {
+        "date": "2026-03-30",
+        "price": 1.99,
+        "unitPrice": 0.6633333333333333
+      },
+      {
+        "date": "2025-11-17",
+        "price": 1.79,
+        "unitPrice": 0.5966666666666667
+      },
+      {
+        "date": "2025-10-20",
+        "price": 2.19,
+        "unitPrice": 0.73
+      },
+      {
+        "date": "2025-10-19",
+        "price": 2.49,
+        "unitPrice": 0.8300000000000001
+      },
+      {
+        "date": "2025-10-13",
+        "price": 1.99,
+        "unitPrice": 0.6633333333333333
+      },
+      {
+        "date": "2025-10-12",
+        "price": 2.49,
+        "unitPrice": 0.8300000000000001
+      },
+      {
+        "date": "2025-10-06",
+        "price": 1.99,
+        "unitPrice": 0.6633333333333333
+      },
+      {
+        "date": "2025-09-22",
+        "price": 2.49,
+        "unitPrice": 0.8300000000000001
+      },
+      {
+        "date": "2025-08-18",
+        "price": 2.69,
+        "unitPrice": 0.8966666666666666
+      },
+      {
+        "date": "2025-07-21",
+        "price": 2.99,
+        "unitPrice": 0.9966666666666667
+      },
+      {
+        "date": "2025-07-14",
+        "price": 2.79,
+        "unitPrice": 0.93
+      },
+      {
+        "date": "2025-05-14",
+        "price": 2.99,
+        "unitPrice": 0.9966666666666667
+      },
+      {
+        "date": "2024-09-09",
+        "price": 1.99,
+        "unitPrice": 0.6633333333333333
+      },
+      {
+        "date": "2024-07-22",
+        "price": 2.29,
+        "unitPrice": 0.7633333333333333
+      },
+      {
+        "date": "2024-07-01",
+        "price": 2.69,
+        "unitPrice": 0.8966666666666666
+      },
+      {
+        "date": "2024-04-08",
+        "price": 2.79,
+        "unitPrice": 0.93
+      },
+      {
+        "date": "2024-03-04",
+        "price": 3.19,
+        "unitPrice": 1.0633333333333332
+      },
+      {
+        "date": "2024-02-19",
+        "price": 2.99,
+        "unitPrice": 0.9966666666666667
+      },
+      {
+        "date": "2023-10-09",
+        "price": 2.79,
+        "unitPrice": 0.93
+      },
+      {
+        "date": "2023-09-11",
+        "price": 2.89,
+        "unitPrice": 0.9633333333333334
+      },
+      {
+        "date": "2023-07-31",
+        "price": 2.99,
+        "unitPrice": 0.9966666666666667
+      },
+      {
+        "date": "2023-07-24",
+        "price": 3.39,
+        "unitPrice": 1.1300000000000001
+      },
+      {
+        "date": "2023-07-17",
+        "price": 3.49,
+        "unitPrice": 1.1633333333333336
+      },
+      {
+        "date": "2023-07-10",
+        "price": 3.69,
+        "unitPrice": 1.23
+      },
+      {
+        "date": "2023-04-14",
+        "price": 3.49,
+        "unitPrice": 1.1633333333333336
+      },
+      {
+        "date": "2023-03-06",
+        "price": 3.29,
+        "unitPrice": 1.0966666666666667
+      },
+      {
+        "date": "2023-02-06",
+        "price": 2.99,
+        "unitPrice": 0.9966666666666667
+      },
+      {
+        "date": "2023-01-09",
+        "price": 2.69,
+        "unitPrice": 0.8966666666666666
+      },
+      {
+        "date": "2022-11-14",
+        "price": 2.59,
+        "unitPrice": 0.8633333333333333
+      },
+      {
+        "date": "2022-09-30",
+        "price": 2.69,
+        "unitPrice": 0.8966666666666666
+      },
+      {
+        "date": "2021-12-14",
+        "price": 1.99,
+        "unitPrice": 0.6633333333333333
+      },
+      {
+        "date": "2021-10-12",
+        "price": 1.79,
+        "unitPrice": 0.5966666666666667
+      },
+      {
+        "date": "2021-07-27",
+        "price": 1.99,
+        "unitPrice": 0.6633333333333333
+      },
+      {
+        "date": "2021-07-06",
+        "price": 2.29,
+        "unitPrice": 0.7633333333333333
+      },
+      {
+        "date": "2021-05-04",
+        "price": 2.19,
+        "unitPrice": 0.73
+      },
+      {
+        "date": "2020-09-01",
+        "price": 1.99,
+        "unitPrice": 0.6633333333333333
+      },
+      {
+        "date": "2020-08-11",
+        "price": 1.79,
+        "unitPrice": 0.5966666666666667
+      },
+      {
+        "date": "2020-07-21",
+        "price": 1.99,
+        "unitPrice": 0.6633333333333333
+      },
+      {
+        "date": "2020-07-14",
+        "price": 2.19,
+        "unitPrice": 0.73
+      },
+      {
+        "date": "2020-07-07",
+        "price": 2.49,
+        "unitPrice": 0.8300000000000001
+      },
+      {
+        "date": "2020-06-16",
+        "price": 2.19,
+        "unitPrice": 0.73
+      },
+      {
+        "date": "2020-06-02",
+        "price": 1.99,
+        "unitPrice": 0.6633333333333333
+      },
+      {
+        "date": "2020-05-12",
+        "price": 1.89,
+        "unitPrice": 0.6299999999999999
+      },
+      {
+        "date": "2019-09-03",
+        "price": 1.79,
+        "unitPrice": 0.5966666666666667
+      },
+      {
+        "date": "2019-08-30",
+        "price": 1.99,
+        "unitPrice": 0.6633333333333333
+      },
+      {
+        "date": "2019-07-23",
+        "price": 2.69,
+        "unitPrice": 0.8966666666666666
+      },
+      {
+        "date": "2019-07-02",
+        "price": 2.99,
+        "unitPrice": 0.9966666666666667
+      },
+      {
+        "date": "2019-06-04",
+        "price": 3.49,
+        "unitPrice": 1.1633333333333336
+      },
+      {
+        "date": "2019-05-07",
+        "price": 3.29,
+        "unitPrice": 1.0966666666666667
+      },
+      {
+        "date": "2019-04-09",
+        "price": 2.99,
+        "unitPrice": 0.9966666666666667
+      },
+      {
+        "date": "2019-01-15",
+        "price": 2.69,
+        "unitPrice": 0.8966666666666666
+      },
+      {
+        "date": "2018-08-14",
+        "price": 1.79,
+        "unitPrice": 0.5966666666666667
+      },
+      {
+        "date": "2018-06-05",
+        "price": 1.89,
+        "unitPrice": 0.6299999999999999
+      },
+      {
+        "date": "2018-04-15",
+        "price": 1.29,
+        "unitPrice": 0.43
+      },
+      {
+        "date": "2018-04-09",
+        "price": 1.09,
+        "unitPrice": 0.36333333333333334
+      },
+      {
+        "date": "2018-04-02",
+        "price": 1.29,
+        "unitPrice": 0.43
+      },
+      {
+        "date": "2018-02-26",
+        "price": 1.19,
+        "unitPrice": 0.39666666666666667
+      },
+      {
+        "date": "2018-02-19",
+        "price": 0.99,
+        "unitPrice": 0.33
+      },
+      {
+        "date": "2017-10-16",
+        "price": 1.19,
+        "unitPrice": 0.39666666666666667
+      },
+      {
+        "date": "2017-10-03",
+        "price": 1.29,
+        "unitPrice": 0.43
+      },
+      {
+        "date": "2017-07-02",
+        "price": 1.19,
+        "unitPrice": 0.39666666666666667
+      },
+      {
+        "date": "2017-06-15",
+        "price": 1.29,
+        "unitPrice": 0.43
+      },
+      {
+        "date": "2017-04-20",
+        "price": 1.09,
+        "unitPrice": 0.36333333333333334
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 3000,
+    "bio": false,
+    "available": true,
+    "url": "https://www.interspar.at/shop/lebensmittel/p/2020001465170"
+  },
+  {
+    "store": "unimarkt",
+    "id": "11190",
+    "name": "Jeden Tag Zwiebel gelb",
+    "category": "01",
+    "price": 3.29,
+    "priceHistory": [
+      {
+        "date": "2023-08-07",
+        "price": 3.29,
+        "unitPrice": 1.645
+      },
+      {
+        "date": "2023-06-22",
+        "price": 3.89,
+        "unitPrice": 1.945
+      },
+      {
+        "date": "2023-05-29",
+        "price": 3.49,
+        "unitPrice": 1.745
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 2000,
+    "bio": false,
+    "available": false,
+    "url": "https://shop.unimarkt.at//Jeden-Tag-Zwiebel-gelb-11190"
+  },
+  {
+    "store": "unimarkt",
+    "id": "94159",
+    "name": "UNIpur Zwiebel",
+    "category": "01",
+    "price": 1.89,
+    "priceHistory": [
+      {
+        "date": "2024-02-12",
+        "price": 1.89,
+        "unitPrice": 1.89
+      },
+      {
+        "date": "2023-09-25",
+        "price": 1.79,
+        "unitPrice": 1.79
+      },
+      {
+        "date": "2023-07-17",
+        "price": 2.19,
+        "unitPrice": 2.19
+      },
+      {
+        "date": "2023-06-22",
+        "price": 2.79,
+        "unitPrice": 2.79
+      },
+      {
+        "date": "2023-06-05",
+        "price": 2.49,
+        "unitPrice": 2.49
+      },
+      {
+        "date": "2023-05-29",
+        "price": 2.19,
+        "unitPrice": 2.19
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": false,
+    "available": false,
+    "url": "https://shop.unimarkt.at//UNIpur-Zwiebel-94159"
+  }
+]

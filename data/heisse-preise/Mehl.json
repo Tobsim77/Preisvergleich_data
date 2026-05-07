@@ -1,0 +1,5057 @@
+[
+  {
+    "store": "billa",
+    "id": "00-863685",
+    "name": "Clever Mehl Griffig",
+    "category": "57",
+    "price": 0.75,
+    "priceHistory": [
+      {
+        "date": "2026-04-12",
+        "price": 0.75,
+        "unitPrice": 0.75
+      },
+      {
+        "date": "2026-04-10",
+        "price": 0.71,
+        "unitPrice": 0.71
+      },
+      {
+        "date": "2026-03-15",
+        "price": 0.75,
+        "unitPrice": 0.75
+      },
+      {
+        "date": "2026-03-13",
+        "price": 0.71,
+        "unitPrice": 0.71
+      },
+      {
+        "date": "2023-10-05",
+        "price": 0.75,
+        "unitPrice": 0.75
+      },
+      {
+        "date": "2023-08-30",
+        "price": 0.85,
+        "unitPrice": 0.85
+      },
+      {
+        "date": "2023-06-15",
+        "price": 0.99,
+        "unitPrice": 0.99
+      },
+      {
+        "date": "2023-05-18",
+        "price": 0.85,
+        "unitPrice": 0.85
+      },
+      {
+        "date": "2023-05-06",
+        "price": 0.99,
+        "unitPrice": 0.99
+      },
+      {
+        "date": "2023-03-17",
+        "price": 0.85,
+        "unitPrice": 0.85
+      },
+      {
+        "date": "2023-02-02",
+        "price": 0.99,
+        "unitPrice": 0.99
+      },
+      {
+        "date": "2022-09-19",
+        "price": 0.85,
+        "unitPrice": 0.85
+      },
+      {
+        "date": "2022-07-19",
+        "price": 0.79,
+        "unitPrice": 0.79
+      },
+      {
+        "date": "2022-03-24",
+        "price": 0.75,
+        "unitPrice": 0.75
+      },
+      {
+        "date": "2022-01-19",
+        "price": 0.69,
+        "unitPrice": 0.69
+      },
+      {
+        "date": "2021-11-13",
+        "price": 0.49,
+        "unitPrice": 0.49
+      },
+      {
+        "date": "2021-09-16",
+        "price": 0.45,
+        "unitPrice": 0.45
+      },
+      {
+        "date": "2021-07-15",
+        "price": 0.39,
+        "unitPrice": 0.39
+      },
+      {
+        "date": "2021-04-07",
+        "price": 0.45,
+        "unitPrice": 0.45
+      },
+      {
+        "date": "2020-12-03",
+        "price": 0.39,
+        "unitPrice": 0.39
+      },
+      {
+        "date": "2018-02-16",
+        "price": 0.45,
+        "unitPrice": 0.45
+      },
+      {
+        "date": "2017-11-30",
+        "price": 0.49,
+        "unitPrice": 0.49
+      },
+      {
+        "date": "2017-04-05",
+        "price": 0.45,
+        "unitPrice": 0.45
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": false,
+    "available": true,
+    "url": "https://shop.billa.at/produkte/clever-mehl-griffig-00863685"
+  },
+  {
+    "store": "billa",
+    "id": "00-760899",
+    "name": "Clever Mehl Universal",
+    "category": "52",
+    "price": 0.75,
+    "priceHistory": [
+      {
+        "date": "2023-10-05",
+        "price": 0.75,
+        "unitPrice": 0.75
+      },
+      {
+        "date": "2023-08-30",
+        "price": 0.85,
+        "unitPrice": 0.85
+      },
+      {
+        "date": "2023-06-15",
+        "price": 0.99,
+        "unitPrice": 0.99
+      },
+      {
+        "date": "2023-05-18",
+        "price": 0.85,
+        "unitPrice": 0.85
+      },
+      {
+        "date": "2023-05-06",
+        "price": 0.99,
+        "unitPrice": 0.99
+      },
+      {
+        "date": "2023-03-17",
+        "price": 0.85,
+        "unitPrice": 0.85
+      },
+      {
+        "date": "2023-02-02",
+        "price": 0.99,
+        "unitPrice": 0.99
+      },
+      {
+        "date": "2022-09-19",
+        "price": 0.85,
+        "unitPrice": 0.85
+      },
+      {
+        "date": "2022-07-26",
+        "price": 0.79,
+        "unitPrice": 0.79
+      },
+      {
+        "date": "2022-03-29",
+        "price": 0.75,
+        "unitPrice": 0.75
+      },
+      {
+        "date": "2022-01-19",
+        "price": 0.69,
+        "unitPrice": 0.69
+      },
+      {
+        "date": "2021-11-13",
+        "price": 0.49,
+        "unitPrice": 0.49
+      },
+      {
+        "date": "2021-09-16",
+        "price": 0.45,
+        "unitPrice": 0.45
+      },
+      {
+        "date": "2021-07-15",
+        "price": 0.39,
+        "unitPrice": 0.39
+      },
+      {
+        "date": "2021-04-07",
+        "price": 0.45,
+        "unitPrice": 0.45
+      },
+      {
+        "date": "2020-12-03",
+        "price": 0.39,
+        "unitPrice": 0.39
+      },
+      {
+        "date": "2018-02-16",
+        "price": 0.45,
+        "unitPrice": 0.45
+      },
+      {
+        "date": "2017-11-30",
+        "price": 0.49,
+        "unitPrice": 0.49
+      },
+      {
+        "date": "2017-04-05",
+        "price": 0.45,
+        "unitPrice": 0.45
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": false,
+    "available": false,
+    "url": "https://shop.billa.at/produkte/clever-mehl-universal-00760899"
+  },
+  {
+    "store": "billa",
+    "id": "00-764091",
+    "name": "Clever Weizenmehl  Glatt",
+    "category": "57",
+    "price": 0.75,
+    "priceHistory": [
+      {
+        "date": "2026-04-12",
+        "price": 0.75,
+        "unitPrice": 0.75
+      },
+      {
+        "date": "2026-04-10",
+        "price": 0.71,
+        "unitPrice": 0.71
+      },
+      {
+        "date": "2026-03-15",
+        "price": 0.75,
+        "unitPrice": 0.75
+      },
+      {
+        "date": "2026-03-13",
+        "price": 0.71,
+        "unitPrice": 0.71
+      },
+      {
+        "date": "2026-01-18",
+        "price": 0.75,
+        "unitPrice": 0.75
+      },
+      {
+        "date": "2025-12-04",
+        "price": 0.59,
+        "unitPrice": 0.59
+      },
+      {
+        "date": "2025-09-16",
+        "price": 0.75,
+        "unitPrice": 0.75
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": false,
+    "available": true,
+    "url": "https://shop.billa.at/produkte/clever-weizenmehl-glatt-00764091"
+  },
+  {
+    "store": "billa",
+    "id": "00-594850",
+    "name": "Clever Weizenmehl Glatt",
+    "category": "57",
+    "price": 0.75,
+    "priceHistory": [
+      {
+        "date": "2026-04-12",
+        "price": 0.75,
+        "unitPrice": 0.75
+      },
+      {
+        "date": "2026-04-10",
+        "price": 0.71,
+        "unitPrice": 0.71
+      },
+      {
+        "date": "2026-03-15",
+        "price": 0.75,
+        "unitPrice": 0.75
+      },
+      {
+        "date": "2026-03-13",
+        "price": 0.71,
+        "unitPrice": 0.71
+      },
+      {
+        "date": "2023-10-05",
+        "price": 0.75,
+        "unitPrice": 0.75
+      },
+      {
+        "date": "2023-08-30",
+        "price": 0.85,
+        "unitPrice": 0.85
+      },
+      {
+        "date": "2023-06-15",
+        "price": 0.99,
+        "unitPrice": 0.99
+      },
+      {
+        "date": "2023-05-18",
+        "price": 0.85,
+        "unitPrice": 0.85
+      },
+      {
+        "date": "2023-05-06",
+        "price": 0.99,
+        "unitPrice": 0.99
+      },
+      {
+        "date": "2023-03-17",
+        "price": 0.85,
+        "unitPrice": 0.85
+      },
+      {
+        "date": "2023-02-04",
+        "price": 0.99,
+        "unitPrice": 0.99
+      },
+      {
+        "date": "2023-01-19",
+        "price": 0.85,
+        "unitPrice": 0.85
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": false,
+    "available": true,
+    "url": "https://shop.billa.at/produkte/clever-weizenmehl-glatt-00594850"
+  },
+  {
+    "store": "billa",
+    "id": "00-738410",
+    "name": "Clever Weizenmehl Glatt",
+    "category": "57",
+    "price": 0.75,
+    "priceHistory": [
+      {
+        "date": "2026-04-12",
+        "price": 0.75,
+        "unitPrice": 0.75
+      },
+      {
+        "date": "2026-04-10",
+        "price": 0.71,
+        "unitPrice": 0.71
+      },
+      {
+        "date": "2026-03-15",
+        "price": 0.75,
+        "unitPrice": 0.75
+      },
+      {
+        "date": "2026-03-13",
+        "price": 0.71,
+        "unitPrice": 0.71
+      },
+      {
+        "date": "2024-08-15",
+        "price": 0.75,
+        "unitPrice": 0.75
+      },
+      {
+        "date": "2024-08-14",
+        "price": 0.56,
+        "unitPrice": 0.56
+      },
+      {
+        "date": "2024-04-18",
+        "price": 0.75,
+        "unitPrice": 0.75
+      },
+      {
+        "date": "2024-04-15",
+        "price": 0.56,
+        "unitPrice": 0.56
+      },
+      {
+        "date": "2024-03-26",
+        "price": 0.75,
+        "unitPrice": 0.75
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": false,
+    "available": true,
+    "url": "https://shop.billa.at/produkte/clever-weizenmehl-glatt-00738410"
+  },
+  {
+    "store": "billa",
+    "id": "00-738414",
+    "name": "Clever Weizenmehl Universal",
+    "category": "57",
+    "price": 0.75,
+    "priceHistory": [
+      {
+        "date": "2026-04-12",
+        "price": 0.75,
+        "unitPrice": 0.75
+      },
+      {
+        "date": "2026-04-10",
+        "price": 0.71,
+        "unitPrice": 0.71
+      },
+      {
+        "date": "2026-03-15",
+        "price": 0.75,
+        "unitPrice": 0.75
+      },
+      {
+        "date": "2026-03-13",
+        "price": 0.71,
+        "unitPrice": 0.71
+      },
+      {
+        "date": "2024-03-06",
+        "price": 0.75,
+        "unitPrice": 0.75
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": false,
+    "available": true,
+    "url": "https://shop.billa.at/produkte/clever-weizenmehl-universal-00738414"
+  },
+  {
+    "store": "billa",
+    "id": "00-738409",
+    "name": "Clever Weizenmehl griffig",
+    "category": "57",
+    "price": 0.75,
+    "priceHistory": [
+      {
+        "date": "2026-04-12",
+        "price": 0.75,
+        "unitPrice": 0.75
+      },
+      {
+        "date": "2026-04-10",
+        "price": 0.71,
+        "unitPrice": 0.71
+      },
+      {
+        "date": "2026-03-15",
+        "price": 0.75,
+        "unitPrice": 0.75
+      },
+      {
+        "date": "2026-03-13",
+        "price": 0.71,
+        "unitPrice": 0.71
+      },
+      {
+        "date": "2026-01-18",
+        "price": 0.75,
+        "unitPrice": 0.75
+      },
+      {
+        "date": "2025-12-04",
+        "price": 0.59,
+        "unitPrice": 0.59
+      },
+      {
+        "date": "2024-08-15",
+        "price": 0.75,
+        "unitPrice": 0.75
+      },
+      {
+        "date": "2024-08-14",
+        "price": 0.56,
+        "unitPrice": 0.56
+      },
+      {
+        "date": "2024-04-18",
+        "price": 0.75,
+        "unitPrice": 0.75
+      },
+      {
+        "date": "2024-04-15",
+        "price": 0.56,
+        "unitPrice": 0.56
+      },
+      {
+        "date": "2024-03-13",
+        "price": 0.75,
+        "unitPrice": 0.75
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": false,
+    "available": true,
+    "url": "https://shop.billa.at/produkte/clever-weizenmehl-griffig-00738409"
+  },
+  {
+    "store": "billa",
+    "id": "00-703358",
+    "name": "Ja! Natürlich Bio Buchweizenmehl",
+    "category": "59",
+    "price": 2.24,
+    "priceHistory": [
+      {
+        "date": "2024-06-28",
+        "price": 2.24,
+        "unitPrice": 4.48
+      },
+      {
+        "date": "2024-06-14",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2024-06-07",
+        "price": 2.24,
+        "unitPrice": 4.48
+      },
+      {
+        "date": "2024-05-13",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2024-05-06",
+        "price": 2.24,
+        "unitPrice": 4.48
+      },
+      {
+        "date": "2024-04-28",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2024-04-26",
+        "price": 2.24,
+        "unitPrice": 4.48
+      },
+      {
+        "date": "2024-04-18",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2024-04-15",
+        "price": 2.24,
+        "unitPrice": 4.48
+      },
+      {
+        "date": "2024-03-31",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2024-02-29",
+        "price": 2.79,
+        "unitPrice": 5.58
+      },
+      {
+        "date": "2024-01-19",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2024-01-16",
+        "price": 2.24,
+        "unitPrice": 4.48
+      },
+      {
+        "date": "2024-01-12",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2024-01-10",
+        "price": 2.24,
+        "unitPrice": 4.48
+      },
+      {
+        "date": "2024-01-06",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2024-01-04",
+        "price": 2.24,
+        "unitPrice": 4.48
+      },
+      {
+        "date": "2023-12-15",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2023-12-11",
+        "price": 2.24,
+        "unitPrice": 4.48
+      },
+      {
+        "date": "2023-11-19",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2023-11-15",
+        "price": 2.24,
+        "unitPrice": 4.48
+      },
+      {
+        "date": "2023-10-21",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2023-09-26",
+        "price": 2.24,
+        "unitPrice": 4.48
+      },
+      {
+        "date": "2023-09-09",
+        "price": 2.99,
+        "unitPrice": 5.98
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 500,
+    "bio": true,
+    "available": false,
+    "url": "https://shop.billa.at/produkte/ja-natuerlich-bio-buchweizenmehl-00703358"
+  },
+  {
+    "store": "billa",
+    "id": "00-703359",
+    "name": "Ja! Natürlich Bio Maismehl",
+    "category": "57",
+    "price": 1.99,
+    "priceHistory": [
+      {
+        "date": "2026-04-12",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2026-04-10",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2026-03-01",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2026-02-27",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2025-09-15",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2025-09-08",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2025-08-11",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2025-08-04",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2025-08-03",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2025-08-01",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2025-07-07",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2025-06-30",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2025-06-04",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2025-05-26",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2025-05-11",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2025-05-09",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2025-04-21",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2025-04-13",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2025-03-03",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2025-02-24",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2025-01-24",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2025-01-23",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2025-01-17",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2025-01-07",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2025-01-05",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2025-01-03",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2024-12-13",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2024-12-08",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2024-11-12",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2024-11-04",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2024-11-03",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2024-10-31",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2024-10-22",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2024-10-17",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2024-09-09",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2024-09-02",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2024-08-19",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2024-08-14",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2024-08-12",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2024-08-05",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2024-07-05",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2024-06-28",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2024-06-14",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2024-06-07",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2024-05-13",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2024-05-06",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2024-04-28",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2024-04-26",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2024-04-18",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2024-04-15",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2024-03-31",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2024-02-29",
+        "price": 1.79,
+        "unitPrice": 3.58
+      },
+      {
+        "date": "2024-02-24",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2024-02-16",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2024-01-19",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2024-01-16",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2024-01-12",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2024-01-10",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2024-01-06",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2024-01-04",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2023-12-15",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2023-12-11",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2023-11-19",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2023-11-15",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2023-10-05",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2023-10-01",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2023-09-28",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2023-09-26",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2023-09-09",
+        "price": 1.99,
+        "unitPrice": 3.98
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 500,
+    "bio": true,
+    "available": true,
+    "url": "https://shop.billa.at/produkte/ja-natuerlich-bio-maismehl-00703359"
+  },
+  {
+    "store": "billa",
+    "id": "00-686825",
+    "name": "Ja! Natürlich Dinkelmehl",
+    "category": "57",
+    "price": 1.79,
+    "priceHistory": [
+      {
+        "date": "2026-04-12",
+        "price": 1.79,
+        "unitPrice": 1.79
+      },
+      {
+        "date": "2026-04-10",
+        "price": 1.34,
+        "unitPrice": 1.34
+      },
+      {
+        "date": "2026-03-26",
+        "price": 1.79,
+        "unitPrice": 1.79
+      },
+      {
+        "date": "2026-03-01",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2026-02-27",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2025-09-15",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2025-09-08",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2025-08-11",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2025-08-04",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2025-08-03",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2025-08-01",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2025-07-07",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2025-06-30",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2025-05-11",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2025-05-09",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2025-04-21",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2025-04-20",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2025-04-13",
+        "price": 1.34,
+        "unitPrice": 1.34
+      },
+      {
+        "date": "2025-03-27",
+        "price": 1.79,
+        "unitPrice": 1.79
+      },
+      {
+        "date": "2025-03-03",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2025-02-24",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2025-01-05",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2025-01-03",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2024-12-13",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2024-12-08",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2024-11-03",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2024-10-31",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2024-10-22",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2024-10-17",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2024-09-09",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2024-09-02",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2024-08-12",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2024-08-05",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2024-07-05",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2024-06-28",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2024-06-14",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2024-06-07",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2024-05-15",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2024-04-28",
+        "price": 2.19,
+        "unitPrice": 2.19
+      },
+      {
+        "date": "2024-04-26",
+        "price": 1.64,
+        "unitPrice": 1.64
+      },
+      {
+        "date": "2024-02-24",
+        "price": 2.19,
+        "unitPrice": 2.19
+      },
+      {
+        "date": "2024-02-16",
+        "price": 1.64,
+        "unitPrice": 1.64
+      },
+      {
+        "date": "2024-01-06",
+        "price": 2.19,
+        "unitPrice": 2.19
+      },
+      {
+        "date": "2024-01-04",
+        "price": 1.64,
+        "unitPrice": 1.64
+      },
+      {
+        "date": "2023-12-15",
+        "price": 2.19,
+        "unitPrice": 2.19
+      },
+      {
+        "date": "2023-12-11",
+        "price": 1.64,
+        "unitPrice": 1.64
+      },
+      {
+        "date": "2023-11-19",
+        "price": 2.19,
+        "unitPrice": 2.19
+      },
+      {
+        "date": "2023-11-15",
+        "price": 1.64,
+        "unitPrice": 1.64
+      },
+      {
+        "date": "2023-10-05",
+        "price": 2.19,
+        "unitPrice": 2.19
+      },
+      {
+        "date": "2023-09-28",
+        "price": 1.64,
+        "unitPrice": 1.64
+      },
+      {
+        "date": "2023-08-27",
+        "price": 2.19,
+        "unitPrice": 2.19
+      },
+      {
+        "date": "2023-08-25",
+        "price": 1.64,
+        "unitPrice": 1.64
+      },
+      {
+        "date": "2023-07-19",
+        "price": 2.19,
+        "unitPrice": 2.19
+      },
+      {
+        "date": "2023-07-14",
+        "price": 1.64,
+        "unitPrice": 1.64
+      },
+      {
+        "date": "2023-06-11",
+        "price": 2.19,
+        "unitPrice": 2.19
+      },
+      {
+        "date": "2023-06-07",
+        "price": 1.64,
+        "unitPrice": 1.64
+      },
+      {
+        "date": "2023-02-10",
+        "price": 2.19,
+        "unitPrice": 2.19
+      },
+      {
+        "date": "2023-02-07",
+        "price": 2.39,
+        "unitPrice": 2.39
+      },
+      {
+        "date": "2023-02-02",
+        "price": 1.79,
+        "unitPrice": 1.79
+      },
+      {
+        "date": "2023-01-08",
+        "price": 2.39,
+        "unitPrice": 2.39
+      },
+      {
+        "date": "2023-01-05",
+        "price": 1.79,
+        "unitPrice": 1.79
+      },
+      {
+        "date": "2022-12-18",
+        "price": 2.39,
+        "unitPrice": 2.39
+      },
+      {
+        "date": "2022-12-16",
+        "price": 1.79,
+        "unitPrice": 1.79
+      },
+      {
+        "date": "2022-11-18",
+        "price": 2.39,
+        "unitPrice": 2.39
+      },
+      {
+        "date": "2022-10-27",
+        "price": 1.79,
+        "unitPrice": 1.79
+      },
+      {
+        "date": "2022-09-08",
+        "price": 2.39,
+        "unitPrice": 2.39
+      },
+      {
+        "date": "2022-09-05",
+        "price": 1.79,
+        "unitPrice": 1.79
+      },
+      {
+        "date": "2022-07-19",
+        "price": 2.39,
+        "unitPrice": 2.39
+      },
+      {
+        "date": "2022-07-13",
+        "price": 1.79,
+        "unitPrice": 1.79
+      },
+      {
+        "date": "2022-05-25",
+        "price": 2.39,
+        "unitPrice": 2.39
+      },
+      {
+        "date": "2022-05-24",
+        "price": 1.79,
+        "unitPrice": 1.79
+      },
+      {
+        "date": "2022-05-23",
+        "price": 1.64,
+        "unitPrice": 1.64
+      },
+      {
+        "date": "2022-04-25",
+        "price": 2.19,
+        "unitPrice": 2.19
+      },
+      {
+        "date": "2022-02-17",
+        "price": 2.29,
+        "unitPrice": 2.29
+      },
+      {
+        "date": "2022-02-03",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2022-01-09",
+        "price": 2.29,
+        "unitPrice": 2.29
+      },
+      {
+        "date": "2022-01-07",
+        "price": 1.72,
+        "unitPrice": 1.72
+      },
+      {
+        "date": "2021-11-25",
+        "price": 2.29,
+        "unitPrice": 2.29
+      },
+      {
+        "date": "2021-10-28",
+        "price": 1.79,
+        "unitPrice": 1.79
+      },
+      {
+        "date": "2020-12-03",
+        "price": 2.29,
+        "unitPrice": 2.29
+      },
+      {
+        "date": "2020-11-05",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2020-09-24",
+        "price": 2.29,
+        "unitPrice": 2.29
+      },
+      {
+        "date": "2020-09-10",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2020-03-12",
+        "price": 2.29,
+        "unitPrice": 2.29
+      },
+      {
+        "date": "2020-02-27",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2019-12-05",
+        "price": 2.29,
+        "unitPrice": 2.29
+      },
+      {
+        "date": "2019-11-21",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2019-11-07",
+        "price": 2.19,
+        "unitPrice": 2.19
+      },
+      {
+        "date": "2018-10-18",
+        "price": 2.29,
+        "unitPrice": 2.29
+      },
+      {
+        "date": "2018-10-04",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2017-04-05",
+        "price": 2.29,
+        "unitPrice": 2.29
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": true,
+    "available": true,
+    "url": "https://shop.billa.at/produkte/ja-natuerlich-dinkelmehl-00686825"
+  },
+  {
+    "store": "billa",
+    "id": "00-643078",
+    "name": "Ja! Natürlich Dinkelvollkornmehl",
+    "category": "57",
+    "price": 1.79,
+    "priceHistory": [
+      {
+        "date": "2026-04-12",
+        "price": 1.79,
+        "unitPrice": 1.79
+      },
+      {
+        "date": "2026-04-10",
+        "price": 1.34,
+        "unitPrice": 1.34
+      },
+      {
+        "date": "2026-03-26",
+        "price": 1.79,
+        "unitPrice": 1.79
+      },
+      {
+        "date": "2026-03-01",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2026-02-27",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2025-09-15",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2025-09-08",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2025-08-11",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2025-08-04",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2025-08-03",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2025-08-01",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2025-07-07",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2025-06-30",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2025-05-11",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2025-05-09",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2025-04-21",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2025-04-20",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2025-04-13",
+        "price": 1.34,
+        "unitPrice": 1.34
+      },
+      {
+        "date": "2025-03-27",
+        "price": 1.79,
+        "unitPrice": 1.79
+      },
+      {
+        "date": "2025-03-03",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2025-02-24",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2025-01-05",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2025-01-03",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2024-12-13",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2024-12-08",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2024-11-03",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2024-10-31",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2024-10-22",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2024-10-17",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2024-09-09",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2024-09-02",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2024-08-12",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2024-08-05",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2024-07-05",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2024-06-28",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2024-06-14",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2024-06-07",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2024-05-15",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2024-04-28",
+        "price": 2.19,
+        "unitPrice": 2.19
+      },
+      {
+        "date": "2024-04-26",
+        "price": 1.64,
+        "unitPrice": 1.64
+      },
+      {
+        "date": "2024-02-24",
+        "price": 2.19,
+        "unitPrice": 2.19
+      },
+      {
+        "date": "2024-02-16",
+        "price": 1.64,
+        "unitPrice": 1.64
+      },
+      {
+        "date": "2024-01-06",
+        "price": 2.19,
+        "unitPrice": 2.19
+      },
+      {
+        "date": "2024-01-04",
+        "price": 1.64,
+        "unitPrice": 1.64
+      },
+      {
+        "date": "2023-12-15",
+        "price": 2.19,
+        "unitPrice": 2.19
+      },
+      {
+        "date": "2023-12-11",
+        "price": 1.64,
+        "unitPrice": 1.64
+      },
+      {
+        "date": "2023-11-19",
+        "price": 2.19,
+        "unitPrice": 2.19
+      },
+      {
+        "date": "2023-11-15",
+        "price": 1.64,
+        "unitPrice": 1.64
+      },
+      {
+        "date": "2023-10-05",
+        "price": 2.19,
+        "unitPrice": 2.19
+      },
+      {
+        "date": "2023-09-28",
+        "price": 1.64,
+        "unitPrice": 1.64
+      },
+      {
+        "date": "2023-08-27",
+        "price": 2.19,
+        "unitPrice": 2.19
+      },
+      {
+        "date": "2023-08-25",
+        "price": 1.64,
+        "unitPrice": 1.64
+      },
+      {
+        "date": "2023-07-19",
+        "price": 2.19,
+        "unitPrice": 2.19
+      },
+      {
+        "date": "2023-07-14",
+        "price": 1.64,
+        "unitPrice": 1.64
+      },
+      {
+        "date": "2023-06-11",
+        "price": 2.19,
+        "unitPrice": 2.19
+      },
+      {
+        "date": "2023-06-07",
+        "price": 1.64,
+        "unitPrice": 1.64
+      },
+      {
+        "date": "2023-02-10",
+        "price": 2.19,
+        "unitPrice": 2.19
+      },
+      {
+        "date": "2023-02-09",
+        "price": 2.39,
+        "unitPrice": 2.39
+      },
+      {
+        "date": "2023-02-02",
+        "price": 1.79,
+        "unitPrice": 1.79
+      },
+      {
+        "date": "2023-01-08",
+        "price": 2.39,
+        "unitPrice": 2.39
+      },
+      {
+        "date": "2023-01-05",
+        "price": 1.79,
+        "unitPrice": 1.79
+      },
+      {
+        "date": "2022-12-18",
+        "price": 2.39,
+        "unitPrice": 2.39
+      },
+      {
+        "date": "2022-12-16",
+        "price": 1.79,
+        "unitPrice": 1.79
+      },
+      {
+        "date": "2022-11-22",
+        "price": 2.39,
+        "unitPrice": 2.39
+      },
+      {
+        "date": "2022-11-04",
+        "price": 1.34,
+        "unitPrice": 1.34
+      },
+      {
+        "date": "2022-10-27",
+        "price": 1.79,
+        "unitPrice": 1.79
+      },
+      {
+        "date": "2022-09-08",
+        "price": 2.39,
+        "unitPrice": 2.39
+      },
+      {
+        "date": "2022-09-05",
+        "price": 1.79,
+        "unitPrice": 1.79
+      },
+      {
+        "date": "2022-07-14",
+        "price": 2.39,
+        "unitPrice": 2.39
+      },
+      {
+        "date": "2022-07-11",
+        "price": 1.79,
+        "unitPrice": 1.79
+      },
+      {
+        "date": "2022-05-25",
+        "price": 2.39,
+        "unitPrice": 2.39
+      },
+      {
+        "date": "2022-05-24",
+        "price": 1.79,
+        "unitPrice": 1.79
+      },
+      {
+        "date": "2022-05-23",
+        "price": 1.64,
+        "unitPrice": 1.64
+      },
+      {
+        "date": "2022-04-25",
+        "price": 2.19,
+        "unitPrice": 2.19
+      },
+      {
+        "date": "2022-02-17",
+        "price": 2.29,
+        "unitPrice": 2.29
+      },
+      {
+        "date": "2022-02-03",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2022-01-09",
+        "price": 2.29,
+        "unitPrice": 2.29
+      },
+      {
+        "date": "2022-01-07",
+        "price": 1.72,
+        "unitPrice": 1.72
+      },
+      {
+        "date": "2021-11-25",
+        "price": 2.29,
+        "unitPrice": 2.29
+      },
+      {
+        "date": "2021-10-28",
+        "price": 1.79,
+        "unitPrice": 1.79
+      },
+      {
+        "date": "2020-12-03",
+        "price": 2.29,
+        "unitPrice": 2.29
+      },
+      {
+        "date": "2020-11-05",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2020-09-24",
+        "price": 2.29,
+        "unitPrice": 2.29
+      },
+      {
+        "date": "2020-09-10",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2020-03-12",
+        "price": 2.29,
+        "unitPrice": 2.29
+      },
+      {
+        "date": "2020-02-27",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2019-12-05",
+        "price": 2.29,
+        "unitPrice": 2.29
+      },
+      {
+        "date": "2019-11-21",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2019-11-07",
+        "price": 2.19,
+        "unitPrice": 2.19
+      },
+      {
+        "date": "2018-10-18",
+        "price": 2.29,
+        "unitPrice": 2.29
+      },
+      {
+        "date": "2018-10-04",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2017-04-05",
+        "price": 2.29,
+        "unitPrice": 2.29
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": true,
+    "available": true,
+    "url": "https://shop.billa.at/produkte/ja-natuerlich-dinkelvollkornmehl-00643078"
+  },
+  {
+    "store": "billa",
+    "id": "00-446154",
+    "name": "Ja! Natürlich Hanfmehl",
+    "category": "59",
+    "price": 2.99,
+    "priceHistory": [
+      {
+        "date": "2024-06-28",
+        "price": 2.99,
+        "unitPrice": 14.950000000000001
+      },
+      {
+        "date": "2024-06-14",
+        "price": 3.99,
+        "unitPrice": 19.950000000000003
+      },
+      {
+        "date": "2024-06-07",
+        "price": 2.99,
+        "unitPrice": 14.950000000000001
+      },
+      {
+        "date": "2024-04-28",
+        "price": 3.99,
+        "unitPrice": 19.950000000000003
+      },
+      {
+        "date": "2024-04-26",
+        "price": 2.99,
+        "unitPrice": 14.950000000000001
+      },
+      {
+        "date": "2024-04-18",
+        "price": 3.99,
+        "unitPrice": 19.950000000000003
+      },
+      {
+        "date": "2024-04-15",
+        "price": 2.99,
+        "unitPrice": 14.950000000000001
+      },
+      {
+        "date": "2024-03-31",
+        "price": 3.99,
+        "unitPrice": 19.950000000000003
+      },
+      {
+        "date": "2024-02-29",
+        "price": 3.79,
+        "unitPrice": 18.950000000000003
+      },
+      {
+        "date": "2024-02-24",
+        "price": 3.99,
+        "unitPrice": 19.950000000000003
+      },
+      {
+        "date": "2024-02-16",
+        "price": 2.99,
+        "unitPrice": 14.950000000000001
+      },
+      {
+        "date": "2024-01-19",
+        "price": 3.99,
+        "unitPrice": 19.950000000000003
+      },
+      {
+        "date": "2024-01-16",
+        "price": 2.99,
+        "unitPrice": 14.950000000000001
+      },
+      {
+        "date": "2024-01-10",
+        "price": 3.99,
+        "unitPrice": 19.950000000000003
+      },
+      {
+        "date": "2024-01-09",
+        "price": 2.99,
+        "unitPrice": 14.950000000000001
+      },
+      {
+        "date": "2024-01-06",
+        "price": 3.99,
+        "unitPrice": 19.950000000000003
+      },
+      {
+        "date": "2024-01-04",
+        "price": 2.99,
+        "unitPrice": 14.950000000000001
+      },
+      {
+        "date": "2023-12-15",
+        "price": 3.99,
+        "unitPrice": 19.950000000000003
+      },
+      {
+        "date": "2023-12-11",
+        "price": 2.99,
+        "unitPrice": 14.950000000000001
+      },
+      {
+        "date": "2023-11-19",
+        "price": 3.99,
+        "unitPrice": 19.950000000000003
+      },
+      {
+        "date": "2023-11-15",
+        "price": 2.99,
+        "unitPrice": 14.950000000000001
+      },
+      {
+        "date": "2023-10-05",
+        "price": 3.99,
+        "unitPrice": 19.950000000000003
+      },
+      {
+        "date": "2023-09-28",
+        "price": 2.99,
+        "unitPrice": 14.950000000000001
+      },
+      {
+        "date": "2023-08-27",
+        "price": 3.99,
+        "unitPrice": 19.950000000000003
+      },
+      {
+        "date": "2023-08-25",
+        "price": 2.99,
+        "unitPrice": 14.950000000000001
+      },
+      {
+        "date": "2023-08-15",
+        "price": 3.99,
+        "unitPrice": 19.950000000000003
+      },
+      {
+        "date": "2023-08-10",
+        "price": 2.99,
+        "unitPrice": 14.950000000000001
+      },
+      {
+        "date": "2023-07-19",
+        "price": 3.99,
+        "unitPrice": 19.950000000000003
+      },
+      {
+        "date": "2023-07-14",
+        "price": 2.99,
+        "unitPrice": 14.950000000000001
+      },
+      {
+        "date": "2023-06-28",
+        "price": 3.99,
+        "unitPrice": 19.950000000000003
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 200,
+    "bio": true,
+    "available": false,
+    "url": "https://shop.billa.at/produkte/ja-natuerlich-hanfmehl-00446154"
+  },
+  {
+    "store": "billa",
+    "id": "00-483019",
+    "name": "Ja! Natürlich Pasta- und Pizzamehl",
+    "category": "57",
+    "price": 1.59,
+    "priceHistory": [
+      {
+        "date": "2026-04-12",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2026-04-10",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2026-03-01",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2026-02-27",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2025-09-15",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2025-09-08",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2025-08-11",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2025-08-04",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2025-08-03",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2025-08-01",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2025-07-07",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2025-06-30",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2025-05-11",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2025-05-09",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2025-04-21",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2025-04-13",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2025-03-03",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2025-02-24",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2025-01-05",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2025-01-03",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2024-12-13",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-12-08",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2024-11-08",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-11-03",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2024-10-31",
+        "price": 1.27,
+        "unitPrice": 1.27
+      },
+      {
+        "date": "2024-10-22",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2024-10-17",
+        "price": 1.27,
+        "unitPrice": 1.27
+      },
+      {
+        "date": "2024-09-09",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2024-09-02",
+        "price": 1.27,
+        "unitPrice": 1.27
+      },
+      {
+        "date": "2024-08-12",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2024-08-05",
+        "price": 1.27,
+        "unitPrice": 1.27
+      },
+      {
+        "date": "2024-07-05",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2024-07-04",
+        "price": 1.27,
+        "unitPrice": 1.27
+      },
+      {
+        "date": "2024-06-28",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2024-06-14",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-06-07",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2024-05-23",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-04-28",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2024-04-26",
+        "price": 1.27,
+        "unitPrice": 1.27
+      },
+      {
+        "date": "2024-02-24",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2024-02-16",
+        "price": 1.27,
+        "unitPrice": 1.27
+      },
+      {
+        "date": "2024-01-06",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2024-01-04",
+        "price": 1.27,
+        "unitPrice": 1.27
+      },
+      {
+        "date": "2023-12-15",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2023-12-11",
+        "price": 1.27,
+        "unitPrice": 1.27
+      },
+      {
+        "date": "2023-11-19",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2023-11-15",
+        "price": 1.27,
+        "unitPrice": 1.27
+      },
+      {
+        "date": "2023-10-05",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2023-09-28",
+        "price": 1.27,
+        "unitPrice": 1.27
+      },
+      {
+        "date": "2023-08-27",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2023-08-25",
+        "price": 1.27,
+        "unitPrice": 1.27
+      },
+      {
+        "date": "2023-07-19",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2023-07-14",
+        "price": 1.27,
+        "unitPrice": 1.27
+      },
+      {
+        "date": "2023-06-11",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2023-06-07",
+        "price": 1.27,
+        "unitPrice": 1.27
+      },
+      {
+        "date": "2023-02-07",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2023-02-04",
+        "price": 1.27,
+        "unitPrice": 1.27
+      },
+      {
+        "date": "2023-01-08",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2023-01-05",
+        "price": 1.27,
+        "unitPrice": 1.27
+      },
+      {
+        "date": "2022-12-18",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2022-12-16",
+        "price": 1.27,
+        "unitPrice": 1.27
+      },
+      {
+        "date": "2022-11-29",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2022-11-06",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2022-11-04",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2022-09-08",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2022-09-05",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2022-07-21",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2022-07-14",
+        "price": 0.99,
+        "unitPrice": 0.99
+      },
+      {
+        "date": "2022-07-11",
+        "price": 0.74,
+        "unitPrice": 0.74
+      },
+      {
+        "date": "2022-07-07",
+        "price": 0.99,
+        "unitPrice": 0.99
+      },
+      {
+        "date": "2022-06-01",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2022-05-25",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2022-05-23",
+        "price": 1.12,
+        "unitPrice": 1.12
+      },
+      {
+        "date": "2022-01-09",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2022-01-07",
+        "price": 1.12,
+        "unitPrice": 1.12
+      },
+      {
+        "date": "2021-09-29",
+        "price": 1.49,
+        "unitPrice": 1.49
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": true,
+    "available": true,
+    "url": "https://shop.billa.at/produkte/ja-natuerlich-pasta-und-pizzamehl-00483019"
+  },
+  {
+    "store": "billa",
+    "id": "00-643082",
+    "name": "Ja! Natürlich Roggenmehl",
+    "category": "57",
+    "price": 1.59,
+    "priceHistory": [
+      {
+        "date": "2026-04-12",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2026-04-10",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2026-03-01",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2026-02-27",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2024-01-06",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-01-04",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2023-12-15",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2023-12-11",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2023-11-19",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2023-11-15",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2023-10-11",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2023-09-28",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2023-08-27",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2023-08-25",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2023-07-19",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2023-07-14",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2023-06-11",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2023-06-07",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2023-02-09",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2023-02-04",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2022-10-06",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2022-10-03",
+        "price": 1.43,
+        "unitPrice": 1.43
+      },
+      {
+        "date": "2022-09-08",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2022-09-05",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2022-07-14",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2022-07-11",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2022-06-01",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2022-05-25",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2022-05-23",
+        "price": 1.12,
+        "unitPrice": 1.12
+      },
+      {
+        "date": "2018-11-08",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2018-10-04",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2018-08-15",
+        "price": 1.49,
+        "unitPrice": 1.49
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": true,
+    "available": true,
+    "url": "https://shop.billa.at/produkte/ja-natuerlich-roggenmehl-00643082"
+  },
+  {
+    "store": "billa",
+    "id": "00-456756",
+    "name": "Ja! Natürlich Roggenvollkornmehl",
+    "category": "57",
+    "price": 1.59,
+    "priceHistory": [
+      {
+        "date": "2026-04-12",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2026-04-10",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2026-03-01",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2026-02-27",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2026-01-18",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2025-10-22",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2025-09-15",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2025-09-08",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2025-08-11",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2025-08-04",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2025-08-03",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2025-08-01",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2025-07-07",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2025-06-30",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2025-05-11",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2025-05-09",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2025-04-21",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2025-04-13",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2025-03-03",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2025-02-24",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2025-01-05",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2025-01-03",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2024-12-13",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-12-08",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2024-11-03",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-10-31",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2024-10-22",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-10-17",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2024-09-09",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-09-02",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2024-08-12",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-08-05",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2024-07-05",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-06-28",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2024-06-14",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-06-07",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2024-04-28",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-04-26",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2024-03-07",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-02-29",
+        "price": 0.99,
+        "unitPrice": 0.99
+      },
+      {
+        "date": "2024-02-24",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-02-16",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2024-01-06",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-01-04",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2023-12-15",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2023-12-11",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2023-11-19",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2023-11-15",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2023-10-05",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2023-09-28",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2023-08-27",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2023-08-25",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2023-07-19",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2023-07-14",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2023-06-11",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2023-06-07",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2023-02-07",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2023-02-02",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2023-01-08",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2023-01-05",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2022-12-18",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2022-12-16",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2022-11-10",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2022-11-04",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2022-09-08",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2022-09-05",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2022-07-14",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2022-07-11",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2022-06-01",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2022-05-25",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2022-05-23",
+        "price": 1.12,
+        "unitPrice": 1.12
+      },
+      {
+        "date": "2022-01-09",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2022-01-07",
+        "price": 1.12,
+        "unitPrice": 1.12
+      },
+      {
+        "date": "2021-12-15",
+        "price": 1.49,
+        "unitPrice": 1.49
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": true,
+    "available": true,
+    "url": "https://shop.billa.at/produkte/ja-natuerlich-roggenvollkornmehl-00456756"
+  },
+  {
+    "store": "billa",
+    "id": "00-643067",
+    "name": "Ja! Natürlich Weizenmehl Glatt",
+    "category": "57",
+    "price": 1.29,
+    "priceHistory": [
+      {
+        "date": "2026-04-12",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2026-04-10",
+        "price": 0.97,
+        "unitPrice": 0.97
+      },
+      {
+        "date": "2026-03-26",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2026-03-01",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2026-02-27",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2026-01-18",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2025-10-22",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2025-09-15",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2025-09-08",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2025-08-11",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2025-08-04",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2025-08-03",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2025-08-01",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2025-07-07",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2025-06-30",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2025-05-11",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2025-05-09",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2025-04-21",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2025-04-20",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2025-04-13",
+        "price": 0.97,
+        "unitPrice": 0.97
+      },
+      {
+        "date": "2025-03-27",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2025-03-03",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2025-02-24",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2025-01-05",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2025-01-03",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2024-12-13",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-12-08",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2024-11-21",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-11-09",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2024-11-03",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-10-31",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2024-10-24",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-10-22",
+        "price": 1.39,
+        "unitPrice": 1.39
+      },
+      {
+        "date": "2024-10-17",
+        "price": 1.04,
+        "unitPrice": 1.04
+      },
+      {
+        "date": "2024-10-10",
+        "price": 1.39,
+        "unitPrice": 1.39
+      },
+      {
+        "date": "2024-09-09",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-09-02",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2024-08-12",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-08-05",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2024-07-05",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-06-28",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2024-06-14",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-06-07",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2024-04-28",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-04-26",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2024-03-07",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-02-29",
+        "price": 0.99,
+        "unitPrice": 0.99
+      },
+      {
+        "date": "2024-02-24",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-02-16",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2024-01-06",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-01-04",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2023-12-15",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2023-12-11",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2023-11-19",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2023-11-15",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2023-10-05",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2023-09-28",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2023-08-27",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2023-08-25",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2023-07-19",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2023-07-14",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2023-07-13",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2023-07-06",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2023-06-12",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2023-06-11",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2023-06-07",
+        "price": 1.27,
+        "unitPrice": 1.27
+      },
+      {
+        "date": "2023-02-09",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2023-02-02",
+        "price": 1.27,
+        "unitPrice": 1.27
+      },
+      {
+        "date": "2023-01-08",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2023-01-05",
+        "price": 1.27,
+        "unitPrice": 1.27
+      },
+      {
+        "date": "2022-12-30",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2022-12-20",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2022-12-18",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2022-12-16",
+        "price": 1.12,
+        "unitPrice": 1.12
+      },
+      {
+        "date": "2022-11-22",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2022-11-04",
+        "price": 0.89,
+        "unitPrice": 0.89
+      },
+      {
+        "date": "2022-10-27",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2022-10-06",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2022-10-03",
+        "price": 1.34,
+        "unitPrice": 1.34
+      },
+      {
+        "date": "2022-09-19",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2022-09-08",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2022-09-05",
+        "price": 0.97,
+        "unitPrice": 0.97
+      },
+      {
+        "date": "2022-07-14",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2022-07-11",
+        "price": 0.97,
+        "unitPrice": 0.97
+      },
+      {
+        "date": "2022-05-25",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2022-05-24",
+        "price": 0.97,
+        "unitPrice": 0.97
+      },
+      {
+        "date": "2022-05-23",
+        "price": 0.89,
+        "unitPrice": 0.89
+      },
+      {
+        "date": "2022-01-09",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2022-01-07",
+        "price": 0.89,
+        "unitPrice": 0.89
+      },
+      {
+        "date": "2021-11-25",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2021-07-15",
+        "price": 0.99,
+        "unitPrice": 0.99
+      },
+      {
+        "date": "2021-04-10",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2021-03-18",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2021-03-04",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2020-12-03",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2020-11-05",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2020-10-08",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2020-09-24",
+        "price": 0.99,
+        "unitPrice": 0.99
+      },
+      {
+        "date": "2020-09-16",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2020-08-27",
+        "price": 0.99,
+        "unitPrice": 0.99
+      },
+      {
+        "date": "2017-04-05",
+        "price": 1.49,
+        "unitPrice": 1.49
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": true,
+    "available": true,
+    "url": "https://shop.billa.at/produkte/ja-natuerlich-weizenmehl-glatt-00643067"
+  },
+  {
+    "store": "billa",
+    "id": "00-643074",
+    "name": "Ja! Natürlich Weizenmehl Universal",
+    "category": "57",
+    "price": 1.29,
+    "priceHistory": [
+      {
+        "date": "2026-04-12",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2026-04-10",
+        "price": 0.97,
+        "unitPrice": 0.97
+      },
+      {
+        "date": "2026-03-26",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2026-03-01",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2026-02-27",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2026-01-18",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2025-10-22",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2025-09-15",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2025-09-08",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2025-08-11",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2025-08-04",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2025-08-03",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2025-08-01",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2025-07-07",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2025-06-30",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2025-05-11",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2025-05-09",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2025-04-21",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2025-04-20",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2025-04-13",
+        "price": 0.97,
+        "unitPrice": 0.97
+      },
+      {
+        "date": "2025-03-27",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2025-03-03",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2025-02-24",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2025-01-05",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2025-01-03",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2024-12-13",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-12-08",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2024-11-21",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-11-09",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2024-11-03",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-10-31",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2024-10-24",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-10-22",
+        "price": 1.39,
+        "unitPrice": 1.39
+      },
+      {
+        "date": "2024-10-17",
+        "price": 1.04,
+        "unitPrice": 1.04
+      },
+      {
+        "date": "2024-10-10",
+        "price": 1.39,
+        "unitPrice": 1.39
+      },
+      {
+        "date": "2024-09-26",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-09-12",
+        "price": 1.39,
+        "unitPrice": 1.39
+      },
+      {
+        "date": "2024-09-09",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-09-02",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2024-08-12",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-08-05",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2024-07-05",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-06-28",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2024-06-14",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-06-07",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2024-04-28",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-04-26",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2024-03-07",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-02-29",
+        "price": 0.99,
+        "unitPrice": 0.99
+      },
+      {
+        "date": "2024-02-24",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-02-16",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2024-01-06",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-01-04",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2023-12-15",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2023-12-11",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2023-11-19",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2023-11-15",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2023-10-05",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2023-09-28",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2023-08-27",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2023-08-25",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2023-07-19",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2023-07-14",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2023-07-13",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2023-07-06",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2023-06-12",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2023-06-11",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2023-06-07",
+        "price": 1.27,
+        "unitPrice": 1.27
+      },
+      {
+        "date": "2023-02-09",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2023-02-02",
+        "price": 1.27,
+        "unitPrice": 1.27
+      },
+      {
+        "date": "2023-01-08",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2023-01-05",
+        "price": 1.27,
+        "unitPrice": 1.27
+      },
+      {
+        "date": "2022-12-30",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2022-12-20",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2022-12-18",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2022-12-16",
+        "price": 1.12,
+        "unitPrice": 1.12
+      },
+      {
+        "date": "2022-11-22",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2022-11-06",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2022-11-04",
+        "price": 0.89,
+        "unitPrice": 0.89
+      },
+      {
+        "date": "2022-10-27",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2022-09-19",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2022-09-08",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2022-09-05",
+        "price": 0.97,
+        "unitPrice": 0.97
+      },
+      {
+        "date": "2022-07-14",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2022-07-11",
+        "price": 0.97,
+        "unitPrice": 0.97
+      },
+      {
+        "date": "2022-05-25",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2022-05-24",
+        "price": 0.97,
+        "unitPrice": 0.97
+      },
+      {
+        "date": "2022-05-23",
+        "price": 0.89,
+        "unitPrice": 0.89
+      },
+      {
+        "date": "2022-01-09",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2022-01-07",
+        "price": 0.89,
+        "unitPrice": 0.89
+      },
+      {
+        "date": "2021-11-25",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2021-07-15",
+        "price": 0.99,
+        "unitPrice": 0.99
+      },
+      {
+        "date": "2021-04-07",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2021-03-18",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2021-03-04",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2020-12-03",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2020-11-05",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2020-10-08",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2020-09-24",
+        "price": 0.99,
+        "unitPrice": 0.99
+      },
+      {
+        "date": "2020-09-03",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2020-08-27",
+        "price": 0.99,
+        "unitPrice": 0.99
+      },
+      {
+        "date": "2017-04-05",
+        "price": 1.49,
+        "unitPrice": 1.49
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": true,
+    "available": true,
+    "url": "https://shop.billa.at/produkte/ja-natuerlich-weizenmehl-universal-00643074"
+  },
+  {
+    "store": "billa",
+    "id": "00-643069",
+    "name": "Ja! Natürlich Weizenvollkornmehl",
+    "category": "57",
+    "price": 1.29,
+    "priceHistory": [
+      {
+        "date": "2026-04-12",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2026-04-10",
+        "price": 0.97,
+        "unitPrice": 0.97
+      },
+      {
+        "date": "2026-03-26",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2026-03-01",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2026-02-27",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2026-01-18",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2025-10-22",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2025-09-15",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2025-09-08",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2025-08-11",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2025-08-04",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2025-08-03",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2025-08-01",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2025-07-07",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2025-06-30",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2025-05-11",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2025-05-09",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2025-04-21",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2025-04-20",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2025-04-13",
+        "price": 0.97,
+        "unitPrice": 0.97
+      },
+      {
+        "date": "2025-03-27",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2025-03-03",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2025-02-24",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2025-01-05",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2025-01-03",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2024-12-13",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-12-08",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2024-11-21",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-11-09",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2024-11-03",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-10-31",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2024-10-24",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-10-22",
+        "price": 1.39,
+        "unitPrice": 1.39
+      },
+      {
+        "date": "2024-10-17",
+        "price": 1.04,
+        "unitPrice": 1.04
+      },
+      {
+        "date": "2024-10-10",
+        "price": 1.39,
+        "unitPrice": 1.39
+      },
+      {
+        "date": "2024-09-09",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-09-02",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2024-08-12",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-08-05",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2024-07-05",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-06-28",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2024-06-14",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-06-07",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2024-04-28",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-04-26",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2024-03-07",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-02-29",
+        "price": 0.99,
+        "unitPrice": 0.99
+      },
+      {
+        "date": "2024-02-24",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-02-16",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2024-01-06",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-01-04",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2023-12-15",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2023-12-11",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2023-11-19",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2023-11-15",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2023-10-11",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2023-09-28",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2023-08-27",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2023-08-25",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2023-07-19",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2023-07-14",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2023-07-13",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2023-07-06",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2023-06-12",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2023-06-11",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2023-06-07",
+        "price": 1.27,
+        "unitPrice": 1.27
+      },
+      {
+        "date": "2023-02-09",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2023-02-02",
+        "price": 1.27,
+        "unitPrice": 1.27
+      },
+      {
+        "date": "2023-01-08",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2023-01-05",
+        "price": 1.27,
+        "unitPrice": 1.27
+      },
+      {
+        "date": "2022-12-30",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2022-12-20",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2022-12-18",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2022-12-16",
+        "price": 1.12,
+        "unitPrice": 1.12
+      },
+      {
+        "date": "2022-11-11",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2022-11-06",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2022-11-04",
+        "price": 0.89,
+        "unitPrice": 0.89
+      },
+      {
+        "date": "2022-10-27",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2022-10-06",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2022-10-03",
+        "price": 1.34,
+        "unitPrice": 1.34
+      },
+      {
+        "date": "2022-09-19",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2022-09-08",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2022-09-05",
+        "price": 0.97,
+        "unitPrice": 0.97
+      },
+      {
+        "date": "2022-07-21",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2022-07-14",
+        "price": 0.99,
+        "unitPrice": 0.99
+      },
+      {
+        "date": "2022-07-11",
+        "price": 0.74,
+        "unitPrice": 0.74
+      },
+      {
+        "date": "2022-07-07",
+        "price": 0.99,
+        "unitPrice": 0.99
+      },
+      {
+        "date": "2022-05-25",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2022-05-24",
+        "price": 0.97,
+        "unitPrice": 0.97
+      },
+      {
+        "date": "2022-05-23",
+        "price": 0.89,
+        "unitPrice": 0.89
+      },
+      {
+        "date": "2022-01-09",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2022-01-07",
+        "price": 0.89,
+        "unitPrice": 0.89
+      },
+      {
+        "date": "2021-11-25",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2021-07-15",
+        "price": 0.99,
+        "unitPrice": 0.99
+      },
+      {
+        "date": "2021-04-07",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2021-03-06",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2020-12-03",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2020-11-05",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2020-10-08",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2020-09-24",
+        "price": 0.99,
+        "unitPrice": 0.99
+      },
+      {
+        "date": "2020-09-03",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2020-08-27",
+        "price": 0.99,
+        "unitPrice": 0.99
+      },
+      {
+        "date": "2017-04-05",
+        "price": 1.49,
+        "unitPrice": 1.49
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": true,
+    "available": true,
+    "url": "https://shop.billa.at/produkte/ja-natuerlich-weizenvollkornmehl-00643069"
+  },
+  {
+    "store": "spar",
+    "id": "6483661",
+    "name": "S-BUDGET Weizenmehl Glatt, Type W 700",
+    "category": "59",
+    "price": 0.75,
+    "priceHistory": [
+      {
+        "date": "2023-10-05",
+        "price": 0.75,
+        "unitPrice": 0.75
+      },
+      {
+        "date": "2023-01-20",
+        "price": 0.85,
+        "unitPrice": 0.85
+      },
+      {
+        "date": "2023-01-02",
+        "price": 0.69,
+        "unitPrice": 0.69
+      },
+      {
+        "date": "2022-09-30",
+        "price": 0.85,
+        "unitPrice": 0.85
+      },
+      {
+        "date": "2022-03-30",
+        "price": 0.69,
+        "unitPrice": 0.69
+      },
+      {
+        "date": "2022-01-19",
+        "price": 0.59,
+        "unitPrice": 0.59
+      },
+      {
+        "date": "2021-10-06",
+        "price": 0.49,
+        "unitPrice": 0.49
+      },
+      {
+        "date": "2021-03-03",
+        "price": 0.39,
+        "unitPrice": 0.39
+      },
+      {
+        "date": "2017-06-15",
+        "price": 0.45,
+        "unitPrice": 0.45
+      },
+      {
+        "date": "2017-04-20",
+        "price": 0.49,
+        "unitPrice": 0.49
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": false,
+    "available": true,
+    "url": "https://www.interspar.at/shop/lebensmittel/p/6483661"
+  },
+  {
+    "store": "spar",
+    "id": "6878887",
+    "name": "S-BUDGET Weizenmehl Universal, Type W 700",
+    "category": "59",
+    "price": 0.75,
+    "priceHistory": [
+      {
+        "date": "2023-10-05",
+        "price": 0.75,
+        "unitPrice": 0.75
+      },
+      {
+        "date": "2023-01-20",
+        "price": 0.85,
+        "unitPrice": 0.85
+      },
+      {
+        "date": "2023-01-02",
+        "price": 0.69,
+        "unitPrice": 0.69
+      },
+      {
+        "date": "2022-09-30",
+        "price": 0.85,
+        "unitPrice": 0.85
+      },
+      {
+        "date": "2022-03-30",
+        "price": 0.69,
+        "unitPrice": 0.69
+      },
+      {
+        "date": "2022-01-19",
+        "price": 0.59,
+        "unitPrice": 0.59
+      },
+      {
+        "date": "2021-10-06",
+        "price": 0.49,
+        "unitPrice": 0.49
+      },
+      {
+        "date": "2021-03-03",
+        "price": 0.39,
+        "unitPrice": 0.39
+      },
+      {
+        "date": "2017-06-15",
+        "price": 0.45,
+        "unitPrice": 0.45
+      },
+      {
+        "date": "2017-04-20",
+        "price": 0.49,
+        "unitPrice": 0.49
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": false,
+    "available": true,
+    "url": "https://www.interspar.at/shop/lebensmittel/p/6878887"
+  },
+  {
+    "store": "spar",
+    "id": "2020005609730",
+    "name": "S-BUDGET Weizenmehl glatt, Type W 700",
+    "category": "59",
+    "price": 2.95,
+    "priceHistory": [
+      {
+        "date": "2025-05-14",
+        "price": 2.95,
+        "unitPrice": 0.5900000000000001
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 5000,
+    "bio": false,
+    "available": true,
+    "url": "https://www.interspar.at/shop/lebensmittel/p/2020005609730"
+  },
+  {
+    "store": "spar",
+    "id": "6483708",
+    "name": "S-BUDGET Weizenmehl griffig, Type W 700",
+    "category": "59",
+    "price": 0.75,
+    "priceHistory": [
+      {
+        "date": "2023-10-05",
+        "price": 0.75,
+        "unitPrice": 0.75
+      },
+      {
+        "date": "2023-01-20",
+        "price": 0.85,
+        "unitPrice": 0.85
+      },
+      {
+        "date": "2023-01-02",
+        "price": 0.69,
+        "unitPrice": 0.69
+      },
+      {
+        "date": "2022-09-30",
+        "price": 0.85,
+        "unitPrice": 0.85
+      },
+      {
+        "date": "2022-03-30",
+        "price": 0.69,
+        "unitPrice": 0.69
+      },
+      {
+        "date": "2022-01-19",
+        "price": 0.59,
+        "unitPrice": 0.59
+      },
+      {
+        "date": "2021-10-06",
+        "price": 0.49,
+        "unitPrice": 0.49
+      },
+      {
+        "date": "2021-03-03",
+        "price": 0.39,
+        "unitPrice": 0.39
+      },
+      {
+        "date": "2017-06-14",
+        "price": 0.45,
+        "unitPrice": 0.45
+      },
+      {
+        "date": "2017-04-20",
+        "price": 0.49,
+        "unitPrice": 0.49
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": false,
+    "available": true,
+    "url": "https://www.interspar.at/shop/lebensmittel/p/6483708"
+  },
+  {
+    "store": "unimarkt",
+    "id": "4242",
+    "name": "Jeden Tag Weizenmehl glatt T 480",
+    "category": "5B",
+    "price": 0.99,
+    "priceHistory": [
+      {
+        "date": "2023-07-10",
+        "price": 0.99,
+        "unitPrice": 0.99
+      },
+      {
+        "date": "2023-06-22",
+        "price": 1.09,
+        "unitPrice": 1.09
+      },
+      {
+        "date": "2023-05-29",
+        "price": 0.99,
+        "unitPrice": 0.99
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": false,
+    "available": false,
+    "url": "https://shop.unimarkt.at//Jeden-Tag-Weizenmehl-glatt-4242"
+  },
+  {
+    "store": "unimarkt",
+    "id": "13241",
+    "name": "Jeden Tag Weizenmehl universal T480",
+    "category": "5B",
+    "price": 0.99,
+    "priceHistory": [
+      {
+        "date": "2023-07-10",
+        "price": 0.99,
+        "unitPrice": 0.99
+      },
+      {
+        "date": "2023-06-22",
+        "price": 1.09,
+        "unitPrice": 1.09
+      },
+      {
+        "date": "2023-05-29",
+        "price": 0.99,
+        "unitPrice": 0.99
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": false,
+    "available": false,
+    "url": "https://shop.unimarkt.at//Jeden-Tag-Weizenmehl-universal-13241"
+  },
+  {
+    "store": "unimarkt",
+    "id": "94867",
+    "name": "UNIpur Dinkelmehl",
+    "category": "5B",
+    "price": 1.89,
+    "priceHistory": [
+      {
+        "date": "2023-10-10",
+        "price": 1.89,
+        "unitPrice": 1.89
+      },
+      {
+        "date": "2023-07-17",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2023-06-22",
+        "price": 1.89,
+        "unitPrice": 1.89
+      },
+      {
+        "date": "2023-05-29",
+        "price": 1.69,
+        "unitPrice": 1.69
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": false,
+    "available": false,
+    "url": "https://shop.unimarkt.at//UNIpur-Dinkelmehl-94867"
+  },
+  {
+    "store": "unimarkt",
+    "id": "94866",
+    "name": "UNIpur Roggenmehl",
+    "category": "59",
+    "price": 1.29,
+    "priceHistory": [
+      {
+        "date": "2023-06-22",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2023-05-29",
+        "price": 1.19,
+        "unitPrice": 1.19
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": false,
+    "available": false,
+    "url": "https://shop.unimarkt.at//UNIpur-Roggenmehl-94866"
+  },
+  {
+    "store": "unimarkt",
+    "id": "94864",
+    "name": "UNIpur Weizenmehl glatt",
+    "category": "59",
+    "price": 1.29,
+    "priceHistory": [
+      {
+        "date": "2023-06-22",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2023-05-29",
+        "price": 1.19,
+        "unitPrice": 1.19
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": false,
+    "available": false,
+    "url": "https://shop.unimarkt.at//UNIpur-Weizenmehl-glatt-94864"
+  },
+  {
+    "store": "unimarkt",
+    "id": "94865",
+    "name": "UNIpur Weizenmehl universal",
+    "category": "59",
+    "price": 1.29,
+    "priceHistory": [
+      {
+        "date": "2023-06-22",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2023-05-29",
+        "price": 1.19,
+        "unitPrice": 1.19
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": false,
+    "available": false,
+    "url": "https://shop.unimarkt.at//UNIpur-Weizenmehl-universal-94865"
+  }
+]

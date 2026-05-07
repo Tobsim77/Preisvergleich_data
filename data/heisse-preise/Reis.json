@@ -1,0 +1,3747 @@
+[
+  {
+    "store": "billa",
+    "id": "00-297121",
+    "name": "Clever Basmatireis",
+    "category": "54",
+    "price": 2.99,
+    "priceHistory": [
+      {
+        "date": "2026-04-12",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2026-04-10",
+        "price": 2.84,
+        "unitPrice": 2.84
+      },
+      {
+        "date": "2026-03-15",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2026-03-13",
+        "price": 2.84,
+        "unitPrice": 2.84
+      },
+      {
+        "date": "2025-11-05",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2025-03-13",
+        "price": 2.89,
+        "unitPrice": 2.89
+      },
+      {
+        "date": "2024-10-29",
+        "price": 2.79,
+        "unitPrice": 2.79
+      },
+      {
+        "date": "2024-01-23",
+        "price": 2.69,
+        "unitPrice": 2.69
+      },
+      {
+        "date": "2024-01-11",
+        "price": 2.89,
+        "unitPrice": 2.89
+      },
+      {
+        "date": "2024-01-09",
+        "price": 2.17,
+        "unitPrice": 2.17
+      },
+      {
+        "date": "2023-12-19",
+        "price": 2.89,
+        "unitPrice": 2.89
+      },
+      {
+        "date": "2023-09-14",
+        "price": 2.69,
+        "unitPrice": 2.69
+      },
+      {
+        "date": "2023-06-29",
+        "price": 2.89,
+        "unitPrice": 2.89
+      },
+      {
+        "date": "2023-05-15",
+        "price": 2.69,
+        "unitPrice": 2.69
+      },
+      {
+        "date": "2022-12-15",
+        "price": 2.29,
+        "unitPrice": 2.29
+      },
+      {
+        "date": "2020-05-28",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2020-01-17",
+        "price": 2.19,
+        "unitPrice": 2.19
+      },
+      {
+        "date": "2019-11-30",
+        "price": 2.39,
+        "unitPrice": 2.39
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": false,
+    "available": true,
+    "url": "https://shop.billa.at/produkte/clever-basmatireis-00297121"
+  },
+  {
+    "store": "billa",
+    "id": "00-721916",
+    "name": "Clever Jasmin Reis",
+    "category": "54",
+    "price": 1.99,
+    "priceHistory": [
+      {
+        "date": "2026-04-12",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2026-04-10",
+        "price": 1.89,
+        "unitPrice": 1.89
+      },
+      {
+        "date": "2026-03-15",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2026-03-13",
+        "price": 1.89,
+        "unitPrice": 1.89
+      },
+      {
+        "date": "2025-01-14",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2024-10-29",
+        "price": 2.19,
+        "unitPrice": 2.19
+      },
+      {
+        "date": "2024-01-18",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2024-01-16",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2024-01-11",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2024-01-10",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2023-11-29",
+        "price": 1.99,
+        "unitPrice": 1.99
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": false,
+    "available": true,
+    "url": "https://shop.billa.at/produkte/clever-jasmin-reis-00721916"
+  },
+  {
+    "store": "billa",
+    "id": "00-309662",
+    "name": "Clever Langkornreis",
+    "category": "54",
+    "price": 1.29,
+    "priceHistory": [
+      {
+        "date": "2026-04-12",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2026-04-10",
+        "price": 1.23,
+        "unitPrice": 1.23
+      },
+      {
+        "date": "2026-03-21",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2026-03-15",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2026-03-13",
+        "price": 1.13,
+        "unitPrice": 1.13
+      },
+      {
+        "date": "2025-11-07",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2025-03-13",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2024-09-17",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2024-06-20",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2024-01-11",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2024-01-09",
+        "price": 0.89,
+        "unitPrice": 0.89
+      },
+      {
+        "date": "2023-11-03",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2023-10-05",
+        "price": 1.05,
+        "unitPrice": 1.05
+      },
+      {
+        "date": "2023-05-13",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2023-03-10",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2022-11-10",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2022-08-11",
+        "price": 1.09,
+        "unitPrice": 1.09
+      },
+      {
+        "date": "2022-07-28",
+        "price": 0.89,
+        "unitPrice": 0.89
+      },
+      {
+        "date": "2022-05-28",
+        "price": 0.99,
+        "unitPrice": 0.99
+      },
+      {
+        "date": "2022-04-21",
+        "price": 0.85,
+        "unitPrice": 0.85
+      },
+      {
+        "date": "2019-12-11",
+        "price": 0.79,
+        "unitPrice": 0.79
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": false,
+    "available": true,
+    "url": "https://shop.billa.at/produkte/clever-langkornreis-00309662"
+  },
+  {
+    "store": "billa",
+    "id": "00-596624",
+    "name": "Clever Parboild Langkornrreis",
+    "category": "54",
+    "price": 1.69,
+    "priceHistory": [
+      {
+        "date": "2026-04-12",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2026-04-10",
+        "price": 1.61,
+        "unitPrice": 1.61
+      },
+      {
+        "date": "2026-03-15",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2026-03-13",
+        "price": 1.61,
+        "unitPrice": 1.61
+      },
+      {
+        "date": "2025-11-13",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2025-09-11",
+        "price": 1.79,
+        "unitPrice": 1.79
+      },
+      {
+        "date": "2025-04-16",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2025-01-22",
+        "price": 1.59,
+        "unitPrice": 1.59
+      },
+      {
+        "date": "2024-11-12",
+        "price": 1.39,
+        "unitPrice": 1.39
+      },
+      {
+        "date": "2024-11-06",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2024-10-31",
+        "price": 1.39,
+        "unitPrice": 1.39
+      },
+      {
+        "date": "2024-10-23",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2024-10-08",
+        "price": 1.39,
+        "unitPrice": 1.39
+      },
+      {
+        "date": "2024-07-25",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2024-01-11",
+        "price": 1.39,
+        "unitPrice": 1.39
+      },
+      {
+        "date": "2024-01-10",
+        "price": 1.04,
+        "unitPrice": 1.04
+      },
+      {
+        "date": "2023-12-06",
+        "price": 1.39,
+        "unitPrice": 1.39
+      },
+      {
+        "date": "2023-08-26",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2023-05-25",
+        "price": 1.39,
+        "unitPrice": 1.39
+      },
+      {
+        "date": "2023-05-15",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2022-10-13",
+        "price": 1.39,
+        "unitPrice": 1.39
+      },
+      {
+        "date": "2022-08-11",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2022-07-28",
+        "price": 1.09,
+        "unitPrice": 1.09
+      },
+      {
+        "date": "2022-06-30",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2022-04-28",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2022-02-03",
+        "price": 1.09,
+        "unitPrice": 1.09
+      },
+      {
+        "date": "2019-03-07",
+        "price": 0.95,
+        "unitPrice": 0.95
+      },
+      {
+        "date": "2017-09-28",
+        "price": 0.89,
+        "unitPrice": 0.89
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": false,
+    "available": true,
+    "url": "https://shop.billa.at/produkte/clever-parboild-langkornrreis-00596624"
+  },
+  {
+    "store": "billa",
+    "id": "00-531068",
+    "name": "Clever Wildpreiselbeeren",
+    "category": "53",
+    "price": 1.99,
+    "priceHistory": [
+      {
+        "date": "2026-04-12",
+        "price": 1.99,
+        "unitPrice": 4.9750000000000005
+      },
+      {
+        "date": "2026-04-10",
+        "price": 1.89,
+        "unitPrice": 4.725
+      },
+      {
+        "date": "2026-03-15",
+        "price": 1.99,
+        "unitPrice": 4.9750000000000005
+      },
+      {
+        "date": "2026-03-13",
+        "price": 1.89,
+        "unitPrice": 4.725
+      },
+      {
+        "date": "2026-03-10",
+        "price": 1.99,
+        "unitPrice": 4.9750000000000005
+      },
+      {
+        "date": "2025-10-22",
+        "price": 1.79,
+        "unitPrice": 4.475
+      },
+      {
+        "date": "2025-09-19",
+        "price": 1.77,
+        "unitPrice": 4.425
+      },
+      {
+        "date": "2025-07-23",
+        "price": 1.79,
+        "unitPrice": 4.475
+      },
+      {
+        "date": "2025-05-06",
+        "price": 1.99,
+        "unitPrice": 4.9750000000000005
+      },
+      {
+        "date": "2025-01-31",
+        "price": 1.79,
+        "unitPrice": 4.475
+      },
+      {
+        "date": "2024-09-15",
+        "price": 1.57,
+        "unitPrice": 3.9250000000000007
+      },
+      {
+        "date": "2024-08-12",
+        "price": 1.59,
+        "unitPrice": 3.975
+      },
+      {
+        "date": "2024-01-08",
+        "price": 1.65,
+        "unitPrice": 4.125
+      },
+      {
+        "date": "2023-05-06",
+        "price": 1.99,
+        "unitPrice": 4.9750000000000005
+      },
+      {
+        "date": "2022-11-09",
+        "price": 1.69,
+        "unitPrice": 4.225
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 400,
+    "bio": false,
+    "available": true,
+    "url": "https://shop.billa.at/produkte/clever-wildpreiselbeeren-00531068"
+  },
+  {
+    "store": "billa",
+    "id": "00-304193",
+    "name": "Ja! Natürlich Arborio Risottoreis",
+    "category": "54",
+    "price": 2.99,
+    "priceHistory": [
+      {
+        "date": "2026-04-12",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2026-04-10",
+        "price": 2.24,
+        "unitPrice": 4.48
+      },
+      {
+        "date": "2026-03-01",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2026-02-27",
+        "price": 2.24,
+        "unitPrice": 4.48
+      },
+      {
+        "date": "2026-01-25",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2026-01-23",
+        "price": 2.24,
+        "unitPrice": 4.48
+      },
+      {
+        "date": "2025-09-15",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2025-09-08",
+        "price": 2.24,
+        "unitPrice": 4.48
+      },
+      {
+        "date": "2025-08-11",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2025-08-04",
+        "price": 2.24,
+        "unitPrice": 4.48
+      },
+      {
+        "date": "2025-08-03",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2025-08-01",
+        "price": 2.24,
+        "unitPrice": 4.48
+      },
+      {
+        "date": "2025-07-07",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2025-06-30",
+        "price": 2.24,
+        "unitPrice": 4.48
+      },
+      {
+        "date": "2025-05-11",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2025-05-09",
+        "price": 2.24,
+        "unitPrice": 4.48
+      },
+      {
+        "date": "2025-04-21",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2025-04-13",
+        "price": 2.24,
+        "unitPrice": 4.48
+      },
+      {
+        "date": "2025-03-03",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2025-02-24",
+        "price": 2.24,
+        "unitPrice": 4.48
+      },
+      {
+        "date": "2025-01-26",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2025-01-24",
+        "price": 2.24,
+        "unitPrice": 4.48
+      },
+      {
+        "date": "2025-01-05",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2025-01-03",
+        "price": 2.24,
+        "unitPrice": 4.48
+      },
+      {
+        "date": "2024-12-13",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2024-12-08",
+        "price": 2.24,
+        "unitPrice": 4.48
+      },
+      {
+        "date": "2024-11-03",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2024-10-31",
+        "price": 2.24,
+        "unitPrice": 4.48
+      },
+      {
+        "date": "2024-10-22",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2024-10-17",
+        "price": 2.24,
+        "unitPrice": 4.48
+      },
+      {
+        "date": "2024-09-09",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2024-09-02",
+        "price": 2.24,
+        "unitPrice": 4.48
+      },
+      {
+        "date": "2024-08-12",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2024-08-05",
+        "price": 2.24,
+        "unitPrice": 4.48
+      },
+      {
+        "date": "2024-07-05",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2024-06-28",
+        "price": 2.24,
+        "unitPrice": 4.48
+      },
+      {
+        "date": "2024-06-14",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2024-06-07",
+        "price": 2.24,
+        "unitPrice": 4.48
+      },
+      {
+        "date": "2024-05-27",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2024-04-28",
+        "price": 3.29,
+        "unitPrice": 6.58
+      },
+      {
+        "date": "2024-04-26",
+        "price": 2.47,
+        "unitPrice": 4.94
+      },
+      {
+        "date": "2024-02-24",
+        "price": 3.29,
+        "unitPrice": 6.58
+      },
+      {
+        "date": "2024-02-16",
+        "price": 2.47,
+        "unitPrice": 4.94
+      },
+      {
+        "date": "2024-01-28",
+        "price": 3.29,
+        "unitPrice": 6.58
+      },
+      {
+        "date": "2024-01-26",
+        "price": 2.47,
+        "unitPrice": 4.94
+      },
+      {
+        "date": "2024-01-06",
+        "price": 3.29,
+        "unitPrice": 6.58
+      },
+      {
+        "date": "2024-01-04",
+        "price": 2.47,
+        "unitPrice": 4.94
+      },
+      {
+        "date": "2023-12-15",
+        "price": 3.29,
+        "unitPrice": 6.58
+      },
+      {
+        "date": "2023-12-11",
+        "price": 2.47,
+        "unitPrice": 4.94
+      },
+      {
+        "date": "2023-11-30",
+        "price": 3.29,
+        "unitPrice": 6.58
+      },
+      {
+        "date": "2023-11-19",
+        "price": 3.19,
+        "unitPrice": 6.38
+      },
+      {
+        "date": "2023-11-15",
+        "price": 2.39,
+        "unitPrice": 4.78
+      },
+      {
+        "date": "2023-10-05",
+        "price": 3.19,
+        "unitPrice": 6.38
+      },
+      {
+        "date": "2023-09-28",
+        "price": 2.39,
+        "unitPrice": 4.78
+      },
+      {
+        "date": "2023-08-27",
+        "price": 3.19,
+        "unitPrice": 6.38
+      },
+      {
+        "date": "2023-08-25",
+        "price": 2.39,
+        "unitPrice": 4.78
+      },
+      {
+        "date": "2023-07-20",
+        "price": 3.19,
+        "unitPrice": 6.38
+      },
+      {
+        "date": "2023-07-19",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2023-07-14",
+        "price": 2.24,
+        "unitPrice": 4.48
+      },
+      {
+        "date": "2023-06-11",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2023-06-07",
+        "price": 2.24,
+        "unitPrice": 4.48
+      },
+      {
+        "date": "2023-03-30",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2023-02-07",
+        "price": 2.69,
+        "unitPrice": 5.38
+      },
+      {
+        "date": "2023-02-02",
+        "price": 2.02,
+        "unitPrice": 4.04
+      },
+      {
+        "date": "2023-01-08",
+        "price": 2.69,
+        "unitPrice": 5.38
+      },
+      {
+        "date": "2023-01-05",
+        "price": 2.02,
+        "unitPrice": 4.04
+      },
+      {
+        "date": "2022-12-18",
+        "price": 2.69,
+        "unitPrice": 5.38
+      },
+      {
+        "date": "2022-12-16",
+        "price": 2.02,
+        "unitPrice": 4.04
+      },
+      {
+        "date": "2022-11-06",
+        "price": 2.69,
+        "unitPrice": 5.38
+      },
+      {
+        "date": "2022-11-04",
+        "price": 2.02,
+        "unitPrice": 4.04
+      },
+      {
+        "date": "2022-09-08",
+        "price": 2.69,
+        "unitPrice": 5.38
+      },
+      {
+        "date": "2022-09-05",
+        "price": 2.02,
+        "unitPrice": 4.04
+      },
+      {
+        "date": "2022-07-14",
+        "price": 2.69,
+        "unitPrice": 5.38
+      },
+      {
+        "date": "2022-07-11",
+        "price": 2.02,
+        "unitPrice": 4.04
+      },
+      {
+        "date": "2022-06-14",
+        "price": 2.69,
+        "unitPrice": 5.38
+      },
+      {
+        "date": "2022-01-09",
+        "price": 2.49,
+        "unitPrice": 4.98
+      },
+      {
+        "date": "2022-01-07",
+        "price": 1.87,
+        "unitPrice": 3.74
+      },
+      {
+        "date": "2019-10-09",
+        "price": 2.49,
+        "unitPrice": 4.98
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 500,
+    "bio": true,
+    "available": true,
+    "url": "https://shop.billa.at/produkte/ja-natuerlich-arborio-risottoreis-00304193"
+  },
+  {
+    "store": "billa",
+    "id": "00-304218",
+    "name": "Ja! Natürlich Carnaroli Risottoreis",
+    "category": "54",
+    "price": 2.99,
+    "priceHistory": [
+      {
+        "date": "2026-04-12",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2026-04-10",
+        "price": 2.24,
+        "unitPrice": 4.48
+      },
+      {
+        "date": "2026-03-01",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2026-02-27",
+        "price": 2.24,
+        "unitPrice": 4.48
+      },
+      {
+        "date": "2026-02-17",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2024-01-06",
+        "price": 3.29,
+        "unitPrice": 6.58
+      },
+      {
+        "date": "2024-01-04",
+        "price": 2.47,
+        "unitPrice": 4.94
+      },
+      {
+        "date": "2023-12-15",
+        "price": 3.29,
+        "unitPrice": 6.58
+      },
+      {
+        "date": "2023-12-11",
+        "price": 2.47,
+        "unitPrice": 4.94
+      },
+      {
+        "date": "2023-11-30",
+        "price": 3.29,
+        "unitPrice": 6.58
+      },
+      {
+        "date": "2023-11-19",
+        "price": 3.19,
+        "unitPrice": 6.38
+      },
+      {
+        "date": "2023-11-15",
+        "price": 2.39,
+        "unitPrice": 4.78
+      },
+      {
+        "date": "2023-10-05",
+        "price": 3.19,
+        "unitPrice": 6.38
+      },
+      {
+        "date": "2023-09-28",
+        "price": 2.39,
+        "unitPrice": 4.78
+      },
+      {
+        "date": "2023-08-27",
+        "price": 3.19,
+        "unitPrice": 6.38
+      },
+      {
+        "date": "2023-08-25",
+        "price": 2.39,
+        "unitPrice": 4.78
+      },
+      {
+        "date": "2023-07-20",
+        "price": 3.19,
+        "unitPrice": 6.38
+      },
+      {
+        "date": "2023-07-19",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2023-07-14",
+        "price": 2.24,
+        "unitPrice": 4.48
+      },
+      {
+        "date": "2023-06-11",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2023-06-07",
+        "price": 2.24,
+        "unitPrice": 4.48
+      },
+      {
+        "date": "2023-03-30",
+        "price": 2.99,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2023-02-07",
+        "price": 2.69,
+        "unitPrice": 5.38
+      },
+      {
+        "date": "2023-02-02",
+        "price": 2.02,
+        "unitPrice": 4.04
+      },
+      {
+        "date": "2023-01-08",
+        "price": 2.69,
+        "unitPrice": 5.38
+      },
+      {
+        "date": "2023-01-05",
+        "price": 2.02,
+        "unitPrice": 4.04
+      },
+      {
+        "date": "2022-12-18",
+        "price": 2.69,
+        "unitPrice": 5.38
+      },
+      {
+        "date": "2022-12-16",
+        "price": 2.02,
+        "unitPrice": 4.04
+      },
+      {
+        "date": "2022-11-06",
+        "price": 2.69,
+        "unitPrice": 5.38
+      },
+      {
+        "date": "2022-11-04",
+        "price": 2.02,
+        "unitPrice": 4.04
+      },
+      {
+        "date": "2022-09-08",
+        "price": 2.69,
+        "unitPrice": 5.38
+      },
+      {
+        "date": "2022-09-05",
+        "price": 2.02,
+        "unitPrice": 4.04
+      },
+      {
+        "date": "2022-07-14",
+        "price": 2.69,
+        "unitPrice": 5.38
+      },
+      {
+        "date": "2022-07-11",
+        "price": 2.02,
+        "unitPrice": 4.04
+      },
+      {
+        "date": "2022-07-07",
+        "price": 2.69,
+        "unitPrice": 5.38
+      },
+      {
+        "date": "2022-06-23",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2022-06-10",
+        "price": 2.69,
+        "unitPrice": 5.38
+      },
+      {
+        "date": "2022-02-09",
+        "price": 2.49,
+        "unitPrice": 4.98
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 500,
+    "bio": true,
+    "available": true,
+    "url": "https://shop.billa.at/produkte/ja-natuerlich-carnaroli-risottoreis-00304218"
+  },
+  {
+    "store": "billa",
+    "id": "00-597293",
+    "name": "Ja! Natürlich Dinkelreis",
+    "category": "54",
+    "price": 1.99,
+    "priceHistory": [
+      {
+        "date": "2026-04-12",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2026-04-10",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2026-03-01",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2026-02-27",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2025-05-11",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2025-05-09",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2025-04-21",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2025-04-13",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2025-03-03",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2025-02-24",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2025-01-05",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2025-01-03",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2024-12-13",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2024-12-08",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2024-11-03",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2024-10-31",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2024-10-22",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2024-10-17",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2024-09-09",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2024-09-02",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2024-08-12",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2024-08-05",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2024-07-05",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2024-06-28",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2024-06-14",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2024-06-07",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2024-04-28",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2024-04-26",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2024-03-21",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2024-02-24",
+        "price": 2.29,
+        "unitPrice": 4.58
+      },
+      {
+        "date": "2024-02-16",
+        "price": 1.72,
+        "unitPrice": 3.44
+      },
+      {
+        "date": "2024-01-28",
+        "price": 2.29,
+        "unitPrice": 4.58
+      },
+      {
+        "date": "2024-01-26",
+        "price": 1.72,
+        "unitPrice": 3.44
+      },
+      {
+        "date": "2024-01-06",
+        "price": 2.29,
+        "unitPrice": 4.58
+      },
+      {
+        "date": "2024-01-04",
+        "price": 1.72,
+        "unitPrice": 3.44
+      },
+      {
+        "date": "2023-12-15",
+        "price": 2.29,
+        "unitPrice": 4.58
+      },
+      {
+        "date": "2023-12-11",
+        "price": 1.72,
+        "unitPrice": 3.44
+      },
+      {
+        "date": "2023-11-19",
+        "price": 2.29,
+        "unitPrice": 4.58
+      },
+      {
+        "date": "2023-11-15",
+        "price": 1.72,
+        "unitPrice": 3.44
+      },
+      {
+        "date": "2023-10-21",
+        "price": 2.29,
+        "unitPrice": 4.58
+      },
+      {
+        "date": "2023-09-28",
+        "price": 1.72,
+        "unitPrice": 3.44
+      },
+      {
+        "date": "2023-08-27",
+        "price": 2.29,
+        "unitPrice": 4.58
+      },
+      {
+        "date": "2023-08-25",
+        "price": 1.72,
+        "unitPrice": 3.44
+      },
+      {
+        "date": "2023-07-19",
+        "price": 2.29,
+        "unitPrice": 4.58
+      },
+      {
+        "date": "2023-07-14",
+        "price": 1.72,
+        "unitPrice": 3.44
+      },
+      {
+        "date": "2023-06-11",
+        "price": 2.29,
+        "unitPrice": 4.58
+      },
+      {
+        "date": "2023-06-07",
+        "price": 1.72,
+        "unitPrice": 3.44
+      },
+      {
+        "date": "2023-05-13",
+        "price": 2.29,
+        "unitPrice": 4.58
+      },
+      {
+        "date": "2023-02-07",
+        "price": 2.19,
+        "unitPrice": 4.38
+      },
+      {
+        "date": "2023-02-02",
+        "price": 1.64,
+        "unitPrice": 3.28
+      },
+      {
+        "date": "2023-01-08",
+        "price": 2.19,
+        "unitPrice": 4.38
+      },
+      {
+        "date": "2023-01-05",
+        "price": 1.64,
+        "unitPrice": 3.28
+      },
+      {
+        "date": "2022-12-18",
+        "price": 2.19,
+        "unitPrice": 4.38
+      },
+      {
+        "date": "2022-12-16",
+        "price": 1.64,
+        "unitPrice": 3.28
+      },
+      {
+        "date": "2022-11-29",
+        "price": 2.19,
+        "unitPrice": 4.38
+      },
+      {
+        "date": "2022-11-06",
+        "price": 2.09,
+        "unitPrice": 4.18
+      },
+      {
+        "date": "2022-11-04",
+        "price": 1.57,
+        "unitPrice": 3.14
+      },
+      {
+        "date": "2022-09-08",
+        "price": 2.09,
+        "unitPrice": 4.18
+      },
+      {
+        "date": "2022-09-05",
+        "price": 1.57,
+        "unitPrice": 3.14
+      },
+      {
+        "date": "2022-08-01",
+        "price": 2.09,
+        "unitPrice": 4.18
+      },
+      {
+        "date": "2022-05-25",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2022-05-23",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2022-01-09",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2022-01-07",
+        "price": 1.49,
+        "unitPrice": 2.98
+      },
+      {
+        "date": "2018-10-25",
+        "price": 1.99,
+        "unitPrice": 3.98
+      },
+      {
+        "date": "2018-04-26",
+        "price": 1.89,
+        "unitPrice": 3.78
+      },
+      {
+        "date": "2017-04-05",
+        "price": 1.99,
+        "unitPrice": 3.98
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 500,
+    "bio": true,
+    "available": true,
+    "url": "https://shop.billa.at/produkte/ja-natuerlich-dinkelreis-00597293"
+  },
+  {
+    "store": "billa",
+    "id": "00-350711",
+    "name": "Ja! Natürlich Fairtrade Basmatireis",
+    "category": "54",
+    "price": 6.49,
+    "priceHistory": [
+      {
+        "date": "2026-04-12",
+        "price": 6.49,
+        "unitPrice": 6.49
+      },
+      {
+        "date": "2026-04-10",
+        "price": 4.87,
+        "unitPrice": 4.87
+      },
+      {
+        "date": "2026-03-01",
+        "price": 6.49,
+        "unitPrice": 6.49
+      },
+      {
+        "date": "2026-02-27",
+        "price": 4.87,
+        "unitPrice": 4.87
+      },
+      {
+        "date": "2026-01-25",
+        "price": 6.49,
+        "unitPrice": 6.49
+      },
+      {
+        "date": "2026-01-23",
+        "price": 4.87,
+        "unitPrice": 4.87
+      },
+      {
+        "date": "2025-12-04",
+        "price": 6.49,
+        "unitPrice": 6.49
+      },
+      {
+        "date": "2025-09-15",
+        "price": 6.39,
+        "unitPrice": 6.39
+      },
+      {
+        "date": "2025-09-08",
+        "price": 4.79,
+        "unitPrice": 4.79
+      },
+      {
+        "date": "2025-08-11",
+        "price": 6.39,
+        "unitPrice": 6.39
+      },
+      {
+        "date": "2025-08-04",
+        "price": 4.79,
+        "unitPrice": 4.79
+      },
+      {
+        "date": "2025-08-03",
+        "price": 6.39,
+        "unitPrice": 6.39
+      },
+      {
+        "date": "2025-08-01",
+        "price": 4.79,
+        "unitPrice": 4.79
+      },
+      {
+        "date": "2025-07-07",
+        "price": 6.39,
+        "unitPrice": 6.39
+      },
+      {
+        "date": "2025-06-30",
+        "price": 4.79,
+        "unitPrice": 4.79
+      },
+      {
+        "date": "2025-05-11",
+        "price": 6.39,
+        "unitPrice": 6.39
+      },
+      {
+        "date": "2025-05-09",
+        "price": 4.79,
+        "unitPrice": 4.79
+      },
+      {
+        "date": "2025-04-21",
+        "price": 6.39,
+        "unitPrice": 6.39
+      },
+      {
+        "date": "2025-04-13",
+        "price": 4.79,
+        "unitPrice": 4.79
+      },
+      {
+        "date": "2025-03-03",
+        "price": 6.39,
+        "unitPrice": 6.39
+      },
+      {
+        "date": "2025-02-24",
+        "price": 4.79,
+        "unitPrice": 4.79
+      },
+      {
+        "date": "2025-01-05",
+        "price": 6.39,
+        "unitPrice": 6.39
+      },
+      {
+        "date": "2025-01-03",
+        "price": 4.79,
+        "unitPrice": 4.79
+      },
+      {
+        "date": "2024-12-19",
+        "price": 6.39,
+        "unitPrice": 6.39
+      },
+      {
+        "date": "2024-12-13",
+        "price": 5.99,
+        "unitPrice": 5.99
+      },
+      {
+        "date": "2024-12-08",
+        "price": 4.49,
+        "unitPrice": 4.49
+      },
+      {
+        "date": "2024-12-05",
+        "price": 5.99,
+        "unitPrice": 5.99
+      },
+      {
+        "date": "2024-11-03",
+        "price": 6.39,
+        "unitPrice": 6.39
+      },
+      {
+        "date": "2024-10-31",
+        "price": 4.79,
+        "unitPrice": 4.79
+      },
+      {
+        "date": "2024-10-22",
+        "price": 6.39,
+        "unitPrice": 6.39
+      },
+      {
+        "date": "2024-10-17",
+        "price": 4.79,
+        "unitPrice": 4.79
+      },
+      {
+        "date": "2024-09-09",
+        "price": 6.39,
+        "unitPrice": 6.39
+      },
+      {
+        "date": "2024-09-02",
+        "price": 4.79,
+        "unitPrice": 4.79
+      },
+      {
+        "date": "2024-08-12",
+        "price": 6.39,
+        "unitPrice": 6.39
+      },
+      {
+        "date": "2024-08-05",
+        "price": 4.79,
+        "unitPrice": 4.79
+      },
+      {
+        "date": "2024-07-05",
+        "price": 6.39,
+        "unitPrice": 6.39
+      },
+      {
+        "date": "2024-06-28",
+        "price": 4.79,
+        "unitPrice": 4.79
+      },
+      {
+        "date": "2024-06-14",
+        "price": 6.39,
+        "unitPrice": 6.39
+      },
+      {
+        "date": "2024-06-07",
+        "price": 4.79,
+        "unitPrice": 4.79
+      },
+      {
+        "date": "2024-04-28",
+        "price": 6.39,
+        "unitPrice": 6.39
+      },
+      {
+        "date": "2024-04-26",
+        "price": 4.79,
+        "unitPrice": 4.79
+      },
+      {
+        "date": "2024-03-21",
+        "price": 6.39,
+        "unitPrice": 6.39
+      },
+      {
+        "date": "2024-02-24",
+        "price": 6.29,
+        "unitPrice": 6.29
+      },
+      {
+        "date": "2024-02-16",
+        "price": 4.72,
+        "unitPrice": 4.72
+      },
+      {
+        "date": "2024-01-28",
+        "price": 6.29,
+        "unitPrice": 6.29
+      },
+      {
+        "date": "2024-01-26",
+        "price": 4.72,
+        "unitPrice": 4.72
+      },
+      {
+        "date": "2024-01-06",
+        "price": 6.29,
+        "unitPrice": 6.29
+      },
+      {
+        "date": "2024-01-04",
+        "price": 4.72,
+        "unitPrice": 4.72
+      },
+      {
+        "date": "2024-01-02",
+        "price": 6.29,
+        "unitPrice": 6.29
+      },
+      {
+        "date": "2023-12-24",
+        "price": 6.19,
+        "unitPrice": 6.19
+      },
+      {
+        "date": "2023-12-15",
+        "price": 4.99,
+        "unitPrice": 4.99
+      },
+      {
+        "date": "2023-12-11",
+        "price": 3.74,
+        "unitPrice": 3.74
+      },
+      {
+        "date": "2023-12-07",
+        "price": 4.99,
+        "unitPrice": 4.99
+      },
+      {
+        "date": "2023-11-19",
+        "price": 6.19,
+        "unitPrice": 6.19
+      },
+      {
+        "date": "2023-11-15",
+        "price": 4.64,
+        "unitPrice": 4.64
+      },
+      {
+        "date": "2023-10-05",
+        "price": 6.19,
+        "unitPrice": 6.19
+      },
+      {
+        "date": "2023-09-28",
+        "price": 4.64,
+        "unitPrice": 4.64
+      },
+      {
+        "date": "2023-08-27",
+        "price": 6.19,
+        "unitPrice": 6.19
+      },
+      {
+        "date": "2023-08-25",
+        "price": 4.64,
+        "unitPrice": 4.64
+      },
+      {
+        "date": "2023-07-19",
+        "price": 6.19,
+        "unitPrice": 6.19
+      },
+      {
+        "date": "2023-07-14",
+        "price": 4.64,
+        "unitPrice": 4.64
+      },
+      {
+        "date": "2023-06-11",
+        "price": 6.19,
+        "unitPrice": 6.19
+      },
+      {
+        "date": "2023-06-07",
+        "price": 4.64,
+        "unitPrice": 4.64
+      },
+      {
+        "date": "2023-05-13",
+        "price": 6.19,
+        "unitPrice": 6.19
+      },
+      {
+        "date": "2023-02-07",
+        "price": 5.99,
+        "unitPrice": 5.99
+      },
+      {
+        "date": "2023-02-02",
+        "price": 4.49,
+        "unitPrice": 4.49
+      },
+      {
+        "date": "2023-01-08",
+        "price": 5.99,
+        "unitPrice": 5.99
+      },
+      {
+        "date": "2023-01-05",
+        "price": 4.49,
+        "unitPrice": 4.49
+      },
+      {
+        "date": "2022-12-18",
+        "price": 5.99,
+        "unitPrice": 5.99
+      },
+      {
+        "date": "2022-12-16",
+        "price": 4.49,
+        "unitPrice": 4.49
+      },
+      {
+        "date": "2022-11-29",
+        "price": 5.99,
+        "unitPrice": 5.99
+      },
+      {
+        "date": "2022-11-06",
+        "price": 5.19,
+        "unitPrice": 5.19
+      },
+      {
+        "date": "2022-11-04",
+        "price": 3.89,
+        "unitPrice": 3.89
+      },
+      {
+        "date": "2022-09-08",
+        "price": 5.19,
+        "unitPrice": 5.19
+      },
+      {
+        "date": "2022-09-05",
+        "price": 3.89,
+        "unitPrice": 3.89
+      },
+      {
+        "date": "2022-07-14",
+        "price": 5.19,
+        "unitPrice": 5.19
+      },
+      {
+        "date": "2022-07-11",
+        "price": 3.89,
+        "unitPrice": 3.89
+      },
+      {
+        "date": "2022-06-28",
+        "price": 5.19,
+        "unitPrice": 5.19
+      },
+      {
+        "date": "2021-04-07",
+        "price": 4.99,
+        "unitPrice": 4.99
+      },
+      {
+        "date": "2020-03-26",
+        "price": 5.99,
+        "unitPrice": 5.99
+      },
+      {
+        "date": "2020-03-12",
+        "price": 5.49,
+        "unitPrice": 5.49
+      },
+      {
+        "date": "2020-01-18",
+        "price": 5.99,
+        "unitPrice": 5.99
+      },
+      {
+        "date": "2020-01-02",
+        "price": 5.49,
+        "unitPrice": 5.49
+      },
+      {
+        "date": "2019-03-21",
+        "price": 5.99,
+        "unitPrice": 5.99
+      },
+      {
+        "date": "2019-03-16",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2018-08-02",
+        "price": 5.99,
+        "unitPrice": 5.99
+      },
+      {
+        "date": "2018-07-19",
+        "price": 5.49,
+        "unitPrice": 5.49
+      },
+      {
+        "date": "2018-02-22",
+        "price": 5.99,
+        "unitPrice": 5.99
+      },
+      {
+        "date": "2017-04-27",
+        "price": 5.79,
+        "unitPrice": 5.79
+      },
+      {
+        "date": "2017-04-05",
+        "price": 5.99,
+        "unitPrice": 5.99
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": true,
+    "available": true,
+    "url": "https://shop.billa.at/produkte/ja-natuerlich-fairtrade-basmatireis-00350711"
+  },
+  {
+    "store": "billa",
+    "id": "00-722755",
+    "name": "Ja! Natürlich Langkornreis",
+    "category": "54",
+    "price": 3.99,
+    "priceHistory": [
+      {
+        "date": "2026-04-12",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2026-04-10",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2026-03-01",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2026-02-27",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2026-01-25",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2026-01-23",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2025-09-15",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2025-09-08",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2025-08-11",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2025-08-04",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2025-08-03",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2025-08-01",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2025-07-07",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2025-06-30",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2025-05-11",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2025-05-09",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2025-04-21",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2025-04-13",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2025-03-03",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2025-02-24",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2025-01-26",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2025-01-24",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2025-01-05",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2025-01-03",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2024-12-13",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2024-12-08",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2024-11-03",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2024-10-31",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2024-10-22",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2024-10-17",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2024-09-09",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2024-09-02",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2024-08-12",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2024-08-05",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2024-07-05",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2024-06-28",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2024-06-14",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2024-06-07",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2024-05-27",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2024-04-28",
+        "price": 4.19,
+        "unitPrice": 4.19
+      },
+      {
+        "date": "2024-04-26",
+        "price": 3.14,
+        "unitPrice": 3.14
+      },
+      {
+        "date": "2024-02-24",
+        "price": 4.19,
+        "unitPrice": 4.19
+      },
+      {
+        "date": "2024-02-16",
+        "price": 3.14,
+        "unitPrice": 3.14
+      },
+      {
+        "date": "2024-01-28",
+        "price": 4.19,
+        "unitPrice": 4.19
+      },
+      {
+        "date": "2024-01-26",
+        "price": 3.14,
+        "unitPrice": 3.14
+      },
+      {
+        "date": "2024-01-06",
+        "price": 4.19,
+        "unitPrice": 4.19
+      },
+      {
+        "date": "2024-01-04",
+        "price": 3.14,
+        "unitPrice": 3.14
+      },
+      {
+        "date": "2023-12-27",
+        "price": 4.19,
+        "unitPrice": 4.19
+      },
+      {
+        "date": "2023-12-15",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2023-12-11",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2023-11-19",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2023-11-15",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2023-10-05",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2023-09-28",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2023-08-27",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2023-08-25",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2023-07-19",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2023-07-14",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2023-06-11",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2023-06-07",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2023-02-07",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2023-02-02",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2023-01-08",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2023-01-05",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2022-12-19",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2022-12-18",
+        "price": 3.79,
+        "unitPrice": 3.79
+      },
+      {
+        "date": "2022-12-16",
+        "price": 2.84,
+        "unitPrice": 2.84
+      },
+      {
+        "date": "2022-11-06",
+        "price": 3.79,
+        "unitPrice": 3.79
+      },
+      {
+        "date": "2022-11-04",
+        "price": 2.84,
+        "unitPrice": 2.84
+      },
+      {
+        "date": "2022-09-08",
+        "price": 3.79,
+        "unitPrice": 3.79
+      },
+      {
+        "date": "2022-09-05",
+        "price": 2.84,
+        "unitPrice": 2.84
+      },
+      {
+        "date": "2022-07-15",
+        "price": 3.79,
+        "unitPrice": 3.79
+      },
+      {
+        "date": "2022-07-11",
+        "price": 2.84,
+        "unitPrice": 2.84
+      },
+      {
+        "date": "2022-05-25",
+        "price": 3.79,
+        "unitPrice": 3.79
+      },
+      {
+        "date": "2022-05-23",
+        "price": 2.84,
+        "unitPrice": 2.84
+      },
+      {
+        "date": "2022-01-09",
+        "price": 3.49,
+        "unitPrice": 3.49
+      },
+      {
+        "date": "2022-01-07",
+        "price": 2.62,
+        "unitPrice": 2.62
+      },
+      {
+        "date": "2021-04-07",
+        "price": 3.49,
+        "unitPrice": 3.49
+      },
+      {
+        "date": "2017-04-05",
+        "price": 3.59,
+        "unitPrice": 3.59
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": true,
+    "available": true,
+    "url": "https://shop.billa.at/produkte/ja-natuerlich-langkornreis-00722755"
+  },
+  {
+    "store": "billa",
+    "id": "00-722668",
+    "name": "Ja! Natürlich Parboiled Reis Weiß",
+    "category": "54",
+    "price": 3.99,
+    "priceHistory": [
+      {
+        "date": "2026-04-12",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2026-04-10",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2026-03-01",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2026-02-27",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2026-01-25",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2026-01-23",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2025-09-15",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2025-09-08",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2025-08-11",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2025-08-04",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2025-08-03",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2025-08-01",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2025-07-07",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2025-06-30",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2025-05-11",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2025-05-09",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2025-04-21",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2025-04-13",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2025-03-03",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2025-02-24",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2025-01-26",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2025-01-24",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2025-01-05",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2025-01-03",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2024-12-13",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2024-12-08",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2024-11-03",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2024-10-31",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2024-10-22",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2024-10-17",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2024-09-09",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2024-09-02",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2024-08-12",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2024-08-05",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2024-07-05",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2024-06-28",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2024-06-14",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2024-06-07",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2024-04-28",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2024-04-26",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2024-02-24",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2024-02-16",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2024-01-28",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2024-01-26",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2024-01-06",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2024-01-04",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2023-12-15",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2023-12-11",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2023-11-19",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2023-11-15",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2023-10-05",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2023-09-28",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2023-08-27",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2023-08-25",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2023-02-07",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2023-02-02",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2023-01-08",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2023-01-05",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2022-12-18",
+        "price": 3.99,
+        "unitPrice": 3.9900000000000007
+      },
+      {
+        "date": "2022-12-17",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2022-11-06",
+        "price": 3.89,
+        "unitPrice": 3.89
+      },
+      {
+        "date": "2022-11-04",
+        "price": 2.92,
+        "unitPrice": 2.92
+      },
+      {
+        "date": "2022-09-08",
+        "price": 3.89,
+        "unitPrice": 3.89
+      },
+      {
+        "date": "2022-09-05",
+        "price": 2.92,
+        "unitPrice": 2.92
+      },
+      {
+        "date": "2022-07-15",
+        "price": 3.89,
+        "unitPrice": 3.89
+      },
+      {
+        "date": "2022-06-24",
+        "price": 3.49,
+        "unitPrice": 3.49
+      },
+      {
+        "date": "2022-01-09",
+        "price": 3.89,
+        "unitPrice": 3.89
+      },
+      {
+        "date": "2022-01-07",
+        "price": 2.92,
+        "unitPrice": 2.92
+      },
+      {
+        "date": "2020-03-14",
+        "price": 3.89,
+        "unitPrice": 3.89
+      },
+      {
+        "date": "2020-02-27",
+        "price": 3.49,
+        "unitPrice": 3.49
+      },
+      {
+        "date": "2018-11-29",
+        "price": 3.89,
+        "unitPrice": 3.89
+      },
+      {
+        "date": "2018-04-26",
+        "price": 3.49,
+        "unitPrice": 3.49
+      },
+      {
+        "date": "2017-04-05",
+        "price": 3.89,
+        "unitPrice": 3.89
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": true,
+    "available": true,
+    "url": "https://shop.billa.at/produkte/ja-natuerlich-parboiled-reis-weiss-00722668"
+  },
+  {
+    "store": "billa",
+    "id": "00-307141",
+    "name": "Ja! Natürlich Reiswaffeln mit Salz",
+    "category": "5D",
+    "price": 1.49,
+    "priceHistory": [
+      {
+        "date": "2025-03-03",
+        "price": 1.49,
+        "unitPrice": 14.9
+      },
+      {
+        "date": "2025-02-24",
+        "price": 1.12,
+        "unitPrice": 11.200000000000001
+      },
+      {
+        "date": "2025-01-05",
+        "price": 1.49,
+        "unitPrice": 14.9
+      },
+      {
+        "date": "2025-01-03",
+        "price": 1.12,
+        "unitPrice": 11.200000000000001
+      },
+      {
+        "date": "2024-12-13",
+        "price": 1.49,
+        "unitPrice": 14.9
+      },
+      {
+        "date": "2024-12-08",
+        "price": 1.12,
+        "unitPrice": 11.200000000000001
+      },
+      {
+        "date": "2024-11-03",
+        "price": 1.49,
+        "unitPrice": 14.9
+      },
+      {
+        "date": "2024-10-31",
+        "price": 1.12,
+        "unitPrice": 11.200000000000001
+      },
+      {
+        "date": "2024-10-22",
+        "price": 1.49,
+        "unitPrice": 14.9
+      },
+      {
+        "date": "2024-10-17",
+        "price": 1.12,
+        "unitPrice": 11.200000000000001
+      },
+      {
+        "date": "2024-09-09",
+        "price": 1.49,
+        "unitPrice": 14.9
+      },
+      {
+        "date": "2024-09-02",
+        "price": 1.12,
+        "unitPrice": 11.200000000000001
+      },
+      {
+        "date": "2024-08-12",
+        "price": 1.49,
+        "unitPrice": 14.9
+      },
+      {
+        "date": "2024-08-05",
+        "price": 1.12,
+        "unitPrice": 11.200000000000001
+      },
+      {
+        "date": "2024-07-05",
+        "price": 1.49,
+        "unitPrice": 14.9
+      },
+      {
+        "date": "2024-06-28",
+        "price": 1.12,
+        "unitPrice": 11.200000000000001
+      },
+      {
+        "date": "2024-06-14",
+        "price": 1.49,
+        "unitPrice": 14.9
+      },
+      {
+        "date": "2024-06-07",
+        "price": 1.12,
+        "unitPrice": 11.200000000000001
+      },
+      {
+        "date": "2024-04-28",
+        "price": 1.49,
+        "unitPrice": 14.9
+      },
+      {
+        "date": "2024-04-26",
+        "price": 1.12,
+        "unitPrice": 11.200000000000001
+      },
+      {
+        "date": "2024-02-24",
+        "price": 1.49,
+        "unitPrice": 14.9
+      },
+      {
+        "date": "2024-02-16",
+        "price": 1.12,
+        "unitPrice": 11.200000000000001
+      },
+      {
+        "date": "2024-01-12",
+        "price": 1.49,
+        "unitPrice": 14.9
+      },
+      {
+        "date": "2024-01-09",
+        "price": 1.12,
+        "unitPrice": 11.200000000000001
+      },
+      {
+        "date": "2024-01-06",
+        "price": 1.49,
+        "unitPrice": 14.9
+      },
+      {
+        "date": "2024-01-04",
+        "price": 1.12,
+        "unitPrice": 11.200000000000001
+      },
+      {
+        "date": "2023-12-15",
+        "price": 1.49,
+        "unitPrice": 14.9
+      },
+      {
+        "date": "2023-12-11",
+        "price": 1.12,
+        "unitPrice": 11.200000000000001
+      },
+      {
+        "date": "2023-11-19",
+        "price": 1.49,
+        "unitPrice": 14.9
+      },
+      {
+        "date": "2023-11-15",
+        "price": 1.12,
+        "unitPrice": 11.200000000000001
+      },
+      {
+        "date": "2023-10-05",
+        "price": 1.49,
+        "unitPrice": 14.9
+      },
+      {
+        "date": "2023-09-28",
+        "price": 1.12,
+        "unitPrice": 11.200000000000001
+      },
+      {
+        "date": "2023-08-27",
+        "price": 1.49,
+        "unitPrice": 14.9
+      },
+      {
+        "date": "2023-08-25",
+        "price": 1.12,
+        "unitPrice": 11.200000000000001
+      },
+      {
+        "date": "2023-06-11",
+        "price": 1.49,
+        "unitPrice": 14.9
+      },
+      {
+        "date": "2023-06-07",
+        "price": 1.12,
+        "unitPrice": 11.200000000000001
+      },
+      {
+        "date": "2023-05-16",
+        "price": 1.49,
+        "unitPrice": 14.9
+      },
+      {
+        "date": "2023-02-07",
+        "price": 1.39,
+        "unitPrice": 13.899999999999999
+      },
+      {
+        "date": "2023-02-02",
+        "price": 1.04,
+        "unitPrice": 10.4
+      },
+      {
+        "date": "2023-01-08",
+        "price": 1.39,
+        "unitPrice": 13.899999999999999
+      },
+      {
+        "date": "2023-01-05",
+        "price": 1.04,
+        "unitPrice": 10.4
+      },
+      {
+        "date": "2022-12-18",
+        "price": 1.39,
+        "unitPrice": 13.899999999999999
+      },
+      {
+        "date": "2022-12-16",
+        "price": 1.04,
+        "unitPrice": 10.4
+      },
+      {
+        "date": "2022-11-29",
+        "price": 1.39,
+        "unitPrice": 13.899999999999999
+      },
+      {
+        "date": "2022-07-14",
+        "price": 1.29,
+        "unitPrice": 12.9
+      },
+      {
+        "date": "2022-07-11",
+        "price": 0.97,
+        "unitPrice": 9.700000000000001
+      },
+      {
+        "date": "2022-05-25",
+        "price": 1.29,
+        "unitPrice": 12.9
+      },
+      {
+        "date": "2022-05-23",
+        "price": 0.97,
+        "unitPrice": 9.700000000000001
+      },
+      {
+        "date": "2020-12-04",
+        "price": 1.19,
+        "unitPrice": 11.899999999999999
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 100,
+    "bio": true,
+    "available": false,
+    "url": "https://shop.billa.at/produkte/ja-natuerlich-reiswaffeln-mit-salz-00307141"
+  },
+  {
+    "store": "billa",
+    "id": "00-307148",
+    "name": "Ja! Natürlich Reiswaffeln ungesalzen",
+    "category": "5D",
+    "price": 1.49,
+    "priceHistory": [
+      {
+        "date": "2025-03-03",
+        "price": 1.49,
+        "unitPrice": 14.9
+      },
+      {
+        "date": "2025-02-24",
+        "price": 1.12,
+        "unitPrice": 11.200000000000001
+      },
+      {
+        "date": "2025-01-05",
+        "price": 1.49,
+        "unitPrice": 14.9
+      },
+      {
+        "date": "2025-01-03",
+        "price": 1.12,
+        "unitPrice": 11.200000000000001
+      },
+      {
+        "date": "2024-12-13",
+        "price": 1.49,
+        "unitPrice": 14.9
+      },
+      {
+        "date": "2024-12-08",
+        "price": 1.12,
+        "unitPrice": 11.200000000000001
+      },
+      {
+        "date": "2024-11-03",
+        "price": 1.49,
+        "unitPrice": 14.9
+      },
+      {
+        "date": "2024-10-31",
+        "price": 1.12,
+        "unitPrice": 11.200000000000001
+      },
+      {
+        "date": "2024-10-22",
+        "price": 1.49,
+        "unitPrice": 14.9
+      },
+      {
+        "date": "2024-10-17",
+        "price": 1.12,
+        "unitPrice": 11.200000000000001
+      },
+      {
+        "date": "2024-09-09",
+        "price": 1.49,
+        "unitPrice": 14.9
+      },
+      {
+        "date": "2024-09-02",
+        "price": 1.12,
+        "unitPrice": 11.200000000000001
+      },
+      {
+        "date": "2024-08-12",
+        "price": 1.49,
+        "unitPrice": 14.9
+      },
+      {
+        "date": "2024-08-05",
+        "price": 1.12,
+        "unitPrice": 11.200000000000001
+      },
+      {
+        "date": "2024-07-05",
+        "price": 1.49,
+        "unitPrice": 14.9
+      },
+      {
+        "date": "2024-06-28",
+        "price": 1.12,
+        "unitPrice": 11.200000000000001
+      },
+      {
+        "date": "2024-06-14",
+        "price": 1.49,
+        "unitPrice": 14.9
+      },
+      {
+        "date": "2024-06-07",
+        "price": 1.12,
+        "unitPrice": 11.200000000000001
+      },
+      {
+        "date": "2024-04-28",
+        "price": 1.49,
+        "unitPrice": 14.9
+      },
+      {
+        "date": "2024-04-26",
+        "price": 1.12,
+        "unitPrice": 11.200000000000001
+      },
+      {
+        "date": "2024-02-24",
+        "price": 1.49,
+        "unitPrice": 14.9
+      },
+      {
+        "date": "2024-02-16",
+        "price": 1.12,
+        "unitPrice": 11.200000000000001
+      },
+      {
+        "date": "2024-01-12",
+        "price": 1.49,
+        "unitPrice": 14.9
+      },
+      {
+        "date": "2024-01-09",
+        "price": 1.12,
+        "unitPrice": 11.200000000000001
+      },
+      {
+        "date": "2024-01-06",
+        "price": 1.49,
+        "unitPrice": 14.9
+      },
+      {
+        "date": "2024-01-04",
+        "price": 1.12,
+        "unitPrice": 11.200000000000001
+      },
+      {
+        "date": "2023-12-15",
+        "price": 1.49,
+        "unitPrice": 14.9
+      },
+      {
+        "date": "2023-12-11",
+        "price": 1.12,
+        "unitPrice": 11.200000000000001
+      },
+      {
+        "date": "2023-11-19",
+        "price": 1.49,
+        "unitPrice": 14.9
+      },
+      {
+        "date": "2023-11-15",
+        "price": 1.12,
+        "unitPrice": 11.200000000000001
+      },
+      {
+        "date": "2023-10-05",
+        "price": 1.49,
+        "unitPrice": 14.9
+      },
+      {
+        "date": "2023-09-28",
+        "price": 1.12,
+        "unitPrice": 11.200000000000001
+      },
+      {
+        "date": "2023-08-27",
+        "price": 1.49,
+        "unitPrice": 14.9
+      },
+      {
+        "date": "2023-08-25",
+        "price": 1.12,
+        "unitPrice": 11.200000000000001
+      },
+      {
+        "date": "2023-07-01",
+        "price": 1.49,
+        "unitPrice": 14.9
+      },
+      {
+        "date": "2023-06-07",
+        "price": 1.12,
+        "unitPrice": 11.200000000000001
+      },
+      {
+        "date": "2023-05-13",
+        "price": 1.49,
+        "unitPrice": 14.9
+      },
+      {
+        "date": "2023-02-07",
+        "price": 1.39,
+        "unitPrice": 13.899999999999999
+      },
+      {
+        "date": "2023-02-02",
+        "price": 1.04,
+        "unitPrice": 10.4
+      },
+      {
+        "date": "2023-01-08",
+        "price": 1.39,
+        "unitPrice": 13.899999999999999
+      },
+      {
+        "date": "2023-01-05",
+        "price": 1.04,
+        "unitPrice": 10.4
+      },
+      {
+        "date": "2022-12-18",
+        "price": 1.39,
+        "unitPrice": 13.899999999999999
+      },
+      {
+        "date": "2022-12-16",
+        "price": 1.04,
+        "unitPrice": 10.4
+      },
+      {
+        "date": "2022-11-29",
+        "price": 1.39,
+        "unitPrice": 13.899999999999999
+      },
+      {
+        "date": "2022-11-06",
+        "price": 1.29,
+        "unitPrice": 12.9
+      },
+      {
+        "date": "2022-11-04",
+        "price": 0.97,
+        "unitPrice": 9.700000000000001
+      },
+      {
+        "date": "2022-07-14",
+        "price": 1.29,
+        "unitPrice": 12.9
+      },
+      {
+        "date": "2022-07-11",
+        "price": 0.97,
+        "unitPrice": 9.700000000000001
+      },
+      {
+        "date": "2022-05-25",
+        "price": 1.29,
+        "unitPrice": 12.9
+      },
+      {
+        "date": "2022-05-23",
+        "price": 0.97,
+        "unitPrice": 9.700000000000001
+      },
+      {
+        "date": "2022-01-09",
+        "price": 1.19,
+        "unitPrice": 11.899999999999999
+      },
+      {
+        "date": "2022-01-07",
+        "price": 0.89,
+        "unitPrice": 8.9
+      },
+      {
+        "date": "2020-10-14",
+        "price": 1.19,
+        "unitPrice": 11.899999999999999
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 100,
+    "bio": true,
+    "available": false,
+    "url": "https://shop.billa.at/produkte/ja-natuerlich-reiswaffeln-ungesalzen-00307148"
+  },
+  {
+    "store": "bipa",
+    "id": "B3-323371",
+    "name": "BI CARE Körpercreme Kirschblütenduft & Reismilch",
+    "category": "51",
+    "price": 2.49,
+    "priceHistory": [
+      {
+        "date": "2023-07-05",
+        "price": 2.49,
+        "unitPrice": 12.450000000000001
+      }
+    ],
+    "isWeighted": false,
+    "unit": "ml",
+    "quantity": 200,
+    "bio": false,
+    "available": false,
+    "url": "https://www.bipa.at/p/bi-care-koerpercreme-kirschbluetenduft-und-reismilch/B3-323371.html"
+  },
+  {
+    "store": "bipa",
+    "id": "B3-927923",
+    "name": "today Wattestäbchen Reisebox",
+    "category": "51",
+    "price": 0.89,
+    "priceHistory": [
+      {
+        "date": "2023-07-05",
+        "price": 0.89,
+        "unitPrice": 0.0178
+      }
+    ],
+    "isWeighted": false,
+    "unit": "stk",
+    "quantity": 50,
+    "bio": false,
+    "available": false,
+    "url": "https://www.bipa.at/p/today-wattestaebchen-reisebox/B3-927923.html"
+  },
+  {
+    "store": "spar",
+    "id": "7979828",
+    "name": "S-BUDGET Basmati Reis",
+    "category": "5B",
+    "price": 2.99,
+    "priceHistory": [
+      {
+        "date": "2025-10-16",
+        "price": 2.99,
+        "unitPrice": 2.99
+      },
+      {
+        "date": "2025-05-14",
+        "price": 2.89,
+        "unitPrice": 2.89
+      },
+      {
+        "date": "2024-10-22",
+        "price": 2.79,
+        "unitPrice": 2.79
+      },
+      {
+        "date": "2023-07-25",
+        "price": 2.69,
+        "unitPrice": 2.69
+      },
+      {
+        "date": "2023-06-06",
+        "price": 2.89,
+        "unitPrice": 2.89
+      },
+      {
+        "date": "2023-02-16",
+        "price": 2.69,
+        "unitPrice": 2.69
+      },
+      {
+        "date": "2023-01-20",
+        "price": 2.29,
+        "unitPrice": 2.29
+      },
+      {
+        "date": "2023-01-07",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2022-11-15",
+        "price": 2.29,
+        "unitPrice": 2.29
+      },
+      {
+        "date": "2022-04-06",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2021-03-24",
+        "price": 1.89,
+        "unitPrice": 1.89
+      },
+      {
+        "date": "2020-03-04",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2018-08-29",
+        "price": 2.19,
+        "unitPrice": 2.19
+      },
+      {
+        "date": "2018-07-04",
+        "price": 2.39,
+        "unitPrice": 2.39
+      },
+      {
+        "date": "2017-04-20",
+        "price": 2.19,
+        "unitPrice": 2.19
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": false,
+    "available": true,
+    "url": "https://www.interspar.at/shop/lebensmittel/p/7979828"
+  },
+  {
+    "store": "spar",
+    "id": "2020003497865",
+    "name": "S-BUDGET Jasmin Reis",
+    "category": "5B",
+    "price": 1.99,
+    "priceHistory": [
+      {
+        "date": "2025-10-16",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2024-10-22",
+        "price": 2.19,
+        "unitPrice": 2.19
+      },
+      {
+        "date": "2022-09-30",
+        "price": 1.99,
+        "unitPrice": 1.99
+      },
+      {
+        "date": "2021-03-24",
+        "price": 1.89,
+        "unitPrice": 1.89
+      },
+      {
+        "date": "2020-10-20",
+        "price": 1.99,
+        "unitPrice": 1.99
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": false,
+    "available": true,
+    "url": "https://www.interspar.at/shop/lebensmittel/p/2020003497865"
+  },
+  {
+    "store": "spar",
+    "id": "6481889",
+    "name": "S-BUDGET Langkornreis",
+    "category": "5B",
+    "price": 1.29,
+    "priceHistory": [
+      {
+        "date": "2025-10-16",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2023-11-22",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2023-10-05",
+        "price": 1.05,
+        "unitPrice": 1.05
+      },
+      {
+        "date": "2023-08-30",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2023-02-28",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2022-09-30",
+        "price": 1.19,
+        "unitPrice": 1.19
+      },
+      {
+        "date": "2022-04-06",
+        "price": 0.99,
+        "unitPrice": 0.99
+      },
+      {
+        "date": "2017-12-05",
+        "price": 0.79,
+        "unitPrice": 0.79
+      },
+      {
+        "date": "2017-04-20",
+        "price": 0.69,
+        "unitPrice": 0.69
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": false,
+    "available": true,
+    "url": "https://www.interspar.at/shop/lebensmittel/p/6481889"
+  },
+  {
+    "store": "spar",
+    "id": "6481940",
+    "name": "S-BUDGET Langkornreis Parboiled",
+    "category": "5B",
+    "price": 1.69,
+    "priceHistory": [
+      {
+        "date": "2025-05-14",
+        "price": 1.69,
+        "unitPrice": 1.69
+      },
+      {
+        "date": "2024-03-19",
+        "price": 1.39,
+        "unitPrice": 1.39
+      },
+      {
+        "date": "2023-08-30",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2023-06-06",
+        "price": 1.39,
+        "unitPrice": 1.39
+      },
+      {
+        "date": "2023-02-28",
+        "price": 1.49,
+        "unitPrice": 1.49
+      },
+      {
+        "date": "2022-10-25",
+        "price": 1.39,
+        "unitPrice": 1.39
+      },
+      {
+        "date": "2022-09-30",
+        "price": 1.29,
+        "unitPrice": 1.29
+      },
+      {
+        "date": "2022-03-18",
+        "price": 1.09,
+        "unitPrice": 1.09
+      },
+      {
+        "date": "2019-04-10",
+        "price": 0.95,
+        "unitPrice": 0.95
+      },
+      {
+        "date": "2017-04-20",
+        "price": 0.89,
+        "unitPrice": 0.89
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": false,
+    "available": true,
+    "url": "https://www.interspar.at/shop/lebensmittel/p/6481940"
+  },
+  {
+    "store": "spar",
+    "id": "2020001391363",
+    "name": "S-BUDGET Wild-Preiselbeeren",
+    "category": "57",
+    "price": 1.99,
+    "priceHistory": [
+      {
+        "date": "2026-02-25",
+        "price": 1.99,
+        "unitPrice": 4.9750000000000005
+      },
+      {
+        "date": "2026-02-10",
+        "price": 1.75,
+        "unitPrice": 4.375
+      },
+      {
+        "date": "2025-05-14",
+        "price": 1.79,
+        "unitPrice": 4.475
+      },
+      {
+        "date": "2024-11-12",
+        "price": 1.57,
+        "unitPrice": 3.9250000000000007
+      },
+      {
+        "date": "2024-08-20",
+        "price": 1.59,
+        "unitPrice": 3.975
+      },
+      {
+        "date": "2023-10-05",
+        "price": 1.65,
+        "unitPrice": 4.125
+      },
+      {
+        "date": "2023-05-23",
+        "price": 1.99,
+        "unitPrice": 4.9750000000000005
+      },
+      {
+        "date": "2019-02-24",
+        "price": 1.69,
+        "unitPrice": 4.225
+      },
+      {
+        "date": "2017-06-08",
+        "price": 1.35,
+        "unitPrice": 3.3750000000000004
+      },
+      {
+        "date": "2017-04-20",
+        "price": 1.45,
+        "unitPrice": 3.6249999999999996
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 400,
+    "bio": false,
+    "available": true,
+    "url": "https://www.interspar.at/shop/lebensmittel/p/2020001391363"
+  },
+  {
+    "store": "unimarkt",
+    "id": "94838",
+    "name": "UNIpur Basmatireis",
+    "category": "5A",
+    "price": 4.59,
+    "priceHistory": [
+      {
+        "date": "2023-06-22",
+        "price": 4.59,
+        "unitPrice": 4.59
+      },
+      {
+        "date": "2023-05-29",
+        "price": 4.19,
+        "unitPrice": 4.19
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": false,
+    "available": false,
+    "url": "https://shop.unimarkt.at//UNIpur-Basmatireis-94838"
+  },
+  {
+    "store": "unimarkt",
+    "id": "94837",
+    "name": "UNIpur Langkornreis",
+    "category": "5A",
+    "price": 2.79,
+    "priceHistory": [
+      {
+        "date": "2023-09-01",
+        "price": 2.79,
+        "unitPrice": 2.79
+      },
+      {
+        "date": "2023-07-17",
+        "price": 2.39,
+        "unitPrice": 2.39
+      },
+      {
+        "date": "2023-06-22",
+        "price": 2.89,
+        "unitPrice": 2.89
+      },
+      {
+        "date": "2023-05-29",
+        "price": 2.59,
+        "unitPrice": 2.59
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": false,
+    "available": false,
+    "url": "https://shop.unimarkt.at//UNIpur-Langkornreis-94837"
+  },
+  {
+    "store": "unimarkt",
+    "id": "94839",
+    "name": "UNIpur Rundkornreis",
+    "category": "5A",
+    "price": 2.39,
+    "priceHistory": [
+      {
+        "date": "2023-07-17",
+        "price": 2.39,
+        "unitPrice": 2.39
+      },
+      {
+        "date": "2023-06-22",
+        "price": 2.89,
+        "unitPrice": 2.89
+      },
+      {
+        "date": "2023-05-29",
+        "price": 2.59,
+        "unitPrice": 2.59
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": false,
+    "available": false,
+    "url": "https://shop.unimarkt.at//UNIpur-Rundkornreis-94839"
+  }
+]

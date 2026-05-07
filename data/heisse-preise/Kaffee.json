@@ -1,0 +1,1227 @@
+[
+  {
+    "store": "billa",
+    "id": "00-813014",
+    "name": "Clever Caffe Crema",
+    "category": "22",
+    "price": 14.49,
+    "priceHistory": [
+      {
+        "date": "2026-04-12",
+        "price": 14.49,
+        "unitPrice": 14.49
+      },
+      {
+        "date": "2026-04-10",
+        "price": 13.77,
+        "unitPrice": 13.77
+      },
+      {
+        "date": "2026-03-15",
+        "price": 14.49,
+        "unitPrice": 14.49
+      },
+      {
+        "date": "2026-03-13",
+        "price": 13.77,
+        "unitPrice": 13.77
+      },
+      {
+        "date": "2025-08-14",
+        "price": 14.49,
+        "unitPrice": 14.49
+      },
+      {
+        "date": "2025-04-02",
+        "price": 12.99,
+        "unitPrice": 12.99
+      },
+      {
+        "date": "2025-02-27",
+        "price": 11.49,
+        "unitPrice": 11.49
+      },
+      {
+        "date": "2025-01-30",
+        "price": 10.99,
+        "unitPrice": 10.99
+      },
+      {
+        "date": "2024-12-05",
+        "price": 9.99,
+        "unitPrice": 9.99
+      },
+      {
+        "date": "2024-03-07",
+        "price": 8.99,
+        "unitPrice": 8.99
+      },
+      {
+        "date": "2023-11-03",
+        "price": 9.99,
+        "unitPrice": 9.99
+      },
+      {
+        "date": "2023-10-05",
+        "price": 7.99,
+        "unitPrice": 7.99
+      },
+      {
+        "date": "2023-03-20",
+        "price": 9.99,
+        "unitPrice": 9.99
+      },
+      {
+        "date": "2022-10-05",
+        "price": 8.99,
+        "unitPrice": 8.99
+      },
+      {
+        "date": "2022-02-03",
+        "price": 7.99,
+        "unitPrice": 7.99
+      },
+      {
+        "date": "2019-09-04",
+        "price": 6.99,
+        "unitPrice": 6.99
+      },
+      {
+        "date": "2018-02-14",
+        "price": 7.98,
+        "unitPrice": 7.980000000000001
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": false,
+    "available": true,
+    "url": "https://shop.billa.at/produkte/clever-caffe-crema-00813014"
+  },
+  {
+    "store": "billa",
+    "id": "00-424921",
+    "name": "Ja! Natürlich Kaffee Crema Ganze Bohne",
+    "category": "22",
+    "price": 8.99,
+    "priceHistory": [
+      {
+        "date": "2026-04-12",
+        "price": 8.99,
+        "unitPrice": 17.98
+      },
+      {
+        "date": "2026-04-10",
+        "price": 6.74,
+        "unitPrice": 13.48
+      },
+      {
+        "date": "2026-03-01",
+        "price": 8.99,
+        "unitPrice": 17.98
+      },
+      {
+        "date": "2026-02-27",
+        "price": 6.74,
+        "unitPrice": 13.48
+      },
+      {
+        "date": "2026-02-22",
+        "price": 7.49,
+        "unitPrice": 14.98
+      },
+      {
+        "date": "2026-02-20",
+        "price": 5.62,
+        "unitPrice": 11.24
+      },
+      {
+        "date": "2026-02-17",
+        "price": 7.49,
+        "unitPrice": 14.98
+      },
+      {
+        "date": "2026-01-18",
+        "price": 8.99,
+        "unitPrice": 17.98
+      },
+      {
+        "date": "2026-01-16",
+        "price": 6.74,
+        "unitPrice": 13.48
+      },
+      {
+        "date": "2026-01-04",
+        "price": 8.99,
+        "unitPrice": 17.98
+      },
+      {
+        "date": "2026-01-02",
+        "price": 6.74,
+        "unitPrice": 13.48
+      },
+      {
+        "date": "2025-11-20",
+        "price": 8.99,
+        "unitPrice": 17.98
+      },
+      {
+        "date": "2025-11-06",
+        "price": 7.49,
+        "unitPrice": 14.98
+      },
+      {
+        "date": "2025-11-02",
+        "price": 8.99,
+        "unitPrice": 17.98
+      },
+      {
+        "date": "2025-10-30",
+        "price": 6.74,
+        "unitPrice": 13.48
+      },
+      {
+        "date": "2025-09-28",
+        "price": 8.99,
+        "unitPrice": 17.98
+      },
+      {
+        "date": "2025-09-22",
+        "price": 6.74,
+        "unitPrice": 13.48
+      },
+      {
+        "date": "2025-09-15",
+        "price": 8.99,
+        "unitPrice": 17.98
+      },
+      {
+        "date": "2025-09-08",
+        "price": 6.74,
+        "unitPrice": 13.48
+      },
+      {
+        "date": "2025-08-24",
+        "price": 8.99,
+        "unitPrice": 17.98
+      },
+      {
+        "date": "2025-08-22",
+        "price": 6.74,
+        "unitPrice": 13.48
+      },
+      {
+        "date": "2025-08-11",
+        "price": 8.99,
+        "unitPrice": 17.98
+      },
+      {
+        "date": "2025-08-04",
+        "price": 6.74,
+        "unitPrice": 13.48
+      },
+      {
+        "date": "2025-08-03",
+        "price": 8.99,
+        "unitPrice": 17.98
+      },
+      {
+        "date": "2025-08-01",
+        "price": 6.74,
+        "unitPrice": 13.48
+      },
+      {
+        "date": "2025-07-27",
+        "price": 8.99,
+        "unitPrice": 17.98
+      },
+      {
+        "date": "2025-07-25",
+        "price": 6.74,
+        "unitPrice": 13.48
+      },
+      {
+        "date": "2025-07-07",
+        "price": 8.99,
+        "unitPrice": 17.98
+      },
+      {
+        "date": "2025-06-30",
+        "price": 6.74,
+        "unitPrice": 13.48
+      },
+      {
+        "date": "2025-05-25",
+        "price": 8.99,
+        "unitPrice": 17.98
+      },
+      {
+        "date": "2025-05-23",
+        "price": 6.74,
+        "unitPrice": 13.48
+      },
+      {
+        "date": "2025-05-11",
+        "price": 8.99,
+        "unitPrice": 17.98
+      },
+      {
+        "date": "2025-05-09",
+        "price": 6.74,
+        "unitPrice": 13.48
+      },
+      {
+        "date": "2025-04-27",
+        "price": 8.99,
+        "unitPrice": 17.98
+      },
+      {
+        "date": "2025-04-25",
+        "price": 6.74,
+        "unitPrice": 13.48
+      },
+      {
+        "date": "2025-04-21",
+        "price": 8.99,
+        "unitPrice": 17.98
+      },
+      {
+        "date": "2025-04-13",
+        "price": 6.74,
+        "unitPrice": 13.48
+      },
+      {
+        "date": "2025-03-09",
+        "price": 8.99,
+        "unitPrice": 17.98
+      },
+      {
+        "date": "2025-03-07",
+        "price": 6.74,
+        "unitPrice": 13.48
+      },
+      {
+        "date": "2025-03-03",
+        "price": 8.99,
+        "unitPrice": 17.98
+      },
+      {
+        "date": "2025-02-24",
+        "price": 6.74,
+        "unitPrice": 13.48
+      },
+      {
+        "date": "2025-01-23",
+        "price": 8.99,
+        "unitPrice": 17.98
+      },
+      {
+        "date": "2025-01-19",
+        "price": 7.19,
+        "unitPrice": 14.38
+      },
+      {
+        "date": "2025-01-17",
+        "price": 5.39,
+        "unitPrice": 10.78
+      },
+      {
+        "date": "2025-01-05",
+        "price": 7.19,
+        "unitPrice": 14.38
+      },
+      {
+        "date": "2025-01-03",
+        "price": 5.39,
+        "unitPrice": 10.78
+      },
+      {
+        "date": "2024-12-13",
+        "price": 7.19,
+        "unitPrice": 14.38
+      },
+      {
+        "date": "2024-12-08",
+        "price": 5.39,
+        "unitPrice": 10.78
+      },
+      {
+        "date": "2024-11-24",
+        "price": 7.19,
+        "unitPrice": 14.38
+      },
+      {
+        "date": "2024-11-22",
+        "price": 5.39,
+        "unitPrice": 10.78
+      },
+      {
+        "date": "2024-11-03",
+        "price": 7.19,
+        "unitPrice": 14.38
+      },
+      {
+        "date": "2024-10-31",
+        "price": 5.39,
+        "unitPrice": 10.78
+      },
+      {
+        "date": "2024-10-22",
+        "price": 7.19,
+        "unitPrice": 14.38
+      },
+      {
+        "date": "2024-10-17",
+        "price": 5.39,
+        "unitPrice": 10.78
+      },
+      {
+        "date": "2024-09-15",
+        "price": 7.19,
+        "unitPrice": 14.38
+      },
+      {
+        "date": "2024-09-13",
+        "price": 5.39,
+        "unitPrice": 10.78
+      },
+      {
+        "date": "2024-09-09",
+        "price": 7.19,
+        "unitPrice": 14.38
+      },
+      {
+        "date": "2024-09-02",
+        "price": 5.39,
+        "unitPrice": 10.78
+      },
+      {
+        "date": "2024-08-29",
+        "price": 7.19,
+        "unitPrice": 14.38
+      },
+      {
+        "date": "2024-08-14",
+        "price": 6.79,
+        "unitPrice": 13.58
+      },
+      {
+        "date": "2024-08-12",
+        "price": 7.19,
+        "unitPrice": 14.38
+      },
+      {
+        "date": "2024-08-05",
+        "price": 5.39,
+        "unitPrice": 10.78
+      },
+      {
+        "date": "2024-07-07",
+        "price": 7.19,
+        "unitPrice": 14.38
+      },
+      {
+        "date": "2024-06-28",
+        "price": 5.39,
+        "unitPrice": 10.78
+      },
+      {
+        "date": "2024-06-16",
+        "price": 7.19,
+        "unitPrice": 14.38
+      },
+      {
+        "date": "2024-06-07",
+        "price": 5.39,
+        "unitPrice": 10.78
+      },
+      {
+        "date": "2024-05-26",
+        "price": 7.19,
+        "unitPrice": 14.38
+      },
+      {
+        "date": "2024-05-24",
+        "price": 5.39,
+        "unitPrice": 10.78
+      },
+      {
+        "date": "2024-04-28",
+        "price": 7.19,
+        "unitPrice": 14.38
+      },
+      {
+        "date": "2024-04-26",
+        "price": 5.39,
+        "unitPrice": 10.78
+      },
+      {
+        "date": "2024-04-07",
+        "price": 7.19,
+        "unitPrice": 14.38
+      },
+      {
+        "date": "2024-04-05",
+        "price": 5.39,
+        "unitPrice": 10.78
+      },
+      {
+        "date": "2024-03-10",
+        "price": 7.19,
+        "unitPrice": 14.38
+      },
+      {
+        "date": "2024-03-08",
+        "price": 5.39,
+        "unitPrice": 10.78
+      },
+      {
+        "date": "2024-02-24",
+        "price": 7.19,
+        "unitPrice": 14.38
+      },
+      {
+        "date": "2024-02-16",
+        "price": 5.39,
+        "unitPrice": 10.78
+      },
+      {
+        "date": "2024-01-21",
+        "price": 7.19,
+        "unitPrice": 14.38
+      },
+      {
+        "date": "2024-01-19",
+        "price": 5.39,
+        "unitPrice": 10.78
+      },
+      {
+        "date": "2024-01-06",
+        "price": 7.19,
+        "unitPrice": 14.38
+      },
+      {
+        "date": "2024-01-04",
+        "price": 5.39,
+        "unitPrice": 10.78
+      },
+      {
+        "date": "2023-12-17",
+        "price": 7.19,
+        "unitPrice": 14.38
+      },
+      {
+        "date": "2023-12-11",
+        "price": 5.39,
+        "unitPrice": 10.78
+      },
+      {
+        "date": "2023-11-19",
+        "price": 7.19,
+        "unitPrice": 14.38
+      },
+      {
+        "date": "2023-11-15",
+        "price": 5.39,
+        "unitPrice": 10.78
+      },
+      {
+        "date": "2023-10-25",
+        "price": 7.19,
+        "unitPrice": 14.38
+      },
+      {
+        "date": "2023-10-05",
+        "price": 6.79,
+        "unitPrice": 13.58
+      },
+      {
+        "date": "2023-09-28",
+        "price": 5.09,
+        "unitPrice": 10.18
+      },
+      {
+        "date": "2023-09-24",
+        "price": 7.19,
+        "unitPrice": 14.38
+      },
+      {
+        "date": "2023-09-22",
+        "price": 5.39,
+        "unitPrice": 10.78
+      },
+      {
+        "date": "2023-09-03",
+        "price": 7.19,
+        "unitPrice": 14.38
+      },
+      {
+        "date": "2023-09-01",
+        "price": 5.39,
+        "unitPrice": 10.78
+      },
+      {
+        "date": "2023-08-27",
+        "price": 7.19,
+        "unitPrice": 14.38
+      },
+      {
+        "date": "2023-08-25",
+        "price": 5.39,
+        "unitPrice": 10.78
+      },
+      {
+        "date": "2023-07-19",
+        "price": 7.19,
+        "unitPrice": 14.38
+      },
+      {
+        "date": "2023-07-14",
+        "price": 5.39,
+        "unitPrice": 10.78
+      },
+      {
+        "date": "2023-07-09",
+        "price": 7.19,
+        "unitPrice": 14.38
+      },
+      {
+        "date": "2023-07-07",
+        "price": 5.39,
+        "unitPrice": 10.78
+      },
+      {
+        "date": "2023-06-21",
+        "price": 7.19,
+        "unitPrice": 14.38
+      },
+      {
+        "date": "2023-06-11",
+        "price": 7.29,
+        "unitPrice": 14.58
+      },
+      {
+        "date": "2023-06-07",
+        "price": 5.47,
+        "unitPrice": 10.94
+      },
+      {
+        "date": "2023-06-04",
+        "price": 7.29,
+        "unitPrice": 14.58
+      },
+      {
+        "date": "2023-06-02",
+        "price": 5.47,
+        "unitPrice": 10.94
+      },
+      {
+        "date": "2023-02-07",
+        "price": 7.29,
+        "unitPrice": 14.58
+      },
+      {
+        "date": "2023-02-02",
+        "price": 5.47,
+        "unitPrice": 10.94
+      },
+      {
+        "date": "2023-01-08",
+        "price": 7.29,
+        "unitPrice": 14.58
+      },
+      {
+        "date": "2023-01-05",
+        "price": 5.47,
+        "unitPrice": 10.94
+      },
+      {
+        "date": "2022-12-27",
+        "price": 7.29,
+        "unitPrice": 14.58
+      },
+      {
+        "date": "2022-12-25",
+        "price": 7.19,
+        "unitPrice": 14.38
+      },
+      {
+        "date": "2022-12-18",
+        "price": 6.99,
+        "unitPrice": 13.98
+      },
+      {
+        "date": "2022-12-16",
+        "price": 5.24,
+        "unitPrice": 10.48
+      },
+      {
+        "date": "2022-12-11",
+        "price": 6.99,
+        "unitPrice": 13.98
+      },
+      {
+        "date": "2022-12-07",
+        "price": 5.24,
+        "unitPrice": 10.48
+      },
+      {
+        "date": "2022-09-08",
+        "price": 7.19,
+        "unitPrice": 14.38
+      },
+      {
+        "date": "2022-09-06",
+        "price": 5.39,
+        "unitPrice": 10.78
+      },
+      {
+        "date": "2022-08-12",
+        "price": 7.19,
+        "unitPrice": 14.38
+      },
+      {
+        "date": "2022-08-06",
+        "price": 5.39,
+        "unitPrice": 10.78
+      },
+      {
+        "date": "2022-07-21",
+        "price": 7.19,
+        "unitPrice": 14.38
+      },
+      {
+        "date": "2022-07-15",
+        "price": 5.99,
+        "unitPrice": 11.98
+      },
+      {
+        "date": "2022-07-11",
+        "price": 4.49,
+        "unitPrice": 8.98
+      },
+      {
+        "date": "2022-07-09",
+        "price": 5.99,
+        "unitPrice": 11.98
+      },
+      {
+        "date": "2022-06-26",
+        "price": 7.19,
+        "unitPrice": 14.38
+      },
+      {
+        "date": "2022-06-24",
+        "price": 5.39,
+        "unitPrice": 10.78
+      },
+      {
+        "date": "2022-05-25",
+        "price": 7.19,
+        "unitPrice": 14.38
+      },
+      {
+        "date": "2022-05-23",
+        "price": 5.39,
+        "unitPrice": 10.78
+      },
+      {
+        "date": "2022-05-15",
+        "price": 6.99,
+        "unitPrice": 13.98
+      },
+      {
+        "date": "2022-05-13",
+        "price": 5.24,
+        "unitPrice": 10.48
+      },
+      {
+        "date": "2022-04-24",
+        "price": 6.99,
+        "unitPrice": 13.98
+      },
+      {
+        "date": "2022-04-22",
+        "price": 5.24,
+        "unitPrice": 10.48
+      },
+      {
+        "date": "2022-03-20",
+        "price": 6.99,
+        "unitPrice": 13.98
+      },
+      {
+        "date": "2022-03-18",
+        "price": 5.24,
+        "unitPrice": 10.48
+      },
+      {
+        "date": "2022-02-24",
+        "price": 6.99,
+        "unitPrice": 13.98
+      },
+      {
+        "date": "2022-01-09",
+        "price": 5.99,
+        "unitPrice": 11.98
+      },
+      {
+        "date": "2022-01-07",
+        "price": 4.49,
+        "unitPrice": 8.98
+      },
+      {
+        "date": "2021-12-16",
+        "price": 5.99,
+        "unitPrice": 11.98
+      },
+      {
+        "date": "2021-12-09",
+        "price": 4.49,
+        "unitPrice": 8.98
+      },
+      {
+        "date": "2021-11-11",
+        "price": 5.99,
+        "unitPrice": 11.98
+      },
+      {
+        "date": "2021-10-28",
+        "price": 5.79,
+        "unitPrice": 11.58
+      },
+      {
+        "date": "2021-06-24",
+        "price": 5.99,
+        "unitPrice": 11.98
+      },
+      {
+        "date": "2021-06-10",
+        "price": 5.49,
+        "unitPrice": 10.98
+      },
+      {
+        "date": "2021-03-03",
+        "price": 5.99,
+        "unitPrice": 11.98
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 500,
+    "bio": true,
+    "available": true,
+    "url": "https://shop.billa.at/produkte/ja-natuerlich-kaffee-crema-ganze-bohne-00424921"
+  },
+  {
+    "store": "billa",
+    "id": "00-773379",
+    "name": "Ja! Natürlich Sommerfrisch Crema al Limone Art",
+    "category": "34",
+    "price": 0.89,
+    "priceHistory": [
+      {
+        "date": "2026-04-12",
+        "price": 0.89,
+        "unitPrice": 4.45
+      },
+      {
+        "date": "2026-04-10",
+        "price": 0.67,
+        "unitPrice": 3.35
+      },
+      {
+        "date": "2026-03-01",
+        "price": 0.89,
+        "unitPrice": 4.45
+      },
+      {
+        "date": "2026-02-27",
+        "price": 0.67,
+        "unitPrice": 3.35
+      },
+      {
+        "date": "2025-09-15",
+        "price": 0.89,
+        "unitPrice": 4.45
+      },
+      {
+        "date": "2025-09-08",
+        "price": 0.67,
+        "unitPrice": 3.35
+      },
+      {
+        "date": "2025-08-11",
+        "price": 0.89,
+        "unitPrice": 4.45
+      },
+      {
+        "date": "2025-08-04",
+        "price": 0.67,
+        "unitPrice": 3.35
+      },
+      {
+        "date": "2025-08-03",
+        "price": 0.89,
+        "unitPrice": 4.45
+      },
+      {
+        "date": "2025-08-01",
+        "price": 0.67,
+        "unitPrice": 3.35
+      },
+      {
+        "date": "2025-07-31",
+        "price": 0.89,
+        "unitPrice": 4.45
+      },
+      {
+        "date": "2025-07-07",
+        "price": 0.85,
+        "unitPrice": 4.25
+      },
+      {
+        "date": "2025-07-04",
+        "price": 0.64,
+        "unitPrice": 3.2
+      },
+      {
+        "date": "2025-06-30",
+        "price": 0.59,
+        "unitPrice": 2.9499999999999997
+      },
+      {
+        "date": "2025-05-11",
+        "price": 0.79,
+        "unitPrice": 3.95
+      },
+      {
+        "date": "2025-05-09",
+        "price": 0.59,
+        "unitPrice": 2.9499999999999997
+      },
+      {
+        "date": "2025-04-29",
+        "price": 0.79,
+        "unitPrice": 3.95
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 200,
+    "bio": true,
+    "available": true,
+    "url": "https://shop.billa.at/produkte/ja-natuerlich-sommerfrisch-crema-al-limone-art-00773379"
+  },
+  {
+    "store": "mpreis",
+    "id": "241655",
+    "name": "Jeden Tag Caffe Crema Bohne",
+    "category": "22",
+    "price": 9.99,
+    "priceHistory": [
+      {
+        "date": "2023-05-26",
+        "price": 9.99,
+        "unitPrice": 9.99
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": false,
+    "available": false,
+    "url": "https://www.mpreis.at/shop/p/241655"
+  },
+  {
+    "store": "mpreis",
+    "id": "200217",
+    "name": "Jeden Tag Kaffeepads Crema 20er",
+    "category": "22",
+    "price": 1.99,
+    "priceHistory": [
+      {
+        "date": "2023-06-26",
+        "price": 1.99,
+        "unitPrice": 14.214285714285714
+      },
+      {
+        "date": "2023-05-26",
+        "price": 1.89,
+        "unitPrice": 13.5
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 140,
+    "bio": false,
+    "available": false,
+    "url": "https://www.mpreis.at/shop/p/200217"
+  },
+  {
+    "store": "spar",
+    "id": "7868054",
+    "name": "S-BUDGET Caffè Crema ganze Bohne",
+    "category": "22",
+    "price": 12.99,
+    "priceHistory": [
+      {
+        "date": "2026-02-25",
+        "price": 12.99,
+        "unitPrice": 12.99
+      },
+      {
+        "date": "2025-10-30",
+        "price": 11.99,
+        "unitPrice": 11.99
+      },
+      {
+        "date": "2025-06-10",
+        "price": 12.99,
+        "unitPrice": 12.99
+      },
+      {
+        "date": "2025-05-27",
+        "price": 14.99,
+        "unitPrice": 14.99
+      },
+      {
+        "date": "2025-05-14",
+        "price": 12.99,
+        "unitPrice": 12.99
+      },
+      {
+        "date": "2024-07-23",
+        "price": 9.99,
+        "unitPrice": 9.99
+      },
+      {
+        "date": "2024-01-30",
+        "price": 8.99,
+        "unitPrice": 8.99
+      },
+      {
+        "date": "2023-11-14",
+        "price": 9.99,
+        "unitPrice": 9.99
+      },
+      {
+        "date": "2023-10-05",
+        "price": 7.99,
+        "unitPrice": 7.99
+      },
+      {
+        "date": "2023-04-14",
+        "price": 9.99,
+        "unitPrice": 9.99
+      },
+      {
+        "date": "2023-02-08",
+        "price": 8.99,
+        "unitPrice": 8.99
+      },
+      {
+        "date": "2023-01-24",
+        "price": 9.99,
+        "unitPrice": 9.99
+      },
+      {
+        "date": "2022-11-03",
+        "price": 8.99,
+        "unitPrice": 8.99
+      },
+      {
+        "date": "2022-03-02",
+        "price": 7.99,
+        "unitPrice": 7.99
+      },
+      {
+        "date": "2021-12-01",
+        "price": 6.98,
+        "unitPrice": 6.98
+      },
+      {
+        "date": "2021-09-29",
+        "price": 6.49,
+        "unitPrice": 6.49
+      },
+      {
+        "date": "2020-06-03",
+        "price": 5.98,
+        "unitPrice": 5.98
+      },
+      {
+        "date": "2019-11-01",
+        "price": 6.58,
+        "unitPrice": 6.58
+      },
+      {
+        "date": "2018-03-06",
+        "price": 6.98,
+        "unitPrice": 6.98
+      },
+      {
+        "date": "2017-04-20",
+        "price": 6.58,
+        "unitPrice": 6.58
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": false,
+    "available": true,
+    "url": "https://www.interspar.at/shop/lebensmittel/p/7868054"
+  },
+  {
+    "store": "spar",
+    "id": "2020002620028",
+    "name": "S-BUDGET Caffè Crema ganze Bohne",
+    "category": "22",
+    "price": 5.99,
+    "priceHistory": [
+      {
+        "date": "2026-02-25",
+        "price": 5.99,
+        "unitPrice": 11.98
+      },
+      {
+        "date": "2025-10-30",
+        "price": 5.49,
+        "unitPrice": 10.98
+      },
+      {
+        "date": "2025-10-07",
+        "price": 6.49,
+        "unitPrice": 12.98
+      },
+      {
+        "date": "2025-06-10",
+        "price": 5.99,
+        "unitPrice": 11.98
+      },
+      {
+        "date": "2025-05-27",
+        "price": 7.99,
+        "unitPrice": 15.98
+      },
+      {
+        "date": "2025-05-14",
+        "price": 5.99,
+        "unitPrice": 11.98
+      },
+      {
+        "date": "2024-07-23",
+        "price": 5.49,
+        "unitPrice": 10.98
+      },
+      {
+        "date": "2024-01-30",
+        "price": 4.99,
+        "unitPrice": 9.98
+      },
+      {
+        "date": "2023-11-14",
+        "price": 5.49,
+        "unitPrice": 10.98
+      },
+      {
+        "date": "2023-04-14",
+        "price": 4.99,
+        "unitPrice": 9.98
+      },
+      {
+        "date": "2023-02-08",
+        "price": 4.49,
+        "unitPrice": 8.98
+      },
+      {
+        "date": "2023-01-24",
+        "price": 4.99,
+        "unitPrice": 9.98
+      },
+      {
+        "date": "2022-11-03",
+        "price": 4.49,
+        "unitPrice": 8.98
+      },
+      {
+        "date": "2022-03-02",
+        "price": 3.99,
+        "unitPrice": 7.980000000000001
+      },
+      {
+        "date": "2022-02-02",
+        "price": 3.79,
+        "unitPrice": 7.58
+      },
+      {
+        "date": "2021-12-01",
+        "price": 3.49,
+        "unitPrice": 6.98
+      },
+      {
+        "date": "2021-08-24",
+        "price": 3.29,
+        "unitPrice": 6.58
+      },
+      {
+        "date": "2019-08-22",
+        "price": 3.49,
+        "unitPrice": 6.98
+      },
+      {
+        "date": "2018-10-19",
+        "price": 3.89,
+        "unitPrice": 7.78
+      },
+      {
+        "date": "2018-10-03",
+        "price": 2.99,
+        "unitPrice": 5.98
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 500,
+    "bio": false,
+    "available": true,
+    "url": "https://www.interspar.at/shop/lebensmittel/p/2020002620028"
+  },
+  {
+    "store": "unimarkt",
+    "id": "92330",
+    "name": "Jeden Tag Caffé Crema Bohne",
+    "category": "22",
+    "price": 10.99,
+    "priceHistory": [
+      {
+        "date": "2023-11-27",
+        "price": 10.99,
+        "unitPrice": 10.99
+      },
+      {
+        "date": "2023-10-16",
+        "price": 9.89,
+        "unitPrice": 9.89
+      },
+      {
+        "date": "2023-06-22",
+        "price": 10.99,
+        "unitPrice": 10.99
+      },
+      {
+        "date": "2023-05-29",
+        "price": 9.99,
+        "unitPrice": 9.99
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": false,
+    "available": false,
+    "url": "https://shop.unimarkt.at//Jeden-Tag-Caff%C3%A9-Crema-Bohne-92330"
+  }
+]

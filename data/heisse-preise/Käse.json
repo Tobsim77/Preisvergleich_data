@@ -1,0 +1,2537 @@
+[
+  {
+    "store": "billa",
+    "id": "00-868682",
+    "name": "Clever Back-Mozzarella Sticks",
+    "category": "32",
+    "price": 2.79,
+    "priceHistory": [
+      {
+        "date": "2026-04-12",
+        "price": 2.79,
+        "unitPrice": 9.3
+      },
+      {
+        "date": "2026-04-10",
+        "price": 2.65,
+        "unitPrice": 8.833333333333334
+      },
+      {
+        "date": "2026-03-15",
+        "price": 2.79,
+        "unitPrice": 9.3
+      },
+      {
+        "date": "2026-03-13",
+        "price": 2.65,
+        "unitPrice": 8.833333333333334
+      },
+      {
+        "date": "2025-10-29",
+        "price": 2.79,
+        "unitPrice": 9.3
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 300,
+    "bio": false,
+    "available": true,
+    "url": "https://shop.billa.at/produkte/clever-backmozzarella-sticks-00868682"
+  },
+  {
+    "store": "billa",
+    "id": "00-282168",
+    "name": "Clever Mozzarella",
+    "category": "32",
+    "price": 0.79,
+    "priceHistory": [
+      {
+        "date": "2026-04-12",
+        "price": 0.79,
+        "unitPrice": 6.32
+      },
+      {
+        "date": "2026-04-10",
+        "price": 0.75,
+        "unitPrice": 6
+      },
+      {
+        "date": "2026-03-15",
+        "price": 0.79,
+        "unitPrice": 6.32
+      },
+      {
+        "date": "2026-03-13",
+        "price": 0.75,
+        "unitPrice": 6
+      },
+      {
+        "date": "2026-02-24",
+        "price": 0.79,
+        "unitPrice": 6.32
+      },
+      {
+        "date": "2025-12-04",
+        "price": 0.99,
+        "unitPrice": 7.92
+      },
+      {
+        "date": "2025-11-27",
+        "price": 0.89,
+        "unitPrice": 7.12
+      },
+      {
+        "date": "2024-01-11",
+        "price": 0.99,
+        "unitPrice": 7.92
+      },
+      {
+        "date": "2024-01-09",
+        "price": 0.74,
+        "unitPrice": 5.92
+      },
+      {
+        "date": "2023-11-03",
+        "price": 0.99,
+        "unitPrice": 7.92
+      },
+      {
+        "date": "2023-10-05",
+        "price": 0.89,
+        "unitPrice": 7.12
+      },
+      {
+        "date": "2022-11-09",
+        "price": 0.99,
+        "unitPrice": 7.92
+      },
+      {
+        "date": "2022-09-06",
+        "price": 0.89,
+        "unitPrice": 7.12
+      },
+      {
+        "date": "2022-06-02",
+        "price": 0.79,
+        "unitPrice": 6.32
+      },
+      {
+        "date": "2022-03-03",
+        "price": 0.69,
+        "unitPrice": 5.52
+      },
+      {
+        "date": "2021-10-22",
+        "price": 0.65,
+        "unitPrice": 5.2
+      },
+      {
+        "date": "2021-04-07",
+        "price": 0.59,
+        "unitPrice": 4.72
+      },
+      {
+        "date": "2019-10-10",
+        "price": 0.65,
+        "unitPrice": 5.2
+      },
+      {
+        "date": "2019-03-27",
+        "price": 0.75,
+        "unitPrice": 6
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 125,
+    "bio": false,
+    "available": true,
+    "url": "https://shop.billa.at/produkte/clever-mozzarella-00282168"
+  },
+  {
+    "store": "billa",
+    "id": "00-282175",
+    "name": "Clever Mozzarella Light",
+    "category": "32",
+    "price": 0.79,
+    "priceHistory": [
+      {
+        "date": "2026-04-12",
+        "price": 0.79,
+        "unitPrice": 6.32
+      },
+      {
+        "date": "2026-04-10",
+        "price": 0.75,
+        "unitPrice": 6
+      },
+      {
+        "date": "2026-03-15",
+        "price": 0.79,
+        "unitPrice": 6.32
+      },
+      {
+        "date": "2026-03-13",
+        "price": 0.75,
+        "unitPrice": 6
+      },
+      {
+        "date": "2026-02-24",
+        "price": 0.79,
+        "unitPrice": 6.32
+      },
+      {
+        "date": "2025-12-04",
+        "price": 0.99,
+        "unitPrice": 7.92
+      },
+      {
+        "date": "2025-11-27",
+        "price": 0.89,
+        "unitPrice": 7.12
+      },
+      {
+        "date": "2024-01-11",
+        "price": 0.99,
+        "unitPrice": 7.92
+      },
+      {
+        "date": "2024-01-09",
+        "price": 0.74,
+        "unitPrice": 5.92
+      },
+      {
+        "date": "2023-11-03",
+        "price": 0.99,
+        "unitPrice": 7.92
+      },
+      {
+        "date": "2023-10-05",
+        "price": 0.89,
+        "unitPrice": 7.12
+      },
+      {
+        "date": "2022-11-09",
+        "price": 0.99,
+        "unitPrice": 7.92
+      },
+      {
+        "date": "2022-09-06",
+        "price": 0.89,
+        "unitPrice": 7.12
+      },
+      {
+        "date": "2022-06-02",
+        "price": 0.79,
+        "unitPrice": 6.32
+      },
+      {
+        "date": "2022-03-03",
+        "price": 0.69,
+        "unitPrice": 5.52
+      },
+      {
+        "date": "2021-10-22",
+        "price": 0.65,
+        "unitPrice": 5.2
+      },
+      {
+        "date": "2021-04-07",
+        "price": 0.59,
+        "unitPrice": 4.72
+      },
+      {
+        "date": "2019-10-10",
+        "price": 0.65,
+        "unitPrice": 5.2
+      },
+      {
+        "date": "2019-03-27",
+        "price": 0.75,
+        "unitPrice": 6
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 125,
+    "bio": false,
+    "available": true,
+    "url": "https://shop.billa.at/produkte/clever-mozzarella-light-00282175"
+  },
+  {
+    "store": "billa",
+    "id": "00-715882",
+    "name": "Clever Mozzarella Mini Light",
+    "category": "32",
+    "price": 1.29,
+    "priceHistory": [
+      {
+        "date": "2026-04-12",
+        "price": 1.29,
+        "unitPrice": 10.32
+      },
+      {
+        "date": "2026-04-10",
+        "price": 1.23,
+        "unitPrice": 9.84
+      },
+      {
+        "date": "2026-03-15",
+        "price": 1.29,
+        "unitPrice": 10.32
+      },
+      {
+        "date": "2026-03-13",
+        "price": 1.23,
+        "unitPrice": 9.84
+      },
+      {
+        "date": "2024-01-11",
+        "price": 1.29,
+        "unitPrice": 10.32
+      },
+      {
+        "date": "2024-01-10",
+        "price": 0.97,
+        "unitPrice": 7.76
+      },
+      {
+        "date": "2023-12-05",
+        "price": 1.29,
+        "unitPrice": 10.32
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 125,
+    "bio": false,
+    "available": true,
+    "url": "https://shop.billa.at/produkte/clever-mozzarella-mini-light-00715882"
+  },
+  {
+    "store": "billa",
+    "id": "00-449768",
+    "name": "Clever Mozzarella Minis",
+    "category": "32",
+    "price": 1.29,
+    "priceHistory": [
+      {
+        "date": "2026-04-12",
+        "price": 1.29,
+        "unitPrice": 10.32
+      },
+      {
+        "date": "2026-04-10",
+        "price": 1.23,
+        "unitPrice": 9.84
+      },
+      {
+        "date": "2026-03-15",
+        "price": 1.29,
+        "unitPrice": 10.32
+      },
+      {
+        "date": "2026-03-13",
+        "price": 1.23,
+        "unitPrice": 9.84
+      },
+      {
+        "date": "2023-10-21",
+        "price": 1.29,
+        "unitPrice": 10.32
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 125,
+    "bio": false,
+    "available": true,
+    "url": "https://shop.billa.at/produkte/clever-mozzarella-minis-00449768"
+  },
+  {
+    "store": "billa",
+    "id": "00-313942",
+    "name": "Clever Mozzarella gerieben",
+    "category": "32",
+    "price": 1.99,
+    "priceHistory": [
+      {
+        "date": "2026-04-12",
+        "price": 1.99,
+        "unitPrice": 7.96
+      },
+      {
+        "date": "2026-04-10",
+        "price": 1.89,
+        "unitPrice": 7.56
+      },
+      {
+        "date": "2026-03-15",
+        "price": 1.99,
+        "unitPrice": 7.96
+      },
+      {
+        "date": "2026-03-13",
+        "price": 1.89,
+        "unitPrice": 7.56
+      },
+      {
+        "date": "2025-07-23",
+        "price": 1.99,
+        "unitPrice": 7.96
+      },
+      {
+        "date": "2025-05-08",
+        "price": 2.29,
+        "unitPrice": 9.16
+      },
+      {
+        "date": "2025-04-11",
+        "price": 2.19,
+        "unitPrice": 8.76
+      },
+      {
+        "date": "2024-12-30",
+        "price": 1.99,
+        "unitPrice": 7.96
+      },
+      {
+        "date": "2024-09-11",
+        "price": 2.39,
+        "unitPrice": 9.56
+      },
+      {
+        "date": "2023-11-03",
+        "price": 2.29,
+        "unitPrice": 9.16
+      },
+      {
+        "date": "2023-10-05",
+        "price": 1.99,
+        "unitPrice": 7.96
+      },
+      {
+        "date": "2023-05-26",
+        "price": 2.29,
+        "unitPrice": 9.16
+      },
+      {
+        "date": "2023-01-12",
+        "price": 2.49,
+        "unitPrice": 9.96
+      },
+      {
+        "date": "2022-12-14",
+        "price": 2.19,
+        "unitPrice": 8.76
+      },
+      {
+        "date": "2022-11-17",
+        "price": 1.99,
+        "unitPrice": 7.96
+      },
+      {
+        "date": "2022-09-22",
+        "price": 2.19,
+        "unitPrice": 8.76
+      },
+      {
+        "date": "2022-06-17",
+        "price": 1.99,
+        "unitPrice": 7.96
+      },
+      {
+        "date": "2022-05-05",
+        "price": 1.85,
+        "unitPrice": 7.4
+      },
+      {
+        "date": "2022-03-14",
+        "price": 1.89,
+        "unitPrice": 7.56
+      },
+      {
+        "date": "2021-10-22",
+        "price": 1.79,
+        "unitPrice": 7.16
+      },
+      {
+        "date": "2021-05-06",
+        "price": 1.49,
+        "unitPrice": 5.96
+      },
+      {
+        "date": "2021-01-14",
+        "price": 1.79,
+        "unitPrice": 7.16
+      },
+      {
+        "date": "2020-09-24",
+        "price": 1.59,
+        "unitPrice": 6.36
+      },
+      {
+        "date": "2020-04-15",
+        "price": 1.79,
+        "unitPrice": 7.16
+      },
+      {
+        "date": "2020-01-30",
+        "price": 1.95,
+        "unitPrice": 7.8
+      },
+      {
+        "date": "2020-01-16",
+        "price": 1.69,
+        "unitPrice": 6.76
+      },
+      {
+        "date": "2020-01-09",
+        "price": 1.68,
+        "unitPrice": 6.72
+      },
+      {
+        "date": "2019-10-02",
+        "price": 1.89,
+        "unitPrice": 7.56
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 250,
+    "bio": false,
+    "available": true,
+    "url": "https://shop.billa.at/produkte/clever-mozzarella-gerieben-00313942"
+  },
+  {
+    "store": "billa",
+    "id": "00-946692",
+    "name": "Ja! Natürlich Mozzarella",
+    "category": "32",
+    "price": 1.49,
+    "priceHistory": [
+      {
+        "date": "2026-04-12",
+        "price": 1.49,
+        "unitPrice": 11.92
+      },
+      {
+        "date": "2026-04-10",
+        "price": 1.12,
+        "unitPrice": 8.96
+      },
+      {
+        "date": "2026-03-01",
+        "price": 1.49,
+        "unitPrice": 11.92
+      },
+      {
+        "date": "2026-02-27",
+        "price": 1.12,
+        "unitPrice": 8.96
+      },
+      {
+        "date": "2026-02-17",
+        "price": 1.49,
+        "unitPrice": 11.92
+      },
+      {
+        "date": "2026-01-29",
+        "price": 1.65,
+        "unitPrice": 13.2
+      },
+      {
+        "date": "2026-01-18",
+        "price": 1.29,
+        "unitPrice": 10.32
+      },
+      {
+        "date": "2025-09-15",
+        "price": 1.65,
+        "unitPrice": 13.2
+      },
+      {
+        "date": "2025-09-08",
+        "price": 1.24,
+        "unitPrice": 9.92
+      },
+      {
+        "date": "2025-08-11",
+        "price": 1.65,
+        "unitPrice": 13.2
+      },
+      {
+        "date": "2025-08-04",
+        "price": 1.24,
+        "unitPrice": 9.92
+      },
+      {
+        "date": "2025-08-03",
+        "price": 1.65,
+        "unitPrice": 13.2
+      },
+      {
+        "date": "2025-08-01",
+        "price": 1.24,
+        "unitPrice": 9.92
+      },
+      {
+        "date": "2025-07-07",
+        "price": 1.65,
+        "unitPrice": 13.2
+      },
+      {
+        "date": "2025-06-30",
+        "price": 1.24,
+        "unitPrice": 9.92
+      },
+      {
+        "date": "2025-05-11",
+        "price": 1.65,
+        "unitPrice": 13.2
+      },
+      {
+        "date": "2025-05-09",
+        "price": 1.24,
+        "unitPrice": 9.92
+      },
+      {
+        "date": "2025-04-21",
+        "price": 1.65,
+        "unitPrice": 13.2
+      },
+      {
+        "date": "2025-04-13",
+        "price": 1.24,
+        "unitPrice": 9.92
+      },
+      {
+        "date": "2025-03-27",
+        "price": 1.65,
+        "unitPrice": 13.2
+      },
+      {
+        "date": "2025-03-13",
+        "price": 1.29,
+        "unitPrice": 10.32
+      },
+      {
+        "date": "2025-03-03",
+        "price": 1.65,
+        "unitPrice": 13.2
+      },
+      {
+        "date": "2025-02-24",
+        "price": 1.24,
+        "unitPrice": 9.92
+      },
+      {
+        "date": "2025-02-02",
+        "price": 1.65,
+        "unitPrice": 13.2
+      },
+      {
+        "date": "2025-01-31",
+        "price": 1.24,
+        "unitPrice": 9.92
+      },
+      {
+        "date": "2025-01-30",
+        "price": 1.65,
+        "unitPrice": 13.2
+      },
+      {
+        "date": "2025-01-16",
+        "price": 1.29,
+        "unitPrice": 10.32
+      },
+      {
+        "date": "2025-01-05",
+        "price": 1.59,
+        "unitPrice": 12.72
+      },
+      {
+        "date": "2025-01-03",
+        "price": 1.19,
+        "unitPrice": 9.52
+      },
+      {
+        "date": "2024-12-13",
+        "price": 1.59,
+        "unitPrice": 12.72
+      },
+      {
+        "date": "2024-12-08",
+        "price": 1.19,
+        "unitPrice": 9.52
+      },
+      {
+        "date": "2024-11-03",
+        "price": 1.59,
+        "unitPrice": 12.72
+      },
+      {
+        "date": "2024-10-31",
+        "price": 1.19,
+        "unitPrice": 9.52
+      },
+      {
+        "date": "2024-10-22",
+        "price": 1.59,
+        "unitPrice": 12.72
+      },
+      {
+        "date": "2024-10-17",
+        "price": 1.19,
+        "unitPrice": 9.52
+      },
+      {
+        "date": "2024-09-09",
+        "price": 1.59,
+        "unitPrice": 12.72
+      },
+      {
+        "date": "2024-09-02",
+        "price": 1.19,
+        "unitPrice": 9.52
+      },
+      {
+        "date": "2024-08-14",
+        "price": 1.59,
+        "unitPrice": 12.72
+      },
+      {
+        "date": "2024-08-12",
+        "price": 1.29,
+        "unitPrice": 10.32
+      },
+      {
+        "date": "2024-08-05",
+        "price": 0.97,
+        "unitPrice": 7.76
+      },
+      {
+        "date": "2024-08-01",
+        "price": 1.29,
+        "unitPrice": 10.32
+      },
+      {
+        "date": "2024-07-05",
+        "price": 1.59,
+        "unitPrice": 12.72
+      },
+      {
+        "date": "2024-06-28",
+        "price": 1.19,
+        "unitPrice": 9.52
+      },
+      {
+        "date": "2024-06-20",
+        "price": 1.59,
+        "unitPrice": 12.72
+      },
+      {
+        "date": "2024-06-14",
+        "price": 1.29,
+        "unitPrice": 10.32
+      },
+      {
+        "date": "2024-06-07",
+        "price": 0.97,
+        "unitPrice": 7.76
+      },
+      {
+        "date": "2024-06-06",
+        "price": 1.29,
+        "unitPrice": 10.32
+      },
+      {
+        "date": "2024-04-28",
+        "price": 1.59,
+        "unitPrice": 12.72
+      },
+      {
+        "date": "2024-04-26",
+        "price": 1.19,
+        "unitPrice": 9.52
+      },
+      {
+        "date": "2024-04-25",
+        "price": 1.59,
+        "unitPrice": 12.72
+      },
+      {
+        "date": "2024-04-11",
+        "price": 1.29,
+        "unitPrice": 10.32
+      },
+      {
+        "date": "2024-02-24",
+        "price": 1.59,
+        "unitPrice": 12.72
+      },
+      {
+        "date": "2024-02-16",
+        "price": 1.19,
+        "unitPrice": 9.52
+      },
+      {
+        "date": "2024-02-01",
+        "price": 1.59,
+        "unitPrice": 12.72
+      },
+      {
+        "date": "2024-01-18",
+        "price": 1.39,
+        "unitPrice": 11.12
+      },
+      {
+        "date": "2024-01-06",
+        "price": 1.59,
+        "unitPrice": 12.72
+      },
+      {
+        "date": "2024-01-04",
+        "price": 1.19,
+        "unitPrice": 9.52
+      },
+      {
+        "date": "2023-12-15",
+        "price": 1.59,
+        "unitPrice": 12.72
+      },
+      {
+        "date": "2023-12-11",
+        "price": 1.19,
+        "unitPrice": 9.52
+      },
+      {
+        "date": "2023-11-19",
+        "price": 1.59,
+        "unitPrice": 12.72
+      },
+      {
+        "date": "2023-11-15",
+        "price": 1.19,
+        "unitPrice": 9.52
+      },
+      {
+        "date": "2023-10-05",
+        "price": 1.59,
+        "unitPrice": 12.72
+      },
+      {
+        "date": "2023-09-28",
+        "price": 1.19,
+        "unitPrice": 9.52
+      },
+      {
+        "date": "2023-08-27",
+        "price": 1.59,
+        "unitPrice": 12.72
+      },
+      {
+        "date": "2023-08-25",
+        "price": 1.19,
+        "unitPrice": 9.52
+      },
+      {
+        "date": "2023-08-17",
+        "price": 1.59,
+        "unitPrice": 12.72
+      },
+      {
+        "date": "2023-08-03",
+        "price": 1.39,
+        "unitPrice": 11.12
+      },
+      {
+        "date": "2023-07-19",
+        "price": 1.59,
+        "unitPrice": 12.72
+      },
+      {
+        "date": "2023-07-14",
+        "price": 1.19,
+        "unitPrice": 9.52
+      },
+      {
+        "date": "2023-06-22",
+        "price": 1.59,
+        "unitPrice": 12.72
+      },
+      {
+        "date": "2023-06-11",
+        "price": 1.29,
+        "unitPrice": 10.32
+      },
+      {
+        "date": "2023-06-07",
+        "price": 0.97,
+        "unitPrice": 7.76
+      },
+      {
+        "date": "2023-02-07",
+        "price": 1.65,
+        "unitPrice": 13.2
+      },
+      {
+        "date": "2023-02-02",
+        "price": 1.24,
+        "unitPrice": 9.92
+      },
+      {
+        "date": "2023-01-19",
+        "price": 1.19,
+        "unitPrice": 9.52
+      },
+      {
+        "date": "2023-01-08",
+        "price": 1.65,
+        "unitPrice": 13.2
+      },
+      {
+        "date": "2023-01-05",
+        "price": 1.24,
+        "unitPrice": 9.92
+      },
+      {
+        "date": "2022-12-18",
+        "price": 1.65,
+        "unitPrice": 13.2
+      },
+      {
+        "date": "2022-12-16",
+        "price": 1.24,
+        "unitPrice": 9.92
+      },
+      {
+        "date": "2022-11-06",
+        "price": 1.65,
+        "unitPrice": 13.2
+      },
+      {
+        "date": "2022-11-04",
+        "price": 1.24,
+        "unitPrice": 9.92
+      },
+      {
+        "date": "2022-10-27",
+        "price": 1.65,
+        "unitPrice": 13.2
+      },
+      {
+        "date": "2022-09-08",
+        "price": 1.39,
+        "unitPrice": 11.12
+      },
+      {
+        "date": "2022-09-05",
+        "price": 1.04,
+        "unitPrice": 8.32
+      },
+      {
+        "date": "2022-08-18",
+        "price": 1.39,
+        "unitPrice": 11.12
+      },
+      {
+        "date": "2022-07-21",
+        "price": 0.99,
+        "unitPrice": 7.92
+      },
+      {
+        "date": "2022-07-14",
+        "price": 1.39,
+        "unitPrice": 11.12
+      },
+      {
+        "date": "2022-07-11",
+        "price": 1.04,
+        "unitPrice": 8.32
+      },
+      {
+        "date": "2022-06-07",
+        "price": 1.39,
+        "unitPrice": 11.12
+      },
+      {
+        "date": "2022-05-25",
+        "price": 1.29,
+        "unitPrice": 10.32
+      },
+      {
+        "date": "2022-05-23",
+        "price": 0.97,
+        "unitPrice": 7.76
+      },
+      {
+        "date": "2022-03-31",
+        "price": 1.29,
+        "unitPrice": 10.32
+      },
+      {
+        "date": "2022-03-24",
+        "price": 0.79,
+        "unitPrice": 6.32
+      },
+      {
+        "date": "2022-03-06",
+        "price": 1.29,
+        "unitPrice": 10.32
+      },
+      {
+        "date": "2022-03-04",
+        "price": 0.97,
+        "unitPrice": 7.76
+      },
+      {
+        "date": "2022-01-30",
+        "price": 1.29,
+        "unitPrice": 10.32
+      },
+      {
+        "date": "2022-01-28",
+        "price": 0.97,
+        "unitPrice": 7.76
+      },
+      {
+        "date": "2022-01-20",
+        "price": 1.29,
+        "unitPrice": 10.32
+      },
+      {
+        "date": "2022-01-09",
+        "price": 0.99,
+        "unitPrice": 7.92
+      },
+      {
+        "date": "2022-01-07",
+        "price": 0.74,
+        "unitPrice": 5.92
+      },
+      {
+        "date": "2022-01-03",
+        "price": 0.99,
+        "unitPrice": 7.92
+      },
+      {
+        "date": "2021-06-10",
+        "price": 1.29,
+        "unitPrice": 10.32
+      },
+      {
+        "date": "2021-05-12",
+        "price": 0.99,
+        "unitPrice": 7.92
+      },
+      {
+        "date": "2021-05-04",
+        "price": 1.29,
+        "unitPrice": 10.32
+      },
+      {
+        "date": "2021-04-07",
+        "price": 0.99,
+        "unitPrice": 7.92
+      },
+      {
+        "date": "2020-09-10",
+        "price": 1.29,
+        "unitPrice": 10.32
+      },
+      {
+        "date": "2020-08-27",
+        "price": 0.99,
+        "unitPrice": 7.92
+      },
+      {
+        "date": "2020-07-30",
+        "price": 1.29,
+        "unitPrice": 10.32
+      },
+      {
+        "date": "2020-07-16",
+        "price": 1.19,
+        "unitPrice": 9.52
+      },
+      {
+        "date": "2020-06-04",
+        "price": 1.29,
+        "unitPrice": 10.32
+      },
+      {
+        "date": "2020-05-07",
+        "price": 0.99,
+        "unitPrice": 7.92
+      },
+      {
+        "date": "2020-04-23",
+        "price": 1.29,
+        "unitPrice": 10.32
+      },
+      {
+        "date": "2020-04-09",
+        "price": 0.99,
+        "unitPrice": 7.92
+      },
+      {
+        "date": "2020-01-30",
+        "price": 1.29,
+        "unitPrice": 10.32
+      },
+      {
+        "date": "2020-01-09",
+        "price": 1.23,
+        "unitPrice": 9.84
+      },
+      {
+        "date": "2019-10-24",
+        "price": 1.29,
+        "unitPrice": 10.32
+      },
+      {
+        "date": "2019-09-05",
+        "price": 1.23,
+        "unitPrice": 9.84
+      },
+      {
+        "date": "2019-05-16",
+        "price": 0.99,
+        "unitPrice": 7.92
+      },
+      {
+        "date": "2019-04-18",
+        "price": 1.23,
+        "unitPrice": 9.84
+      },
+      {
+        "date": "2019-03-21",
+        "price": 0.99,
+        "unitPrice": 7.92
+      },
+      {
+        "date": "2018-11-22",
+        "price": 1.23,
+        "unitPrice": 9.84
+      },
+      {
+        "date": "2018-10-11",
+        "price": 1.25,
+        "unitPrice": 10
+      },
+      {
+        "date": "2018-09-19",
+        "price": 1.19,
+        "unitPrice": 9.52
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 125,
+    "bio": true,
+    "available": true,
+    "url": "https://shop.billa.at/produkte/ja-natuerlich-mozzarella-00946692"
+  },
+  {
+    "store": "billa",
+    "id": "00-295917",
+    "name": "Ja! Natürlich Mozzarella Minis",
+    "category": "32",
+    "price": 1.99,
+    "priceHistory": [
+      {
+        "date": "2026-04-12",
+        "price": 1.99,
+        "unitPrice": 15.92
+      },
+      {
+        "date": "2026-04-10",
+        "price": 1.49,
+        "unitPrice": 11.92
+      },
+      {
+        "date": "2026-04-06",
+        "price": 1.99,
+        "unitPrice": 15.92
+      },
+      {
+        "date": "2026-04-04",
+        "price": 1.39,
+        "unitPrice": 11.12
+      },
+      {
+        "date": "2026-03-01",
+        "price": 1.99,
+        "unitPrice": 15.92
+      },
+      {
+        "date": "2026-02-27",
+        "price": 1.49,
+        "unitPrice": 11.92
+      },
+      {
+        "date": "2025-09-15",
+        "price": 1.99,
+        "unitPrice": 15.92
+      },
+      {
+        "date": "2025-09-08",
+        "price": 1.49,
+        "unitPrice": 11.92
+      },
+      {
+        "date": "2025-08-11",
+        "price": 1.99,
+        "unitPrice": 15.92
+      },
+      {
+        "date": "2025-08-04",
+        "price": 1.49,
+        "unitPrice": 11.92
+      },
+      {
+        "date": "2025-08-03",
+        "price": 1.99,
+        "unitPrice": 15.92
+      },
+      {
+        "date": "2025-08-01",
+        "price": 1.49,
+        "unitPrice": 11.92
+      },
+      {
+        "date": "2025-07-07",
+        "price": 1.99,
+        "unitPrice": 15.92
+      },
+      {
+        "date": "2025-06-30",
+        "price": 1.49,
+        "unitPrice": 11.92
+      },
+      {
+        "date": "2025-05-11",
+        "price": 1.99,
+        "unitPrice": 15.92
+      },
+      {
+        "date": "2025-05-09",
+        "price": 1.49,
+        "unitPrice": 11.92
+      },
+      {
+        "date": "2025-04-21",
+        "price": 1.99,
+        "unitPrice": 15.92
+      },
+      {
+        "date": "2025-04-13",
+        "price": 1.49,
+        "unitPrice": 11.92
+      },
+      {
+        "date": "2025-03-03",
+        "price": 1.99,
+        "unitPrice": 15.92
+      },
+      {
+        "date": "2025-02-24",
+        "price": 1.49,
+        "unitPrice": 11.92
+      },
+      {
+        "date": "2025-02-02",
+        "price": 1.99,
+        "unitPrice": 15.92
+      },
+      {
+        "date": "2025-01-31",
+        "price": 1.49,
+        "unitPrice": 11.92
+      },
+      {
+        "date": "2025-01-05",
+        "price": 1.99,
+        "unitPrice": 15.92
+      },
+      {
+        "date": "2025-01-03",
+        "price": 1.49,
+        "unitPrice": 11.92
+      },
+      {
+        "date": "2024-12-13",
+        "price": 1.99,
+        "unitPrice": 15.92
+      },
+      {
+        "date": "2024-12-08",
+        "price": 1.49,
+        "unitPrice": 11.92
+      },
+      {
+        "date": "2024-11-03",
+        "price": 1.99,
+        "unitPrice": 15.92
+      },
+      {
+        "date": "2024-10-31",
+        "price": 1.49,
+        "unitPrice": 11.92
+      },
+      {
+        "date": "2024-10-22",
+        "price": 1.99,
+        "unitPrice": 15.92
+      },
+      {
+        "date": "2024-10-17",
+        "price": 1.49,
+        "unitPrice": 11.92
+      },
+      {
+        "date": "2024-09-09",
+        "price": 1.99,
+        "unitPrice": 15.92
+      },
+      {
+        "date": "2024-09-02",
+        "price": 1.49,
+        "unitPrice": 11.92
+      },
+      {
+        "date": "2024-08-12",
+        "price": 1.99,
+        "unitPrice": 15.92
+      },
+      {
+        "date": "2024-08-05",
+        "price": 1.49,
+        "unitPrice": 11.92
+      },
+      {
+        "date": "2024-07-05",
+        "price": 1.99,
+        "unitPrice": 15.92
+      },
+      {
+        "date": "2024-06-28",
+        "price": 1.49,
+        "unitPrice": 11.92
+      },
+      {
+        "date": "2024-06-14",
+        "price": 1.99,
+        "unitPrice": 15.92
+      },
+      {
+        "date": "2024-06-07",
+        "price": 1.49,
+        "unitPrice": 11.92
+      },
+      {
+        "date": "2024-04-28",
+        "price": 1.99,
+        "unitPrice": 15.92
+      },
+      {
+        "date": "2024-04-26",
+        "price": 1.49,
+        "unitPrice": 11.92
+      },
+      {
+        "date": "2024-02-24",
+        "price": 1.99,
+        "unitPrice": 15.92
+      },
+      {
+        "date": "2024-02-16",
+        "price": 1.49,
+        "unitPrice": 11.92
+      },
+      {
+        "date": "2024-01-06",
+        "price": 1.99,
+        "unitPrice": 15.92
+      },
+      {
+        "date": "2024-01-04",
+        "price": 1.49,
+        "unitPrice": 11.92
+      },
+      {
+        "date": "2023-12-15",
+        "price": 1.99,
+        "unitPrice": 15.92
+      },
+      {
+        "date": "2023-12-11",
+        "price": 1.49,
+        "unitPrice": 11.92
+      },
+      {
+        "date": "2023-11-19",
+        "price": 1.99,
+        "unitPrice": 15.92
+      },
+      {
+        "date": "2023-11-15",
+        "price": 1.49,
+        "unitPrice": 11.92
+      },
+      {
+        "date": "2023-10-05",
+        "price": 1.99,
+        "unitPrice": 15.92
+      },
+      {
+        "date": "2023-09-28",
+        "price": 1.49,
+        "unitPrice": 11.92
+      },
+      {
+        "date": "2023-08-27",
+        "price": 1.99,
+        "unitPrice": 15.92
+      },
+      {
+        "date": "2023-08-25",
+        "price": 1.49,
+        "unitPrice": 11.92
+      },
+      {
+        "date": "2023-07-19",
+        "price": 1.99,
+        "unitPrice": 15.92
+      },
+      {
+        "date": "2023-07-14",
+        "price": 1.49,
+        "unitPrice": 11.92
+      },
+      {
+        "date": "2023-06-11",
+        "price": 1.99,
+        "unitPrice": 15.92
+      },
+      {
+        "date": "2023-06-07",
+        "price": 1.49,
+        "unitPrice": 11.92
+      },
+      {
+        "date": "2023-05-06",
+        "price": 1.99,
+        "unitPrice": 15.92
+      },
+      {
+        "date": "2023-04-29",
+        "price": 1.89,
+        "unitPrice": 15.12
+      },
+      {
+        "date": "2023-03-30",
+        "price": 1.99,
+        "unitPrice": 15.92
+      },
+      {
+        "date": "2023-03-23",
+        "price": 1.79,
+        "unitPrice": 14.32
+      },
+      {
+        "date": "2023-03-09",
+        "price": 1.99,
+        "unitPrice": 15.92
+      },
+      {
+        "date": "2023-02-07",
+        "price": 2.09,
+        "unitPrice": 16.72
+      },
+      {
+        "date": "2023-02-02",
+        "price": 1.57,
+        "unitPrice": 12.56
+      },
+      {
+        "date": "2023-01-08",
+        "price": 2.09,
+        "unitPrice": 16.72
+      },
+      {
+        "date": "2023-01-05",
+        "price": 1.57,
+        "unitPrice": 12.56
+      },
+      {
+        "date": "2022-12-19",
+        "price": 2.09,
+        "unitPrice": 16.72
+      },
+      {
+        "date": "2022-12-18",
+        "price": 1.99,
+        "unitPrice": 15.92
+      },
+      {
+        "date": "2022-12-16",
+        "price": 1.49,
+        "unitPrice": 11.92
+      },
+      {
+        "date": "2022-12-15",
+        "price": 1.99,
+        "unitPrice": 15.92
+      },
+      {
+        "date": "2022-11-06",
+        "price": 1.89,
+        "unitPrice": 15.12
+      },
+      {
+        "date": "2022-11-04",
+        "price": 1.42,
+        "unitPrice": 11.36
+      },
+      {
+        "date": "2022-10-27",
+        "price": 1.89,
+        "unitPrice": 15.12
+      },
+      {
+        "date": "2022-10-26",
+        "price": 1.69,
+        "unitPrice": 13.52
+      },
+      {
+        "date": "2022-10-13",
+        "price": 1.19,
+        "unitPrice": 9.52
+      },
+      {
+        "date": "2022-09-13",
+        "price": 1.69,
+        "unitPrice": 13.52
+      },
+      {
+        "date": "2022-09-05",
+        "price": 0.74,
+        "unitPrice": 5.92
+      },
+      {
+        "date": "2022-09-03",
+        "price": 0.99,
+        "unitPrice": 7.92
+      },
+      {
+        "date": "2022-07-14",
+        "price": 1.69,
+        "unitPrice": 13.52
+      },
+      {
+        "date": "2022-07-11",
+        "price": 1.27,
+        "unitPrice": 10.16
+      },
+      {
+        "date": "2022-06-23",
+        "price": 1.69,
+        "unitPrice": 13.52
+      },
+      {
+        "date": "2022-06-09",
+        "price": 0.99,
+        "unitPrice": 7.92
+      },
+      {
+        "date": "2022-06-08",
+        "price": 1.69,
+        "unitPrice": 13.52
+      },
+      {
+        "date": "2022-05-25",
+        "price": 1.49,
+        "unitPrice": 11.92
+      },
+      {
+        "date": "2022-05-23",
+        "price": 1.12,
+        "unitPrice": 8.96
+      },
+      {
+        "date": "2022-03-06",
+        "price": 1.49,
+        "unitPrice": 11.92
+      },
+      {
+        "date": "2022-03-04",
+        "price": 1.12,
+        "unitPrice": 8.96
+      },
+      {
+        "date": "2022-03-03",
+        "price": 1.49,
+        "unitPrice": 11.92
+      },
+      {
+        "date": "2022-01-30",
+        "price": 1.39,
+        "unitPrice": 11.12
+      },
+      {
+        "date": "2022-01-28",
+        "price": 1.04,
+        "unitPrice": 8.32
+      },
+      {
+        "date": "2022-01-09",
+        "price": 1.39,
+        "unitPrice": 11.12
+      },
+      {
+        "date": "2022-01-07",
+        "price": 1.04,
+        "unitPrice": 8.32
+      },
+      {
+        "date": "2021-10-28",
+        "price": 1.39,
+        "unitPrice": 11.12
+      },
+      {
+        "date": "2021-10-14",
+        "price": 0.99,
+        "unitPrice": 7.92
+      },
+      {
+        "date": "2021-05-27",
+        "price": 1.39,
+        "unitPrice": 11.12
+      },
+      {
+        "date": "2021-04-07",
+        "price": 1.49,
+        "unitPrice": 11.92
+      },
+      {
+        "date": "2021-03-18",
+        "price": 0.99,
+        "unitPrice": 7.92
+      },
+      {
+        "date": "2020-07-04",
+        "price": 1.49,
+        "unitPrice": 11.92
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 125,
+    "bio": true,
+    "available": true,
+    "url": "https://shop.billa.at/produkte/ja-natuerlich-mozzarella-minis-00295917"
+  },
+  {
+    "store": "billa",
+    "id": "00-516499",
+    "name": "Ja! Natürlich Mozzarella gerieben",
+    "category": "32",
+    "price": 2.19,
+    "priceHistory": [
+      {
+        "date": "2026-04-12",
+        "price": 2.19,
+        "unitPrice": 14.6
+      },
+      {
+        "date": "2026-04-10",
+        "price": 1.64,
+        "unitPrice": 10.933333333333334
+      },
+      {
+        "date": "2026-03-01",
+        "price": 2.19,
+        "unitPrice": 14.6
+      },
+      {
+        "date": "2026-02-27",
+        "price": 1.64,
+        "unitPrice": 10.933333333333334
+      },
+      {
+        "date": "2025-09-15",
+        "price": 2.19,
+        "unitPrice": 14.6
+      },
+      {
+        "date": "2025-09-08",
+        "price": 1.64,
+        "unitPrice": 10.933333333333334
+      },
+      {
+        "date": "2025-08-11",
+        "price": 2.19,
+        "unitPrice": 14.6
+      },
+      {
+        "date": "2025-08-04",
+        "price": 1.64,
+        "unitPrice": 10.933333333333334
+      },
+      {
+        "date": "2025-08-03",
+        "price": 2.19,
+        "unitPrice": 14.6
+      },
+      {
+        "date": "2025-08-01",
+        "price": 1.64,
+        "unitPrice": 10.933333333333334
+      },
+      {
+        "date": "2025-07-07",
+        "price": 2.19,
+        "unitPrice": 14.6
+      },
+      {
+        "date": "2025-06-30",
+        "price": 1.64,
+        "unitPrice": 10.933333333333334
+      },
+      {
+        "date": "2025-05-11",
+        "price": 2.19,
+        "unitPrice": 14.6
+      },
+      {
+        "date": "2025-05-09",
+        "price": 1.64,
+        "unitPrice": 10.933333333333334
+      },
+      {
+        "date": "2025-04-21",
+        "price": 2.19,
+        "unitPrice": 14.6
+      },
+      {
+        "date": "2025-04-13",
+        "price": 1.64,
+        "unitPrice": 10.933333333333334
+      },
+      {
+        "date": "2025-03-03",
+        "price": 2.19,
+        "unitPrice": 14.6
+      },
+      {
+        "date": "2025-02-24",
+        "price": 1.64,
+        "unitPrice": 10.933333333333334
+      },
+      {
+        "date": "2025-02-02",
+        "price": 2.19,
+        "unitPrice": 14.6
+      },
+      {
+        "date": "2025-01-31",
+        "price": 1.64,
+        "unitPrice": 10.933333333333334
+      },
+      {
+        "date": "2025-01-05",
+        "price": 2.19,
+        "unitPrice": 14.6
+      },
+      {
+        "date": "2025-01-03",
+        "price": 1.64,
+        "unitPrice": 10.933333333333334
+      },
+      {
+        "date": "2024-12-18",
+        "price": 2.19,
+        "unitPrice": 14.6
+      },
+      {
+        "date": "2024-12-13",
+        "price": 2.09,
+        "unitPrice": 13.933333333333332
+      },
+      {
+        "date": "2024-12-08",
+        "price": 1.57,
+        "unitPrice": 10.466666666666667
+      },
+      {
+        "date": "2024-11-03",
+        "price": 2.09,
+        "unitPrice": 13.933333333333332
+      },
+      {
+        "date": "2024-10-31",
+        "price": 1.57,
+        "unitPrice": 10.466666666666667
+      },
+      {
+        "date": "2024-10-22",
+        "price": 2.09,
+        "unitPrice": 13.933333333333332
+      },
+      {
+        "date": "2024-10-17",
+        "price": 1.57,
+        "unitPrice": 10.466666666666667
+      },
+      {
+        "date": "2024-09-09",
+        "price": 2.09,
+        "unitPrice": 13.933333333333332
+      },
+      {
+        "date": "2024-09-02",
+        "price": 1.57,
+        "unitPrice": 10.466666666666667
+      },
+      {
+        "date": "2024-08-12",
+        "price": 2.09,
+        "unitPrice": 13.933333333333332
+      },
+      {
+        "date": "2024-08-05",
+        "price": 1.57,
+        "unitPrice": 10.466666666666667
+      },
+      {
+        "date": "2024-07-05",
+        "price": 2.09,
+        "unitPrice": 13.933333333333332
+      },
+      {
+        "date": "2024-06-28",
+        "price": 1.57,
+        "unitPrice": 10.466666666666667
+      },
+      {
+        "date": "2024-06-14",
+        "price": 2.09,
+        "unitPrice": 13.933333333333332
+      },
+      {
+        "date": "2024-06-07",
+        "price": 1.57,
+        "unitPrice": 10.466666666666667
+      },
+      {
+        "date": "2024-04-28",
+        "price": 2.09,
+        "unitPrice": 13.933333333333332
+      },
+      {
+        "date": "2024-04-26",
+        "price": 1.57,
+        "unitPrice": 10.466666666666667
+      },
+      {
+        "date": "2024-02-24",
+        "price": 2.09,
+        "unitPrice": 13.933333333333332
+      },
+      {
+        "date": "2024-02-16",
+        "price": 1.57,
+        "unitPrice": 10.466666666666667
+      },
+      {
+        "date": "2024-01-06",
+        "price": 2.09,
+        "unitPrice": 13.933333333333332
+      },
+      {
+        "date": "2024-01-04",
+        "price": 1.57,
+        "unitPrice": 10.466666666666667
+      },
+      {
+        "date": "2023-12-27",
+        "price": 2.09,
+        "unitPrice": 13.933333333333332
+      },
+      {
+        "date": "2023-12-15",
+        "price": 1.99,
+        "unitPrice": 13.266666666666666
+      },
+      {
+        "date": "2023-12-11",
+        "price": 1.49,
+        "unitPrice": 9.933333333333334
+      },
+      {
+        "date": "2023-11-19",
+        "price": 1.99,
+        "unitPrice": 13.266666666666666
+      },
+      {
+        "date": "2023-11-15",
+        "price": 1.49,
+        "unitPrice": 9.933333333333334
+      },
+      {
+        "date": "2023-10-05",
+        "price": 1.99,
+        "unitPrice": 13.266666666666666
+      },
+      {
+        "date": "2023-09-28",
+        "price": 1.49,
+        "unitPrice": 9.933333333333334
+      },
+      {
+        "date": "2023-08-27",
+        "price": 1.99,
+        "unitPrice": 13.266666666666666
+      },
+      {
+        "date": "2023-08-25",
+        "price": 1.49,
+        "unitPrice": 9.933333333333334
+      },
+      {
+        "date": "2023-07-19",
+        "price": 1.99,
+        "unitPrice": 13.266666666666666
+      },
+      {
+        "date": "2023-07-14",
+        "price": 1.49,
+        "unitPrice": 9.933333333333334
+      },
+      {
+        "date": "2023-06-11",
+        "price": 1.99,
+        "unitPrice": 13.266666666666666
+      },
+      {
+        "date": "2023-06-07",
+        "price": 1.49,
+        "unitPrice": 9.933333333333334
+      },
+      {
+        "date": "2023-02-07",
+        "price": 1.99,
+        "unitPrice": 13.266666666666666
+      },
+      {
+        "date": "2023-02-02",
+        "price": 1.49,
+        "unitPrice": 9.933333333333334
+      },
+      {
+        "date": "2023-01-08",
+        "price": 1.99,
+        "unitPrice": 13.266666666666666
+      },
+      {
+        "date": "2023-01-05",
+        "price": 1.49,
+        "unitPrice": 9.933333333333334
+      },
+      {
+        "date": "2022-12-18",
+        "price": 1.99,
+        "unitPrice": 13.266666666666666
+      },
+      {
+        "date": "2022-12-16",
+        "price": 1.49,
+        "unitPrice": 9.933333333333334
+      },
+      {
+        "date": "2022-11-09",
+        "price": 1.99,
+        "unitPrice": 13.266666666666666
+      },
+      {
+        "date": "2022-07-14",
+        "price": 1.89,
+        "unitPrice": 12.6
+      },
+      {
+        "date": "2022-07-11",
+        "price": 1.42,
+        "unitPrice": 9.466666666666667
+      },
+      {
+        "date": "2022-06-08",
+        "price": 1.89,
+        "unitPrice": 12.6
+      },
+      {
+        "date": "2022-03-10",
+        "price": 1.69,
+        "unitPrice": 11.266666666666666
+      },
+      {
+        "date": "2022-03-06",
+        "price": 1.59,
+        "unitPrice": 10.6
+      },
+      {
+        "date": "2022-03-04",
+        "price": 1.19,
+        "unitPrice": 7.933333333333332
+      },
+      {
+        "date": "2022-01-30",
+        "price": 1.59,
+        "unitPrice": 10.6
+      },
+      {
+        "date": "2022-01-28",
+        "price": 1.19,
+        "unitPrice": 7.933333333333332
+      },
+      {
+        "date": "2022-01-09",
+        "price": 1.59,
+        "unitPrice": 10.6
+      },
+      {
+        "date": "2022-01-07",
+        "price": 1.19,
+        "unitPrice": 7.933333333333332
+      },
+      {
+        "date": "2021-11-29",
+        "price": 1.59,
+        "unitPrice": 10.6
+      },
+      {
+        "date": "2021-11-28",
+        "price": 1.65,
+        "unitPrice": 11
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 150,
+    "bio": true,
+    "available": true,
+    "url": "https://shop.billa.at/produkte/ja-natuerlich-mozzarella-gerieben-00516499"
+  },
+  {
+    "store": "hofer",
+    "id": 544929,
+    "name": "MILFINA Mozzarella gerieben 250g",
+    "category": "",
+    "price": 2.29,
+    "priceHistory": [
+      {
+        "date": "2023-11-11",
+        "price": 2.29,
+        "unitPrice": 9.16
+      },
+      {
+        "date": "2023-10-06",
+        "price": 1.99,
+        "unitPrice": 7.96
+      },
+      {
+        "date": "2023-10-03",
+        "price": 1.69,
+        "unitPrice": 6.76
+      },
+      {
+        "date": "2023-05-18",
+        "price": 2.29,
+        "unitPrice": 9.16
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 250,
+    "bio": false,
+    "available": false,
+    "url": "https://www.roksh.at/hofer/produkte/geriebener-kase/MILFINA-Mozzarella-gerieben-250-g"
+  },
+  {
+    "store": "mpreis",
+    "id": "241733",
+    "name": "Jeden Tag Mozzarella",
+    "category": "33",
+    "price": 0.99,
+    "priceHistory": [
+      {
+        "date": "2023-05-26",
+        "price": 0.99,
+        "unitPrice": 7.92
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 125,
+    "bio": false,
+    "available": false,
+    "url": "https://www.mpreis.at/shop/p/241733"
+  },
+  {
+    "store": "mpreis",
+    "id": "241732",
+    "name": "Jeden Tag Mozzarella Minis",
+    "category": "33",
+    "price": 1.29,
+    "priceHistory": [
+      {
+        "date": "2023-06-30",
+        "price": 1.29,
+        "unitPrice": 10.32
+      },
+      {
+        "date": "2023-06-05",
+        "price": 1.39,
+        "unitPrice": 11.12
+      },
+      {
+        "date": "2023-05-26",
+        "price": 1.29,
+        "unitPrice": 10.32
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 125,
+    "bio": false,
+    "available": false,
+    "url": "https://www.mpreis.at/shop/p/241732"
+  },
+  {
+    "store": "mpreis",
+    "id": "241734",
+    "name": "Jeden Tag Mozzarella leicht",
+    "category": "33",
+    "price": 0.99,
+    "priceHistory": [
+      {
+        "date": "2023-05-26",
+        "price": 0.99,
+        "unitPrice": 7.92
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 125,
+    "bio": false,
+    "available": false,
+    "url": "https://www.mpreis.at/shop/p/241734"
+  },
+  {
+    "store": "spar",
+    "id": "2020003813962",
+    "name": "S-BUDGET Back Mozzarella Sticks mit Tomaten-Paprika-Dip 14 Stück à ca. 18g",
+    "category": "33",
+    "price": 2.99,
+    "priceHistory": [
+      {
+        "date": "2022-11-23",
+        "price": 2.99,
+        "unitPrice": 9.966666666666667
+      },
+      {
+        "date": "2022-09-30",
+        "price": 2.69,
+        "unitPrice": 8.966666666666667
+      },
+      {
+        "date": "2021-04-24",
+        "price": 2.49,
+        "unitPrice": 8.3
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 300,
+    "bio": false,
+    "available": true,
+    "url": "https://www.interspar.at/shop/lebensmittel/p/2020003813962"
+  },
+  {
+    "store": "spar",
+    "id": "2020001221639",
+    "name": "S-BUDGET Mini-Mozzarella",
+    "category": "33",
+    "price": 1.29,
+    "priceHistory": [
+      {
+        "date": "2023-01-13",
+        "price": 1.29,
+        "unitPrice": 10.32
+      },
+      {
+        "date": "2022-11-08",
+        "price": 1.49,
+        "unitPrice": 11.92
+      },
+      {
+        "date": "2022-10-04",
+        "price": 1.29,
+        "unitPrice": 10.32
+      },
+      {
+        "date": "2022-09-30",
+        "price": 1.09,
+        "unitPrice": 8.72
+      },
+      {
+        "date": "2022-03-16",
+        "price": 0.99,
+        "unitPrice": 7.92
+      },
+      {
+        "date": "2021-10-17",
+        "price": 0.89,
+        "unitPrice": 7.12
+      },
+      {
+        "date": "2021-06-02",
+        "price": 0.69,
+        "unitPrice": 5.52
+      },
+      {
+        "date": "2020-11-04",
+        "price": 0.89,
+        "unitPrice": 7.12
+      },
+      {
+        "date": "2020-04-01",
+        "price": 0.99,
+        "unitPrice": 7.92
+      },
+      {
+        "date": "2019-10-23",
+        "price": 0.89,
+        "unitPrice": 7.12
+      },
+      {
+        "date": "2017-10-16",
+        "price": 0.99,
+        "unitPrice": 7.92
+      },
+      {
+        "date": "2017-04-20",
+        "price": 0.95,
+        "unitPrice": 7.6
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 125,
+    "bio": false,
+    "available": true,
+    "url": "https://www.interspar.at/shop/lebensmittel/p/2020001221639"
+  },
+  {
+    "store": "spar",
+    "id": "2686653",
+    "name": "S-BUDGET Mozzarella",
+    "category": "33",
+    "price": 0.79,
+    "priceHistory": [
+      {
+        "date": "2026-02-17",
+        "price": 0.79,
+        "unitPrice": 6.32
+      },
+      {
+        "date": "2023-12-12",
+        "price": 0.99,
+        "unitPrice": 7.92
+      },
+      {
+        "date": "2023-10-05",
+        "price": 0.89,
+        "unitPrice": 7.12
+      },
+      {
+        "date": "2022-11-17",
+        "price": 0.99,
+        "unitPrice": 7.92
+      },
+      {
+        "date": "2022-11-11",
+        "price": 0.89,
+        "unitPrice": 7.12
+      },
+      {
+        "date": "2022-11-08",
+        "price": 0.99,
+        "unitPrice": 7.92
+      },
+      {
+        "date": "2022-09-30",
+        "price": 0.89,
+        "unitPrice": 7.12
+      },
+      {
+        "date": "2022-03-16",
+        "price": 0.69,
+        "unitPrice": 5.52
+      },
+      {
+        "date": "2021-10-13",
+        "price": 0.65,
+        "unitPrice": 5.2
+      },
+      {
+        "date": "2021-04-07",
+        "price": 0.59,
+        "unitPrice": 4.72
+      },
+      {
+        "date": "2020-12-19",
+        "price": 0.65,
+        "unitPrice": 5.2
+      },
+      {
+        "date": "2020-07-31",
+        "price": 0.75,
+        "unitPrice": 6
+      },
+      {
+        "date": "2019-10-19",
+        "price": 0.65,
+        "unitPrice": 5.2
+      },
+      {
+        "date": "2017-10-16",
+        "price": 0.75,
+        "unitPrice": 6
+      },
+      {
+        "date": "2017-04-20",
+        "price": 0.65,
+        "unitPrice": 5.2
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 125,
+    "bio": false,
+    "available": true,
+    "url": "https://www.interspar.at/shop/lebensmittel/p/2686653"
+  },
+  {
+    "store": "spar",
+    "id": "2020003329494",
+    "name": "S-BUDGET Mozzarella gerieben",
+    "category": "33",
+    "price": 1.99,
+    "priceHistory": [
+      {
+        "date": "2025-07-22",
+        "price": 1.99,
+        "unitPrice": 7.96
+      },
+      {
+        "date": "2025-05-14",
+        "price": 2.29,
+        "unitPrice": 9.16
+      },
+      {
+        "date": "2024-09-25",
+        "price": 2.39,
+        "unitPrice": 9.56
+      },
+      {
+        "date": "2023-11-14",
+        "price": 2.29,
+        "unitPrice": 9.16
+      },
+      {
+        "date": "2023-10-05",
+        "price": 1.99,
+        "unitPrice": 7.96
+      },
+      {
+        "date": "2023-07-11",
+        "price": 2.29,
+        "unitPrice": 9.16
+      },
+      {
+        "date": "2023-01-13",
+        "price": 2.49,
+        "unitPrice": 9.96
+      },
+      {
+        "date": "2022-11-08",
+        "price": 1.99,
+        "unitPrice": 7.96
+      },
+      {
+        "date": "2022-09-30",
+        "price": 2.19,
+        "unitPrice": 8.76
+      },
+      {
+        "date": "2022-02-08",
+        "price": 1.89,
+        "unitPrice": 7.56
+      },
+      {
+        "date": "2021-10-31",
+        "price": 1.79,
+        "unitPrice": 7.16
+      },
+      {
+        "date": "2021-05-13",
+        "price": 1.49,
+        "unitPrice": 5.96
+      },
+      {
+        "date": "2021-01-06",
+        "price": 1.79,
+        "unitPrice": 7.16
+      },
+      {
+        "date": "2020-09-22",
+        "price": 1.59,
+        "unitPrice": 6.36
+      },
+      {
+        "date": "2020-03-31",
+        "price": 1.79,
+        "unitPrice": 7.16
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 250,
+    "bio": false,
+    "available": true,
+    "url": "https://www.interspar.at/shop/lebensmittel/p/2020003329494"
+  },
+  {
+    "store": "spar",
+    "id": "2020005709683",
+    "name": "S-BUDGET Mozzarella light",
+    "category": "33",
+    "price": 0.79,
+    "priceHistory": [
+      {
+        "date": "2026-02-17",
+        "price": 0.79,
+        "unitPrice": 6.32
+      },
+      {
+        "date": "2025-05-14",
+        "price": 0.99,
+        "unitPrice": 7.92
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 125,
+    "bio": false,
+    "available": true,
+    "url": "https://www.interspar.at/shop/lebensmittel/p/2020005709683"
+  },
+  {
+    "store": "spar",
+    "id": "2020004822789",
+    "name": "S-BUDGET Pizzaschifferl Tomaten-Mozzarella",
+    "category": "A0",
+    "price": 1.99,
+    "priceHistory": [
+      {
+        "date": "2023-10-15",
+        "price": 1.99,
+        "unitPrice": 1.99
+      }
+    ],
+    "isWeighted": false,
+    "unit": "stk",
+    "quantity": 1,
+    "bio": false,
+    "available": true,
+    "url": "https://www.interspar.at/shop/lebensmittel/p/2020004822789"
+  },
+  {
+    "store": "unimarkt",
+    "id": "4085",
+    "name": "Jeden Tag Mozzarella 45% Fett",
+    "category": "33",
+    "price": 1.09,
+    "priceHistory": [
+      {
+        "date": "2024-01-15",
+        "price": 1.09,
+        "unitPrice": 8.72
+      },
+      {
+        "date": "2023-10-16",
+        "price": 0.99,
+        "unitPrice": 7.92
+      },
+      {
+        "date": "2023-06-22",
+        "price": 1.09,
+        "unitPrice": 8.72
+      },
+      {
+        "date": "2023-05-29",
+        "price": 0.99,
+        "unitPrice": 7.92
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 125,
+    "bio": false,
+    "available": false,
+    "url": "https://shop.unimarkt.at//Jeden-Tag-Mozzarella-45-Fett-4085"
+  },
+  {
+    "store": "unimarkt",
+    "id": "84502",
+    "name": "Jeden Tag Mozzarella gerieben 45%",
+    "category": "33",
+    "price": 2.49,
+    "priceHistory": [
+      {
+        "date": "2024-01-15",
+        "price": 2.49,
+        "unitPrice": 9.96
+      },
+      {
+        "date": "2023-10-16",
+        "price": 2.19,
+        "unitPrice": 8.76
+      },
+      {
+        "date": "2023-07-17",
+        "price": 2.49,
+        "unitPrice": 9.96
+      },
+      {
+        "date": "2023-06-22",
+        "price": 2.79,
+        "unitPrice": 11.16
+      },
+      {
+        "date": "2023-05-29",
+        "price": 2.49,
+        "unitPrice": 9.96
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 250,
+    "bio": false,
+    "available": false,
+    "url": "https://shop.unimarkt.at//Jeden-Tag-Mozzarella-gerieben-45-84502"
+  }
+]
