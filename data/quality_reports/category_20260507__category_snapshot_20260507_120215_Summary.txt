@@ -1,0 +1,18 @@
+Neueste Datei: C:\Users\Tobias\OneDrive\Dokumente\Projekt Preisnachlass\data\raw\category_snapshot_20260507_120215.csv
+Rows: 2307
+Cols: 20
+Report-Ordner: data/quality_reports
+Plot-PDF: data/quality_reports/category_20260507__category_snapshot_20260507_120215.pdf
+
+Top 5 Missing-Felder:
+  - error_message: 100.0%
+  - previous_price_raw: 95.8%
+  - previous_price_eur: 95.8%
+  - discount_raw: 91.9%
+  - brand: 88.8%
+
+Rows pro Shop:
+  - MPreis: 946
+  - Hofer: 652
+  - Billa: 450
+  - Lidl: 259
